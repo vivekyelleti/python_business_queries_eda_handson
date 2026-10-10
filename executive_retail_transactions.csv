@@ -1,0 +1,1801 @@
+Transaction_ID,Transaction_Date,Store,Region,Product_Category,Customer_Segment,Sales_Channel,Quantity,Discount_Pct,Revenue_INR,Profit_INR,Profit_Margin_Pct
+TXN100001,2025-02-02,Bengaluru Square,South,Beauty & Personal Care,Consumer,Store,2,25.5,2322.36,257.62,11.1
+TXN100002,2025-10-10,Noida Hub,North,Home & Kitchen,Small Business,Online,2,9.5,9189.96,1927.81,21.0
+TXN100003,2025-08-27,Noida Hub,North,Grocery,Consumer,Store,4,23.0,5816.07,-9.96,-0.2
+TXN100004,2025-06-10,Bhubaneswar Plaza,East,Grocery,Small Business,Store,2,6.7,1399.29,38.75,2.8
+TXN100005,2025-06-08,Kolkata Central,East,Home & Kitchen,Consumer,Store,1,3.8,3020.89,317.87,10.5
+TXN100006,2025-11-10,Kochi Point,South,Grocery,Small Business,Store,1,19.5,2074.43,-105.78,-5.1
+TXN100007,2025-02-01,Noida Hub,North,Home & Kitchen,Small Business,Online,6,6.7,18694.71,2839.16,15.2
+TXN100008,2025-09-12,Bhubaneswar Plaza,East,Grocery,Consumer,Online,4,19.4,4680.64,97.5,2.1
+TXN100009,2025-03-15,Bhopal Central,Central,Home & Kitchen,Consumer,Online,2,19.7,6680.1,901.25,13.5
+TXN100010,2025-02-04,Surat Point,West,Electronics,Small Business,Store,1,6.7,6758.37,524.36,7.8
+TXN100011,2025-07-12,Kolkata Central,East,Electronics,Consumer,Store,7,15.0,45729.86,1426.17,3.1
+TXN100012,2025-12-23,Chandigarh Point,North,Beauty & Personal Care,Consumer,Online,1,6.0,1746.94,360.03,20.6
+TXN100013,2025-09-26,Chennai Central,South,Home & Kitchen,Consumer,Online,1,7.4,4602.32,846.56,18.4
+TXN100014,2025-10-05,Kochi Point,South,Beauty & Personal Care,Premium,Store,2,3.7,8565.79,2143.1,25.0
+TXN100015,2025-09-19,Mumbai Central,West,Beauty & Personal Care,Corporate,Store,1,8.3,2955.03,741.44,25.1
+TXN100016,2025-10-14,Bhopal Central,Central,Grocery,Consumer,Online,5,18.3,6214.0,118.05,1.9
+TXN100017,2025-07-07,Nagpur Hub,Central,Furniture,Premium,Online,4,6.2,65597.34,6326.88,9.6
+TXN100018,2025-02-16,Nagpur Hub,Central,Electronics,Corporate,Store,7,2.7,51795.65,4351.44,8.4
+TXN100019,2025-11-03,Indore Plaza,Central,Grocery,Consumer,Online,1,15.3,1327.23,-2.63,-0.2
+TXN100020,2025-06-14,Bhopal Central,Central,Furniture,Consumer,Online,4,3.8,30418.6,3610.54,11.9
+TXN100021,2025-07-02,Chandigarh Point,North,Beauty & Personal Care,Consumer,Online,3,28.0,5234.73,536.42,10.2
+TXN100022,2025-05-16,Noida Hub,North,Electronics,Consumer,Store,1,11.5,9660.86,,2.7
+TXN100023,2025-03-08,Kochi Point,South,Electronics,Small Business,Store,2,2.4,25570.83,4299.06,16.8
+TXN100024,2025-12-05,Guwahati Hub,East,Furniture,Consumer,Online,1,12.7,15905.17,414.49,2.6
+TXN100025,2025-10-13,Chandigarh Point,North,Furniture,Small Business,Store,3,19.5,32635.71,840.48,2.6
+TXN100026,2025-08-24,Nagpur Hub,Central,Furniture,Consumer,Store,1,7.0,8037.01,466.85,5.8
+TXN100027,2025-05-27,Ahmedabad Hub,West,Apparel,Consumer,Store,6,19.8,12061.38,1239.24,10.3
+TXN100028,2025-10-28,Bhubaneswar Plaza,East,Grocery,Consumer,Store,5,10.4,4043.16,279.28,6.9
+TXN100029,2025-07-19,Delhi Central,North,Apparel,Corporate,Online,4,7.1,7924.63,1308.79,16.5
+TXN100030,2025-06-11,Chennai Central,South,Beauty & Personal Care,Small Business,Store,1,9.8,2414.23,639.16,26.5
+TXN100031,2025-06-14,Jaipur Plaza,North,Apparel,Consumer,Store,3,9.0,4517.27,707.79,15.7
+TXN100032,2025-03-24,Nagpur Hub,Central,Apparel,Consumer,Store,2,2.3,3332.84,755.19,22.7
+TXN100033,2025-02-03,Bhubaneswar Plaza,East,Grocery,Consumer,Store,2,2.3,2240.41,171.39,7.6
+TXN100034,2025-07-22,Ahmedabad Hub,West,Electronics,Small Business,Online,1,5.4,9268.17,1174.08,12.7
+TXN100035,2025-11-21,Bengaluru Square,South,Grocery,Consumer,Online,1,1.9,2235.64,170.88,7.6
+TXN100036,2025-01-24,Chennai Central,South,Beauty & Personal Care,Small Business,Store,1,7.3,2033.02,440.76,21.7
+TXN100037,2025-11-10,Hyderabad Hub,South,Apparel,Consumer,Store,4,7.6,9346.07,1424.04,15.2
+TXN100038,2025-10-30,Surat Point,West,Furniture,Consumer,Store,1,8.4,16398.35,1765.66,10.8
+TXN100039,2025-04-12,Pune Plaza,West,Grocery,Small Business,Store,2,8.5,4080.75,104.17,2.6
+TXN100040,2025-08-19,Delhi Central,North,Home & Kitchen,Corporate,Online,3,16.9,9190.86,1475.35,16.1
+TXN100041,2025-03-02,Indore Plaza,Central,Apparel,Consumer,Online,5,10.6,11058.59,2494.03,22.6
+TXN100042,2025-10-04,Delhi Central,North,Apparel,Premium,Store,4,10.9,13814.74,2487.18,18.0
+TXN100043,2025-09-13,Indore Plaza,Central,Beauty & Personal Care,Consumer,Store,4,22.1,4595.19,612.9,13.3
+TXN100044,2025-05-10,Jaipur Plaza,North,Apparel,Consumer,Store,6,17.0,21410.49,2925.47,13.7
+TXN100045,2025-01-25,Kochi Point,South,Apparel,Consumer,Store,4,14.0,8675.16,1457.73,16.8
+TXN100046,2025-12-21,Nagpur Hub,Central,Furniture,Corporate,Store,1,12.5,13213.07,441.33,3.3
+TXN100047,2025-06-12,Delhi Central,North,Electronics,Small Business,Store,3,23.7,23972.05,-1116.91,-4.7
+TXN100048,2025-11-22,Bengaluru Square,South,Beauty & Personal Care,Consumer,Online,3,7.3,8420.4,1564.42,18.6
+TXN100049,2025-09-05,Kolkata Central,East,Apparel,Premium,Store,1,7.7,2870.66,607.04,21.1
+TXN100050,2025-10-12,Bengaluru Square,South,Grocery,Corporate,Store,3,2.1,5728.49,-59.43,-1.0
+TXN100051,2025-10-05,Surat Point,West,Apparel,Premium,Online,3,10.9,16533.17,3212.57,19.4
+TXN100052,2025-03-13,Bhopal Central,Central,Electronics,Small Business,Online,1,3.8,6061.18,869.78,14.4
+TXN100053,2025-05-13,Bhopal Central,Central,Home & Kitchen,Premium,Online,5,19.9,33294.48,3565.8,10.7
+TXN100054,2025-06-20,Kochi Point,South,Furniture,Corporate,Online,1,13.1,8313.39,92.76,1.1
+TXN100055,2025-07-01,Guwahati Hub,East,Home & Kitchen,Consumer,Store,4,2.5,12526.96,2221.06,17.7
+TXN100056,2025-01-16,Bengaluru Square,South,Apparel,Consumer,Online,3,6.3,4376.2,975.94,22.3
+TXN100057,2025-07-19,Chennai Central,South,Furniture,Corporate,Store,1,25.5,8234.45,362.94,4.4
+TXN100058,2025-02-26,Jaipur Plaza,North,Electronics,Consumer,Online,2,13.5,21122.93,2029.45,9.6
+TXN100059,2025-09-29,Indore Plaza,Central,Home & Kitchen,Small Business,Online,3,29.6,13129.64,1166.07,8.9
+TXN100060,2025-09-07,Nagpur Hub,Central,Furniture,Consumer,Online,2,33.5,19421.96,-1996.41,-10.3
+TXN100061,2025-12-03,Pune Plaza,West,Electronics,Small Business,Online,1,5.4,8435.48,1496.76,17.7
+TXN100062,2025-09-29,Kolkata Central,East,Home & Kitchen,Consumer,Store,7,12.0,17098.29,2082.11,12.2
+TXN100063,2025-05-14,Bhubaneswar Plaza,East,Grocery,Premium,Online,2,2.6,4431.49,423.35,9.6
+TXN100064,2025-12-20,Bhubaneswar Plaza,East,Grocery,Consumer,Online,2,0.5,3524.67,377.97,10.7
+TXN100065,2025-05-30,Bhubaneswar Plaza,East,Furniture,Consumer,Online,2,13.1,13546.86,1111.72,8.2
+TXN100066,2025-04-29,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,3,5.5,10194.99,1612.42,15.8
+TXN100067,2025-11-27,Chandigarh Point,North,Grocery,Small Business,Store,1,3.1,1427.46,69.41,4.9
+TXN100068,2025-05-16,Chandigarh Point,North,Furniture,Small Business,Store,3,8.2,57592.27,2014.93,3.5
+TXN100069,2025-01-28,Bhopal Central,Central,Grocery,Premium,Store,3,4.7,5032.16,475.88,9.5
+TXN100070,2025-06-21,Bhubaneswar Plaza,East,Furniture,Consumer,Store,1,12.4,8273.87,320.67,3.9
+TXN100071,2025-10-18,Nagpur Hub,Central,Grocery,Small Business,Store,6,11.1,9598.51,-265.37,-2.8
+TXN100072,2025-03-11,Noida Hub,North,Electronics,Consumer,Store,2,9.2,21885.89,2542.42,11.6
+TXN100073,2025-06-18,Bhubaneswar Plaza,East,Electronics,Corporate,Store,5,15.3,33197.71,652.25,2.0
+TXN100074,2025-02-17,Delhi Central,North,Grocery,Consumer,Online,3,13.9,4829.31,213.61,4.4
+TXN100075,2025-09-08,Chennai Central,South,Home & Kitchen,Consumer,Store,3,5.8,8732.35,1227.29,14.1
+TXN100076,2025-06-23,Jaipur Plaza,North,Electronics,Corporate,Store,3,5.5,45939.19,5093.02,11.1
+TXN100077,2025-05-01,Chandigarh Point,North,Furniture,Small Business,Store,2,7.5,15040.19,609.01,4.0
+TXN100078,2025-03-24,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,4,2.9,6517.26,2021.14,31.0
+TXN100079,2025-07-26,Chennai Central,South,Beauty & Personal Care,Premium,Store,4,2.2,19194.43,5291.1,27.6
+TXN100080,2025-09-02,Mumbai Central,West,Apparel,Corporate,Online,5,4.6,22298.66,6039.29,27.1
+TXN100081,2025-12-10,Kolkata Central,East,Furniture,Consumer,Store,3,6.2,35711.78,4589.42,12.9
+TXN100082,2025-06-09,Chennai Central,South,Grocery,Corporate,Store,4,17.4,4754.77,-51.98,-1.1
+TXN100083,2025-02-28,Bhubaneswar Plaza,East,Furniture,Consumer,Store,4,11.6,26416.32,1828.37,6.9
+TXN100084,2025-10-31,Chandigarh Point,North,Electronics,Consumer,Store,1,8.7,13523.52,1035.39,7.7
+TXN100085,2025-08-18,Nagpur Hub,Central,Grocery,Small Business,Store,5,3.5,8422.26,987.34,11.7
+TXN100086,2025-09-13,Mumbai Central,West,Apparel,Consumer,Store,1,2.9,3547.46,669.43,18.9
+TXN100087,2025-02-05,Ahmedabad Hub,West,Grocery,Consumer,Store,3,1.4,4421.02,377.95,8.5
+TXN100088,2025-04-25,Kolkata Central,East,Apparel,Small Business,Online,3,6.0,6782.12,1411.39,20.8
+TXN100089,2025-10-08,Delhi Central,North,Grocery,Consumer,Store,1,8.5,1831.3,122.07,6.7
+TXN100090,2025-10-31,Indore Plaza,Central,Grocery,Small Business,Store,2,15.1,3210.87,-138.73,-4.3
+TXN100091,2025-06-08,Bengaluru Square,South,Home & Kitchen,Small Business,Store,2,2.9,9015.46,1410.11,15.6
+TXN100092,2025-10-21,Noida Hub,North,Home & Kitchen,Consumer,Online,2,6.0,5903.5,1235.83,20.9
+TXN100093,2025-11-04,Hyderabad Hub,South,Grocery,Corporate,Store,5,6.9,14592.74,569.73,3.9
+TXN100094,2025-05-22,Pune Plaza,West,Apparel,Consumer,Store,3,11.6,8294.7,945.24,11.4
+TXN100095,2025-11-24,Ahmedabad Hub,West,Furniture,Corporate,Store,4,19.1,53333.95,-270.49,-0.5
+TXN100096,2025-04-16,Pune Plaza,West,Electronics,Consumer,Online,2,21.8,21100.04,748.71,3.5
+TXN100097,2025-03-29,Surat Point,West,Home & Kitchen,Premium,Store,4,6.1,29254.49,5079.43,17.4
+TXN100098,2025-09-07,Delhi Central,North,Furniture,Consumer,Online,1,6.1,11595.02,1102.19,9.5
+TXN100099,2025-08-21,Bhopal Central,Central,Grocery,Small Business,Online,2,8.4,3588.52,284.36,7.9
+TXN100100,2025-02-21,Bhubaneswar Plaza,East,Grocery,Consumer,Store,4,11.0,5063.9,0.03,0.0
+TXN100101,2025-10-31,Pune Plaza,West,Furniture,Consumer,Store,3,28.0,32007.89,-1912.04,-6.0
+TXN100102,2025-03-14,Jaipur Plaza,North,Electronics,Consumer,Online,1,5.7,7906.92,1360.78,17.2
+TXN100103,2025-10-21,Bhopal Central,Central,Grocery,Corporate,Store,3,24.5,7938.57,-604.18,-7.6
+TXN100104,2025-01-03,Hyderabad Hub,South,Beauty & Personal Care,Premium,Store,3,5.1,6986.79,1602.07,22.9
+TXN100105,2025-10-18,Chandigarh Point,North,Apparel,Consumer,Online,4,9.7,12773.61,1815.09,14.2
+TXN100106,2025-10-15,Kolkata Central,East,Grocery,Consumer,Online,4,13.6,4766.86,123.37,2.6
+TXN100107,2025-10-12,Noida Hub,North,Electronics,Consumer,Store,3,6.3,32459.57,4157.25,12.8
+TXN100108,2025-08-31,Chandigarh Point,North,Apparel,Consumer,Store,5,0.9,17461.64,2794.01,16.0
+TXN100109,2025-06-22,Ahmedabad Hub,West,Electronics,Small Business,Store,2,2.8,19786.17,1980.8,10.0
+TXN100110,2025-09-15,Bengaluru Square,South,Apparel,Premium,Store,4,1.1,21020.92,3747.64,17.8
+TXN100111,2025-04-12,Bhopal Central,Central,Home & Kitchen,Small Business,Store,1,2.5,4685.02,1016.27,21.7
+TXN100112,2025-10-12,Kochi Point,South,Grocery,Consumer,Store,4,1.8,5504.95,93.93,1.7
+TXN100113,2025-07-22,Surat Point,West,Grocery,Consumer,Store,4,11.0,7494.52,181.37,2.4
+TXN100114,2025-06-17,Bhubaneswar Plaza,East,Electronics,Small Business,Online,3,14.4,28017.13,2726.21,9.7
+TXN100115,2025-07-04,Pune Plaza,West,Electronics,Consumer,Online,7,2.1,56511.15,9511.48,16.8
+TXN100116,2025-07-27,Guwahati Hub,East,Grocery,Corporate,Online,4,13.5,7579.64,105.18,1.4
+TXN100117,2025-01-14,Kolkata Central,East,Beauty & Personal Care,Consumer,Store,2,3.2,2360.7,554.68,23.5
+TXN100118,2025-02-21,Bhopal Central,Central,Furniture,Consumer,Store,2,6.7,17902.45,1607.04,9.0
+TXN100119,2025-03-31,Kochi Point,South,Apparel,Small Business,Store,5,13.1,11783.01,1766.8,15.0
+TXN100120,2025-02-11,Delhi Central,North,Apparel,Consumer,Online,1,19.9,2369.2,126.43,5.3
+TXN100121,2025-06-10,Surat Point,West,Electronics,Premium,Store,1,3.6,13083.95,2257.7,17.3
+TXN100122,2025-09-01,Indore Plaza,Central,Electronics,Consumer,Online,2,7.9,19521.85,2736.67,14.0
+TXN100123,2025-08-27,Chandigarh Point,North,Grocery,Consumer,Store,2,2.0,3250.75,265.08,8.2
+TXN100124,2025-06-21,Kolkata Central,East,Apparel,Consumer,Online,3,12.2,5074.71,491.15,9.7
+TXN100125,2025-11-09,Nagpur Hub,Central,Grocery,Consumer,Store,4,3.5,10183.88,638.23,6.3
+TXN100126,2025-07-26,Mumbai Central,West,Home & Kitchen,Corporate,Online,2,9.6,8471.52,1143.78,13.5
+TXN100127,2025-01-29,Bhopal Central,Central,Home & Kitchen,Consumer,Store,5,11.5,10496.54,956.67,9.1
+TXN100128,2025-10-07,Guwahati Hub,East,Home & Kitchen,Corporate,Store,2,3.9,13459.01,2085.36,15.5
+TXN100129,2025-07-29,Ahmedabad Hub,West,Beauty & Personal Care,Small Business,Store,3,9.2,3473.45,691.56,19.9
+TXN100130,2025-08-20,Kochi Point,South,Home & Kitchen,Consumer,Online,2,16.1,10735.39,1168.88,10.9
+TXN100131,2025-07-26,Bhopal Central,Central,Home & Kitchen,Consumer,Store,1,3.3,3613.56,760.53,21.0
+TXN100132,2025-07-22,Bengaluru Square,South,Home & Kitchen,Consumer,Store,3,6.4,7690.94,1338.69,17.4
+TXN100133,2025-02-03,Ahmedabad Hub,West,Home & Kitchen,Small Business,Store,1,1.5,3769.94,672.06,17.8
+TXN100134,2025-07-24,Kochi Point,South,Home & Kitchen,Corporate,Store,2,7.2,6477.58,897.21,13.9
+TXN100135,2025-10-18,Bhubaneswar Plaza,East,Beauty & Personal Care,Consumer,Store,3,8.9,5731.36,1028.7,17.9
+TXN100136,2025-04-21,Surat Point,West,Grocery,Corporate,Store,1,7.7,1323.4,50.7,3.8
+TXN100137,2025-08-09,Guwahati Hub,East,Apparel,Corporate,Store,1,10.7,3031.17,504.81,16.7
+TXN100138,2025-01-12,Nagpur Hub,Central,Grocery,Consumer,Store,6,10.5,6007.64,-39.09,-0.7
+TXN100139,2025-05-07,Hyderabad Hub,South,Home & Kitchen,Consumer,Online,5,6.0,17684.66,4229.02,23.9
+TXN100140,2025-06-09,Ahmedabad Hub,West,Grocery,Premium,Store,6,11.4,15119.5,675.1,4.5
+TXN100141,2025-12-25,Hyderabad Hub,South,Home & Kitchen,Consumer,Online,1,8.1,5436.66,428.0,7.9
+TXN100142,2025-03-20,Hyderabad Hub,South,Home & Kitchen,Consumer,Store,2,10.4,10408.46,1496.72,14.4
+TXN100143,2025-04-11,Bhubaneswar Plaza,East,Beauty & Personal Care,Consumer,Store,3,4.1,3987.01,1004.15,25.2
+TXN100144,2025-05-30,Jaipur Plaza,North,Furniture,Corporate,Online,3,17.3,37015.65,1263.06,3.4
+TXN100145,2025-12-29,Noida Hub,North,Apparel,Consumer,Store,1,15.0,2096.62,268.05,12.8
+TXN100146,2025-11-08,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,2,4.7,10729.55,1865.94,17.4
+TXN100147,2025-01-13,Surat Point,West,Beauty & Personal Care,Consumer,Online,4,0.9,6093.22,1800.47,29.5
+TXN100148,2025-03-27,Surat Point,West,Beauty & Personal Care,Small Business,Online,1,4.6,2033.94,597.15,29.4
+TXN100149,2025-10-27,Jaipur Plaza,North,Apparel,Consumer,Store,2,6.2,4790.9,705.65,14.7
+TXN100150,2025-01-22,Bengaluru Square,South,Apparel,Premium,Store,1,9.0,3969.75,626.29,15.8
+TXN100151,2025-11-09,Jaipur Plaza,North,Furniture,Consumer,Store,2,8.2,24467.79,2432.15,9.9
+TXN100152,2025-04-13,Pune Plaza,West,Beauty & Personal Care,Consumer,Online,3,18.2,5809.89,1065.39,18.3
+TXN100153,2025-12-01,Bhopal Central,Central,Furniture,Premium,Online,5,22.5,73764.6,2946.44,4.0
+TXN100154,2025-04-18,Bengaluru Square,South,Home & Kitchen,Small Business,Online,1,11.9,3760.28,961.81,25.6
+TXN100155,2025-06-08,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,5,14.2,19555.67,1954.91,10.0
+TXN100156,2025-08-30,Chandigarh Point,North,Grocery,Small Business,Store,3,9.9,3462.43,-29.5,-0.9
+TXN100157,2025-02-16,Hyderabad Hub,South,Furniture,Corporate,Store,2,10.6,30812.71,1008.17,3.3
+TXN100158,2025-07-23,Noida Hub,North,Furniture,Consumer,Online,1,8.6,8937.2,880.23,9.8
+TXN100159,2025-07-04,Bengaluru Square,South,Home & Kitchen,Small Business,Store,1,7.6,4718.46,950.27,20.1
+TXN100160,2025-10-14,Ahmedabad Hub,West,Grocery,Small Business,Store,4,4.2,8432.97,1249.9,14.8
+TXN100161,2025-12-30,Bhopal Central,Central,Electronics,Consumer,Online,1,11.0,13415.32,1413.55,10.5
+TXN100162,2025-08-31,Chandigarh Point,North,Home & Kitchen,Corporate,Store,3,10.4,16377.96,2581.14,15.8
+TXN100163,2025-05-30,Guwahati Hub,East,Furniture,Consumer,Online,1,6.8,9273.38,455.33,4.9
+TXN100164,2025-05-29,Surat Point,West,Home & Kitchen,Consumer,Store,2,2.6,7214.82,730.55,10.1
+TXN100165,2025-06-02,Bhopal Central,Central,Grocery,Premium,Store,2,9.0,4776.07,181.29,3.8
+TXN100166,2025-10-25,Mumbai Central,West,Furniture,Corporate,Store,2,9.1,31059.38,468.69,1.5
+TXN100167,2025-04-28,Chennai Central,South,Electronics,Corporate,Store,1,4.2,7822.43,1184.71,15.1
+TXN100168,2025-03-02,Surat Point,West,Grocery,Corporate,Store,1,10.0,1755.16,-57.54,-3.3
+TXN100169,2025-05-03,Bengaluru Square,South,Grocery,Corporate,Store,4,6.6,7914.24,223.47,2.8
+TXN100170,2025-01-09,Nagpur Hub,Central,Home & Kitchen,Consumer,Store,2,12.9,4876.26,655.97,13.5
+TXN100171,2025-02-08,Bengaluru Square,South,Grocery,Premium,Online,1,2.4,2180.05,246.3,11.3
+TXN100172,2025-02-02,Mumbai Central,West,Grocery,Corporate,Store,4,9.0,7055.79,265.97,3.8
+TXN100173,2025-10-09,Delhi Central,North,Furniture,Small Business,Store,3,8.0,40279.12,4326.0,10.7
+TXN100174,2025-09-21,Kochi Point,South,Furniture,Consumer,Online,2,6.6,31412.81,,12.2
+TXN100175,2025-09-12,Indore Plaza,Central,Beauty & Personal Care,Consumer,Store,3,4.6,3596.3,799.99,22.2
+TXN100176,2025-06-18,Pune Plaza,West,Furniture,Consumer,Online,5,6.9,95614.23,11625.32,12.2
+TXN100177,2025-09-19,Bhubaneswar Plaza,East,Beauty & Personal Care,Consumer,Online,1,4.3,1630.18,473.06,29.0
+TXN100178,2025-02-28,Indore Plaza,Central,Grocery,Consumer,Store,1,21.5,1148.48,-49.19,-4.3
+TXN100179,2025-11-25,Indore Plaza,Central,Electronics,Corporate,Online,1,4.1,13361.86,2022.08,15.1
+TXN100180,2025-07-02,Hyderabad Hub,South,Furniture,Small Business,Store,2,11.7,14139.94,472.88,3.3
+TXN100181,2025-12-09,Kolkata Central,East,Electronics,Consumer,Online,5,12.6,29664.42,1936.27,6.5
+TXN100182,2025-02-25,Kolkata Central,East,Home & Kitchen,Consumer,Online,5,11.7,12984.68,1522.08,11.7
+TXN100183,2025-07-01,Ahmedabad Hub,West,Grocery,Small Business,Online,2,1.9,4525.24,676.29,14.9
+TXN100184,2025-09-12,Bengaluru Square,South,Grocery,Consumer,Online,4,7.4,3849.14,325.4,8.5
+TXN100185,2025-06-30,Chennai Central,South,Apparel,Premium,Store,2,2.1,6459.16,1309.22,20.3
+TXN100186,2025-06-12,Bhopal Central,Central,Apparel,Consumer,Store,4,27.3,6876.53,229.34,3.3
+TXN100187,2025-03-02,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,3,13.2,5134.74,854.52,16.6
+TXN100188,2025-05-20,Bhopal Central,Central,Beauty & Personal Care,Consumer,Store,4,6.0,7504.14,1742.79,23.2
+TXN100189,2025-03-29,Bhopal Central,Central,Apparel,Premium,Store,4,8.6,10546.52,2250.34,21.3
+TXN100190,2025-04-21,Ahmedabad Hub,West,Home & Kitchen,Consumer,Online,1,1.9,2792.36,511.95,18.3
+TXN100191,2025-09-07,Mumbai Central,West,Home & Kitchen,Corporate,Online,9,17.6,53843.79,7922.8,14.7
+TXN100192,2025-08-19,Pune Plaza,West,Grocery,Consumer,Store,1,5.5,2154.48,146.72,6.8
+TXN100193,2025-08-10,Kolkata Central,East,Apparel,Consumer,Store,3,6.0,5591.49,997.98,17.8
+TXN100194,2025-05-13,Kolkata Central,East,Electronics,Small Business,Store,1,2.8,6564.48,1000.82,15.2
+TXN100195,2025-12-17,Kochi Point,South,Home & Kitchen,Consumer,Store,2,22.3,6846.4,658.37,9.6
+TXN100196,2025-02-01,Ahmedabad Hub,West,Beauty & Personal Care,Consumer,Store,1,11.4,1931.77,299.69,15.5
+TXN100197,2025-05-06,Bengaluru Square,South,Electronics,Corporate,Online,2,15.1,20100.83,869.53,4.3
+TXN100198,2025-02-13,Hyderabad Hub,South,Home & Kitchen,Small Business,Online,1,5.2,6709.47,1240.51,18.5
+TXN100199,2025-05-04,Guwahati Hub,East,Beauty & Personal Care,Consumer,Online,2,7.1,4022.03,932.44,23.2
+TXN100200,2025-12-18,Hyderabad Hub,South,Furniture,Consumer,Store,3,15.3,35819.78,2001.74,5.6
+TXN100201,2025-05-14,Jaipur Plaza,North,Grocery,Premium,Store,1,13.7,1179.86,14.58,1.2
+TXN100202,2025-11-28,Surat Point,West,Beauty & Personal Care,Small Business,Store,1,5.1,2289.16,693.64,30.3
+TXN100203,2025-06-30,Indore Plaza,Central,Beauty & Personal Care,Small Business,Online,2,12.4,3002.98,580.76,19.3
+TXN100204,2025-09-13,Noida Hub,North,Electronics,Small Business,Store,1,9.8,8011.88,602.18,7.5
+TXN100205,2025-06-16,Jaipur Plaza,North,Grocery,Small Business,Store,8,6.4,12818.3,568.29,4.4
+TXN100206,2025-04-08,Kochi Point,South,Apparel,Consumer,Store,2,22.0,4335.04,304.4,7.0
+TXN100207,2025-10-06,Ahmedabad Hub,West,Furniture,Consumer,Store,1,6.2,8006.84,767.89,9.6
+TXN100208,2025-12-20,Mumbai Central,West,Grocery,Small Business,Online,5,3.4,12853.49,-37.87,-0.3
+TXN100209,2025-04-07,Noida Hub,North,Electronics,Small Business,Online,1,10.1,9513.76,901.19,9.5
+TXN100210,2025-10-12,Ahmedabad Hub,West,Electronics,Premium,Store,3,7.5,55910.99,8318.05,14.9
+TXN100211,2025-04-06,Delhi Central,North,Apparel,Corporate,Store,2,17.5,6913.71,797.01,11.5
+TXN100212,2025-09-19,Kochi Point,South,Apparel,Consumer,Online,1,15.0,1866.15,372.32,20.0
+TXN100213,2025-10-15,Nagpur Hub,Central,Apparel,Corporate,Online,2,8.7,9294.28,2585.0,27.8
+TXN100214,2025-06-14,Chandigarh Point,North,Home & Kitchen,Corporate,Store,3,11.4,13709.67,1881.04,13.7
+TXN100215,2025-09-26,Delhi Central,North,Grocery,Consumer,Store,5,6.9,10478.47,974.39,9.3
+TXN100216,2025-04-10,Bhubaneswar Plaza,East,Furniture,Small Business,Online,3,6.9,24755.1,3156.6,12.8
+TXN100217,2025-01-29,Ahmedabad Hub,West,Electronics,Corporate,Online,4,6.4,68240.84,10181.52,14.9
+TXN100218,2025-02-05,Indore Plaza,Central,Furniture,Consumer,Store,2,13.2,13042.05,336.52,2.6
+TXN100219,2025-06-13,Nagpur Hub,Central,Grocery,Corporate,Store,3,7.7,9690.98,763.36,7.9
+TXN100220,2025-11-26,Noida Hub,North,Furniture,Corporate,Online,3,13.4,35787.1,2736.88,7.6
+TXN100221,2025-02-16,Jaipur Plaza,North,Electronics,Premium,Online,5,17.8,77332.64,4878.3,6.3
+TXN100222,2025-06-16,Ahmedabad Hub,West,Electronics,Consumer,Online,2,,16870.99,2581.69,15.3
+TXN100223,2025-09-14,Kochi Point,South,Apparel,Corporate,Online,3,1.9,13215.49,4012.09,30.4
+TXN100224,2025-03-15,Nagpur Hub,Central,Apparel,Corporate,Online,2,11.6,5439.46,945.61,17.4
+TXN100225,2025-09-21,Pune Plaza,West,Beauty & Personal Care,Corporate,Online,2,13.7,3666.11,923.22,25.2
+TXN100226,2025-04-22,Chandigarh Point,North,Home & Kitchen,Consumer,Store,2,2.9,3635.93,713.69,19.6
+TXN100227,2025-10-23,Mumbai Central,West,Apparel,Small Business,Store,1,6.0,6978.0,1824.63,26.1
+TXN100228,2025-07-31,Noida Hub,North,Electronics,Premium,Store,1,8.0,13288.13,1007.23,7.6
+TXN100229,2025-07-19,Bhubaneswar Plaza,East,Apparel,Corporate,Store,2,7.8,2313.3,319.45,13.8
+TXN100230,2025-03-06,Kolkata Central,East,Electronics,Corporate,Online,1,5.2,10774.91,1637.39,15.2
+TXN100231,2025-06-19,Bhubaneswar Plaza,East,Grocery,Consumer,Store,1,6.7,1363.11,16.98,1.2
+TXN100232,2025-11-09,Ahmedabad Hub,West,Grocery,Corporate,Store,3,6.8,5747.86,325.79,5.7
+TXN100233,2025-01-08,Ahmedabad Hub,West,Grocery,Consumer,Store,2,20.3,1874.16,43.55,2.3
+TXN100234,2025-10-04,Bhopal Central,Central,Furniture,Small Business,Online,3,13.7,35226.06,-354.72,-1.0
+TXN100235,2025-06-29,Bhopal Central,Central,Apparel,Consumer,Online,1,9.2,2871.89,609.44,21.2
+TXN100236,2025-09-20,Kolkata Central,East,Home & Kitchen,Small Business,Store,2,7.3,8384.76,1492.06,17.8
+TXN100237,2025-08-31,Jaipur Plaza,North,Home & Kitchen,Consumer,Store,1,2.9,5931.2,1103.0,18.6
+TXN100238,2025-06-07,Pune Plaza,West,Apparel,Corporate,Online,5,8.9,22434.17,3755.22,16.7
+TXN100239,2025-04-23,Indore Plaza,Central,Apparel,Corporate,Store,1,5.2,2794.64,541.71,19.4
+TXN100240,2025-08-17,Hyderabad Hub,South,Electronics,Consumer,Store,5,12.7,25809.83,1208.78,4.7
+TXN100241,2025-02-21,Guwahati Hub,East,Home & Kitchen,Consumer,Store,3,9.3,8700.28,1146.52,13.2
+TXN100242,2025-08-02,Kolkata Central,East,Apparel,Small Business,Online,2,2.9,5798.64,1159.49,20.0
+TXN100243,2025-02-04,Chandigarh Point,North,Furniture,Corporate,Store,3,21.0,34096.13,-932.09,-2.7
+TXN100244,2025-08-26,Mumbai Central,West,Grocery,Consumer,Store,3,4.7,5211.49,429.59,8.2
+TXN100245,2025-08-18,Bengaluru Square,South,Beauty & Personal Care,Consumer,Online,2,5.6,4674.21,1475.04,31.6
+TXN100246,2025-01-31,Mumbai Central,West,Apparel,Consumer,Store,2,14.8,5041.69,780.85,15.5
+TXN100247,2025-10-04,Mumbai Central,West,Grocery,Corporate,Store,1,17.2,1814.43,63.67,3.5
+TXN100248,2025-06-01,Surat Point,West,Apparel,Corporate,Store,1,15.2,3519.78,690.16,19.6
+TXN100249,2025-10-15,Bengaluru Square,South,Grocery,Consumer,Online,3,18.5,7666.65,-154.84,-2.0
+TXN100250,2025-01-16,Hyderabad Hub,South,Grocery,Corporate,Store,1,19.8,977.14,-18.02,-1.8
+TXN100251,2025-03-07,Pune Plaza,West,Grocery,Small Business,Store,1,13.9,1776.15,-10.91,-0.6
+TXN100252,2025-06-30,Mumbai Central,West,Grocery,Small Business,Online,1,11.3,2613.22,-18.27,-0.7
+TXN100253,2025-03-10,Bhubaneswar Plaza,East,Apparel,Consumer,Online,3,9.7,4255.95,775.31,18.2
+TXN100254,2025-05-01,Bhopal Central,Central,Electronics,Consumer,Online,3,27.9,23824.11,-830.83,-3.5
+TXN100255,2025-08-30,Noida Hub,North,Home & Kitchen,Consumer,Online,3,9.6,15120.4,2762.15,18.3
+TXN100256,2025-02-22,Indore Plaza,Central,Furniture,Consumer,Store,2,6.2,12000.91,215.38,1.8
+TXN100257,2025-09-05,Jaipur Plaza,North,Apparel,Consumer,Store,2,2.6,6231.86,1401.06,22.5
+TXN100258,2025-02-07,Noida Hub,North,Apparel,Consumer,Online,3,11.8,5875.94,745.18,12.7
+TXN100259,2025-03-05,Guwahati Hub,East,Apparel,Consumer,Store,3,13.2,5590.59,869.02,15.5
+TXN100260,2025-08-03,Jaipur Plaza,North,Apparel,Corporate,Online,7,2.3,21049.91,4783.45,22.7
+TXN100261,2025-10-17,Noida Hub,North,Beauty & Personal Care,Consumer,Store,2,9.6,5619.92,1113.93,19.8
+TXN100262,2025-03-04,Noida Hub,North,Grocery,Small Business,Store,4,8.7,5864.59,472.73,8.1
+TXN100263,2025-04-20,Kolkata Central,East,Home & Kitchen,Consumer,Store,2,15.1,5347.99,472.16,8.8
+TXN100264,2025-12-04,Surat Point,West,Apparel,Corporate,Store,2,17.1,6321.71,840.09,13.3
+TXN100265,2025-12-28,Chandigarh Point,North,Furniture,Consumer,Store,2,10.1,21049.11,779.78,3.7
+TXN100266,2025-08-01,Pune Plaza,West,Furniture,Small Business,Online,2,6.8,19296.49,1753.32,9.1
+TXN100267,2025-06-13,Ahmedabad Hub,West,Grocery,Small Business,Online,2,6.9,2876.99,312.22,10.9
+TXN100268,2025-05-07,Jaipur Plaza,North,Furniture,Consumer,Store,2,12.0,20250.53,1155.51,5.7
+TXN100269,2025-08-12,Jaipur Plaza,North,Grocery,Corporate,Online,1,11.0,1888.75,57.33,3.0
+TXN100270,2025-08-04,Bhopal Central,Central,Grocery,Consumer,Online,2,7.0,3376.39,384.27,11.4
+TXN100271,2025-04-18,Surat Point,West,Apparel,Corporate,Online,2,3.3,7647.9,1546.73,20.2
+TXN100272,2025-01-09,Guwahati Hub,East,Furniture,Consumer,Store,2,8.1,14453.52,404.14,2.8
+TXN100273,2025-02-25,Surat Point,West,Home & Kitchen,Consumer,Store,4,5.3,12076.4,2025.76,16.8
+TXN100274,2025-12-16,Chandigarh Point,North,Grocery,Consumer,Store,3,4.3,5164.24,541.52,10.5
+TXN100275,2025-06-02,Kochi Point,South,Apparel,Small Business,Store,3,3.6,8389.34,1441.34,17.2
+TXN100276,2025-06-26,Ahmedabad Hub,West,Electronics,Consumer,Online,1,6.3,8618.18,1442.83,16.7
+TXN100277,2025-06-20,Bengaluru Square,South,Grocery,Corporate,Online,6,5.2,11808.67,954.65,8.1
+TXN100278,2025-10-13,Pune Plaza,West,Electronics,Consumer,Store,2,21.9,19947.56,77.34,0.4
+TXN100279,2025-01-24,Kolkata Central,East,Apparel,Consumer,Store,1,11.8,1952.42,343.92,17.6
+TXN100280,2025-01-31,Mumbai Central,West,Grocery,Consumer,Store,1,12.4,1197.16,-12.17,-1.0
+TXN100281,2025-04-11,Guwahati Hub,East,Beauty & Personal Care,Premium,Store,1,9.3,1977.61,517.15,26.2
+TXN100282,2025-06-27,Kochi Point,South,Grocery,Small Business,Store,2,25.3,2121.96,-144.3,-6.8
+TXN100283,2025-09-02,Jaipur Plaza,North,Apparel,Consumer,Online,2,5.0,6317.24,1449.82,23.0
+TXN100284,2025-06-29,Jaipur Plaza,North,Furniture,Small Business,Online,3,17.3,27823.16,1863.81,6.7
+TXN100285,2025-06-11,Mumbai Central,West,Apparel,Consumer,Store,2,7.9,3359.98,646.66,19.2
+TXN100286,2025-12-09,Delhi Central,North,Grocery,Consumer,Store,1,9.5,2075.12,161.63,7.8
+TXN100287,2025-02-28,Chandigarh Point,North,Grocery,Corporate,Store,1,9.0,1271.37,-37.31,-2.9
+TXN100288,2025-07-28,Noida Hub,North,Furniture,Consumer,Store,7,18.8,60803.23,-850.59,-1.4
+TXN100289,2025-07-17,Jaipur Plaza,North,Electronics,Consumer,Store,2,10.4,17634.95,-1272.29,-7.2
+TXN100290,2025-06-22,Pune Plaza,West,Electronics,Small Business,Store,1,14.7,9485.64,966.18,10.2
+TXN100291,2025-10-22,Bengaluru Square,South,Beauty & Personal Care,Consumer,Online,2,0.7,2217.71,703.96,31.7
+TXN100292,2025-04-08,Nagpur Hub,Central,Grocery,Small Business,Store,4,2.1,6745.37,711.37,10.5
+TXN100293,2025-12-15,Chandigarh Point,North,Electronics,Corporate,Store,1,16.9,16973.66,1486.9,8.8
+TXN100294,2025-05-02,Ahmedabad Hub,West,Beauty & Personal Care,Small Business,Store,1,8.3,2798.91,672.73,24.0
+TXN100295,2025-07-18,Bhubaneswar Plaza,East,Electronics,Corporate,Online,2,3.2,10813.81,759.95,7.0
+TXN100296,2025-07-10,Hyderabad Hub,South,Grocery,Small Business,Store,3,13.5,7859.08,486.92,6.2
+TXN100297,2025-11-07,Nagpur Hub,Central,Home & Kitchen,Consumer,Store,2,5.2,5972.87,855.76,14.3
+TXN100298,2025-06-10,Indore Plaza,Central,Beauty & Personal Care,Corporate,Online,4,1.8,6641.85,1959.55,29.5
+TXN100299,2025-04-14,Indore Plaza,Central,Home & Kitchen,Corporate,Online,3,7.6,17623.32,3251.72,18.5
+TXN100300,2025-01-08,Noida Hub,North,Grocery,Premium,Online,2,4.3,4733.57,427.3,9.0
+TXN100301,2025-05-13,Hyderabad Hub,South,Beauty & Personal Care,Consumer,Store,5,2.9,9849.07,2152.05,21.9
+TXN100302,2025-10-29,Pune Plaza,West,Electronics,Corporate,Store,6,10.0,68637.86,1715.56,2.5
+TXN100303,2025-01-04,Hyderabad Hub,South,Beauty & Personal Care,Small Business,Online,3,20.8,7437.99,974.62,13.1
+TXN100304,2025-11-24,Mumbai Central,West,Home & Kitchen,Consumer,Store,5,5.4,25141.13,5032.55,20.0
+TXN100305,2025-07-18,Kolkata Central,East,Beauty & Personal Care,Small Business,Online,1,7.5,1118.75,194.84,17.4
+TXN100306,2025-02-21,Guwahati Hub,East,Furniture,Consumer,Store,3,7.5,35926.77,970.35,2.7
+TXN100307,2025-04-21,Pune Plaza,West,Electronics,Consumer,Store,1,16.7,8594.15,568.75,6.6
+TXN100308,2025-07-22,Pune Plaza,West,Apparel,Corporate,Store,6,11.6,178549.53,10911.68,6.1
+TXN100309,2025-04-26,Jaipur Plaza,North,Grocery,Consumer,Store,4,1.7,6545.05,428.28,6.5
+TXN100310,2025-02-09,Noida Hub,North,Grocery,Consumer,Online,1,9.5,2382.35,140.14,5.9
+TXN100311,2025-09-01,Surat Point,West,Beauty & Personal Care,Consumer,Store,3,2.0,5755.84,1567.73,27.2
+TXN100312,2025-09-03,Kolkata Central,East,Apparel,Consumer,Store,2,2.0,4515.18,738.95,16.4
+TXN100313,2025-02-13,Kochi Point,South,Grocery,Small Business,Store,3,4.8,5772.92,406.62,7.0
+TXN100314,2025-04-13,Bengaluru Square,South,Grocery,Small Business,Store,3,9.4,4337.34,219.57,5.1
+TXN100315,2025-03-31,Pune Plaza,West,Electronics,Corporate,Store,3,17.0,40417.25,200.44,0.5
+TXN100316,2025-08-29,Ahmedabad Hub,West,Furniture,Consumer,Store,1,10.2,4667.19,226.5,4.9
+TXN100317,2025-09-24,Guwahati Hub,East,Electronics,Corporate,Online,3,15.9,27097.84,1220.95,4.5
+TXN100318,2025-09-23,Bengaluru Square,South,Home & Kitchen,Small Business,Store,1,15.4,4291.36,489.58,11.4
+TXN100319,2025-12-09,Hyderabad Hub,South,Apparel,Small Business,Online,2,6.9,6464.87,1536.53,23.8
+TXN100320,2025-10-08,Kolkata Central,East,Apparel,Consumer,Online,6,6.9,10978.81,1992.53,18.1
+TXN100321,2025-04-28,Bengaluru Square,South,Grocery,Consumer,Online,4,1.3,7490.31,1038.97,13.9
+TXN100322,2025-02-09,Guwahati Hub,East,Apparel,Premium,Online,2,7.7,5543.23,1145.17,20.7
+TXN100323,2025-08-13,Ahmedabad Hub,West,Home & Kitchen,Small Business,Store,4,12.1,19346.64,-1647.91,-8.5
+TXN100324,2025-12-01,Noida Hub,North,Beauty & Personal Care,Consumer,Store,1,15.0,1857.17,363.68,19.6
+TXN100325,2025-12-22,Jaipur Plaza,North,Apparel,Small Business,Store,1,1.8,3925.15,1029.22,26.2
+TXN100326,2025-03-26,Noida Hub,North,Home & Kitchen,Consumer,Online,1,22.3,4705.4,471.93,10.0
+TXN100327,2025-03-28,Bhopal Central,Central,Grocery,Consumer,Store,1,3.7,1318.63,18.38,1.4
+TXN100328,2025-01-14,Pune Plaza,West,Grocery,Small Business,Store,2,5.5,4048.86,135.06,3.3
+TXN100329,2025-02-21,Noida Hub,North,Home & Kitchen,Corporate,Online,2,9.1,9947.09,1600.53,16.1
+TXN100330,2025-07-22,Nagpur Hub,Central,Grocery,Consumer,Store,3,3.8,3149.7,215.95,6.9
+TXN100331,2025-07-19,Bhubaneswar Plaza,East,Grocery,Premium,Store,2,5.0,3591.94,-219.78,-6.1
+TXN100332,2025-05-16,Kolkata Central,East,Grocery,Small Business,Online,1,8.5,1250.3,37.78,3.0
+TXN100333,2025-04-24,Indore Plaza,Central,Grocery,Consumer,Store,2,7.5,2838.23,336.67,11.9
+TXN100334,2025-10-30,Chandigarh Point,North,Apparel,Corporate,Store,2,8.1,7334.52,1326.86,18.1
+TXN100335,2025-06-17,Noida Hub,North,Apparel,Small Business,Online,1,11.4,2048.34,377.52,18.4
+TXN100336,2025-10-23,Guwahati Hub,East,Grocery,Corporate,Store,4,6.1,6730.3,198.77,3.0
+TXN100337,2025-12-18,Noida Hub,North,Furniture,Premium,Store,2,12.1,24393.7,102.91,0.4
+TXN100338,2025-04-26,Ahmedabad Hub,West,Home & Kitchen,Small Business,Store,4,9.9,17975.86,2502.38,13.9
+TXN100339,2025-03-15,Chandigarh Point,North,Grocery,Consumer,Store,3,11.1,3745.62,101.55,2.7
+TXN100340,2025-12-14,Noida Hub,North,Beauty & Personal Care,Consumer,Store,5,2.7,17839.83,4558.21,25.6
+TXN100341,2025-08-20,Delhi Central,North,Furniture,Small Business,Store,2,9.4,34069.62,3207.68,9.4
+TXN100342,2025-04-17,Guwahati Hub,East,Apparel,Premium,Store,2,19.1,4406.09,433.82,9.8
+TXN100343,2025-08-15,Delhi Central,North,Apparel,Consumer,Store,4,6.6,9868.36,1886.33,19.1
+TXN100344,2025-07-07,Noida Hub,North,Home & Kitchen,Consumer,Store,1,13.1,3635.29,553.62,15.2
+TXN100345,2025-11-27,Nagpur Hub,Central,Electronics,Small Business,Online,1,8.9,10030.57,1140.47,11.4
+TXN100346,2025-04-04,Chennai Central,South,Beauty & Personal Care,Consumer,Store,1,4.0,1799.38,484.43,26.9
+TXN100347,2025-12-28,Hyderabad Hub,South,Apparel,Consumer,Store,2,3.4,5350.07,904.07,16.9
+TXN100348,2025-12-08,Jaipur Plaza,North,Apparel,Small Business,Store,2,14.0,10097.7,1046.73,10.4
+TXN100349,2025-03-07,Bengaluru Square,South,Grocery,,Store,1,1.3,1511.65,138.1,9.1
+TXN100350,2025-03-02,Chennai Central,South,Electronics,Small Business,Store,2,11.3,21130.37,1617.37,7.7
+TXN100351,2025-07-14,Ahmedabad Hub,West,Grocery,Corporate,Store,5,22.2,3826.31,-272.14,-7.1
+TXN100352,2025-01-17,Delhi Central,North,Furniture,Consumer,Online,3,7.4,35894.24,2740.61,7.6
+TXN100353,2025-04-20,Indore Plaza,Central,Grocery,Premium,Online,2,3.6,5803.86,581.9,10.0
+TXN100354,2025-06-08,Indore Plaza,Central,Apparel,Consumer,Online,1,9.7,1518.22,257.86,17.0
+TXN100355,2025-12-20,Chandigarh Point,North,Grocery,Consumer,Store,4,5.9,5404.33,218.24,4.0
+TXN100356,2025-12-29,Delhi Central,North,Electronics,Small Business,Online,1,17.3,11547.56,867.94,7.5
+TXN100357,2025-02-25,Chandigarh Point,North,Electronics,Small Business,Online,8,3.3,77874.93,9241.96,11.9
+TXN100358,2025-11-22,Pune Plaza,West,Furniture,Small Business,Online,1,7.1,18082.8,1036.13,5.7
+TXN100359,2025-02-03,Jaipur Plaza,North,Furniture,Consumer,Store,3,4.8,27623.74,2352.87,8.5
+TXN100360,2025-10-01,Indore Plaza,Central,Apparel,Premium,Store,2,6.8,13729.07,2635.21,19.2
+TXN100361,2025-11-05,Pune Plaza,West,Furniture,Corporate,Store,2,8.4,29666.52,1118.65,3.8
+TXN100362,2025-11-22,Surat Point,West,Beauty & Personal Care,Corporate,Online,2,7.6,13148.24,2840.47,21.6
+TXN100363,2025-03-23,Kolkata Central,East,Furniture,Premium,Online,2,12.4,39127.23,647.12,1.7
+TXN100364,2025-11-23,Bhopal Central,Central,Electronics,Consumer,Online,1,19.7,10096.61,489.73,4.9
+TXN100365,2025-02-12,Chandigarh Point,North,Home & Kitchen,Small Business,Store,1,10.3,3080.58,653.67,21.2
+TXN100366,2025-07-09,Hyderabad Hub,South,Grocery,Corporate,Online,6,9.5,13377.81,1017.18,7.6
+TXN100367,2025-06-21,Kochi Point,South,Grocery,Small Business,Online,6,8.5,10962.99,172.29,1.6
+TXN100368,2025-04-26,Indore Plaza,Central,Beauty & Personal Care,Small Business,Store,1,16.6,948.61,186.63,19.7
+TXN100369,2025-01-09,Kolkata Central,East,Beauty & Personal Care,Small Business,Store,2,15.9,2063.4,272.63,13.2
+TXN100370,2025-10-09,Mumbai Central,West,Home & Kitchen,Consumer,Store,4,18.3,18314.49,1677.31,9.2
+TXN100371,2025-05-03,Noida Hub,North,Electronics,Consumer,Online,1,5.2,8235.49,1006.39,12.2
+TXN100372,2025-08-30,Bhopal Central,Central,Apparel,Premium,Online,2,6.5,6151.03,1755.65,28.5
+TXN100373,2025-05-30,Guwahati Hub,East,Beauty & Personal Care,Premium,Store,1,4.7,3553.32,644.42,18.1
+TXN100374,2025-05-17,Kolkata Central,East,Beauty & Personal Care,Premium,Store,5,5.6,10155.1,2243.11,22.1
+TXN100375,2025-11-20,Nagpur Hub,Central,Electronics,Consumer,Store,3,5.6,24825.67,2394.44,9.6
+TXN100376,2025-02-04,Bengaluru Square,South,Grocery,Consumer,Store,1,13.5,1009.8,37.36,3.7
+TXN100377,2025-09-26,Bengaluru Square,South,Grocery,Small Business,Store,3,0.5,6217.85,633.77,10.2
+TXN100378,2025-09-30,Kolkata Central,East,Electronics,Small Business,Online,5,6.1,27813.13,4437.94,16.0
+TXN100379,2025-05-19,Delhi Central,North,Apparel,Consumer,Store,5,4.2,10611.22,2485.52,23.4
+TXN100380,2025-04-06,Chennai Central,South,Furniture,Corporate,Online,2,20.9,15109.6,-229.81,-1.5
+TXN100381,2025-01-02,Noida Hub,North,Grocery,Consumer,Online,1,8.8,1103.08,179.49,16.3
+TXN100382,2025-12-08,Jaipur Plaza,North,Electronics,Corporate,Online,5,2.6,83963.43,14968.69,17.8
+TXN100383,2025-12-12,Indore Plaza,Central,Grocery,Consumer,Store,5,7.2,8735.95,274.01,3.1
+TXN100384,2025-03-29,Kolkata Central,East,Electronics,Consumer,Store,2,6.0,11859.73,1303.59,11.0
+TXN100385,2025-01-12,Bengaluru Square,South,Grocery,Consumer,Online,1,12.7,1388.77,80.81,5.8
+TXN100386,2025-02-14,Bengaluru Square,South,Electronics,Premium,Online,4,20.0,44156.61,3156.25,7.1
+TXN100387,2025-01-25,Kolkata Central,East,Beauty & Personal Care,Small Business,Store,1,13.6,2297.94,420.67,18.3
+TXN100388,2025-10-31,Mumbai Central,West,Electronics,Premium,Store,4,3.1,68101.67,11540.97,16.9
+TXN100389,2025-11-22,Bhopal Central,Central,Grocery,Corporate,Online,3,23.7,2125.03,-3.42,-0.2
+TXN100390,2025-02-25,Indore Plaza,Central,Furniture,Consumer,Online,5,19.8,49826.43,-721.84,-1.4
+TXN100391,2025-09-30,Chennai Central,South,Electronics,Consumer,Store,3,8.6,23249.42,4083.64,17.6
+TXN100392,2025-03-07,Chennai Central,South,Furniture,Corporate,Store,5,25.4,52901.57,1153.78,2.2
+TXN100393,2025-05-15,Bhubaneswar Plaza,East,Electronics,Consumer,Store,3,3.9,25000.78,3500.91,14.0
+TXN100394,2025-08-07,Bhubaneswar Plaza,East,Electronics,Small Business,Online,1,8.5,5604.79,610.17,10.9
+TXN100395,2025-09-20,Kolkata Central,East,Grocery,Small Business,Online,3,8.7,4255.73,235.3,5.5
+TXN100396,2025-11-16,Mumbai Central,West,Apparel,Small Business,Store,2,19.9,7266.42,729.82,10.0
+TXN100397,2025-01-17,Bhubaneswar Plaza,East,Electronics,Consumer,Online,1,13.5,6967.43,519.57,7.5
+TXN100398,2025-03-13,Bengaluru Square,South,Grocery,Corporate,Store,4,22.8,5139.73,-631.64,-12.3
+TXN100399,2025-04-13,Chennai Central,South,Apparel,Consumer,Online,1,5.6,3263.9,894.61,27.4
+TXN100400,2025-04-24,Kochi Point,South,Furniture,Consumer,Store,2,19.6,13929.11,396.25,2.8
+TXN100401,2025-12-31,Noida Hub,North,Grocery,Small Business,Store,4,8.9,5978.15,-113.38,-1.9
+TXN100402,2025-10-11,Delhi Central,North,Electronics,Corporate,Store,1,12.2,11593.56,1277.96,11.0
+TXN100403,2025-04-27,Ahmedabad Hub,West,Furniture,Small Business,Store,5,4.7,73218.59,5151.64,7.0
+TXN100404,2025-12-21,Bengaluru Square,South,Grocery,Consumer,Store,1,11.0,1398.34,27.82,2.0
+TXN100405,2025-07-02,Delhi Central,North,Beauty & Personal Care,Premium,Online,4,3.8,16260.64,4692.98,28.9
+TXN100406,2025-07-02,Kolkata Central,East,Beauty & Personal Care,Premium,Online,2,2.6,5548.85,1064.84,19.2
+TXN100407,2025-06-08,Surat Point,West,Beauty & Personal Care,Corporate,Online,3,4.2,7902.96,2124.55,26.9
+TXN100408,2025-02-22,Kochi Point,South,Grocery,Small Business,Store,2,2.8,3452.22,276.96,8.0
+TXN100409,2025-12-08,Ahmedabad Hub,West,Electronics,Consumer,Store,1,12.6,12167.33,972.44,8.0
+TXN100410,2025-01-06,Indore Plaza,Central,Grocery,Small Business,Online,3,16.8,3839.96,-141.31,-3.7
+TXN100411,2025-03-05,Bhubaneswar Plaza,East,Furniture,Small Business,Online,1,,5652.19,189.69,3.4
+TXN100412,2025-03-25,Ahmedabad Hub,West,Electronics,Small Business,Store,2,5.4,29082.59,4606.83,15.8
+TXN100413,2025-04-12,Jaipur Plaza,North,Electronics,Small Business,Online,2,6.3,20406.61,3059.35,15.0
+TXN100414,2025-02-18,Nagpur Hub,Central,Grocery,Corporate,Store,1,4.7,1938.17,111.6,5.8
+TXN100415,2025-01-07,Hyderabad Hub,South,Grocery,Small Business,Online,3,10.8,3861.06,547.97,14.2
+TXN100416,2025-09-05,Bhopal Central,Central,Furniture,Small Business,Store,3,11.9,19790.78,143.11,0.7
+TXN100417,2025-12-20,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,5,18.3,9038.92,943.99,10.4
+TXN100418,2025-02-14,Chandigarh Point,North,Grocery,Consumer,Store,4,9.9,3729.24,157.29,4.2
+TXN100419,2025-04-19,Noida Hub,North,Home & Kitchen,Small Business,Online,1,3.9,5369.24,1456.29,27.1
+TXN100420,2025-07-04,Mumbai Central,West,Furniture,Corporate,Store,1,26.5,16428.79,-480.12,-2.9
+TXN100421,2025-12-05,Guwahati Hub,East,Apparel,Corporate,Store,4,17.7,12469.61,1608.03,12.9
+TXN100422,2025-09-11,Jaipur Plaza,North,Furniture,Premium,Store,3,18.2,34589.65,567.58,1.6
+TXN100423,2025-10-07,Ahmedabad Hub,West,Grocery,Corporate,Store,4,19.9,6092.15,-398.66,-6.5
+TXN100424,2025-08-01,Indore Plaza,Central,Electronics,Consumer,Store,3,2.9,34791.2,3707.33,10.7
+TXN100425,2025-06-02,Kolkata Central,East,Furniture,Consumer,Store,2,16.3,10860.18,33.81,0.3
+TXN100426,2025-03-14,Bhubaneswar Plaza,East,Apparel,Corporate,Store,4,21.0,16792.44,2048.16,12.2
+TXN100427,2025-11-12,Noida Hub,North,Furniture,Small Business,Store,1,10.9,23697.87,1085.86,4.6
+TXN100428,2025-10-21,Surat Point,West,Furniture,Corporate,Store,2,18.5,54612.13,-299.4,-0.5
+TXN100429,2025-01-10,Chennai Central,South,Beauty & Personal Care,Corporate,Online,2,6.8,5114.36,1538.02,30.1
+TXN100430,2025-09-19,Bhopal Central,Central,Electronics,Small Business,Store,4,15.1,31187.83,-257.74,-0.8
+TXN100431,2025-01-31,Chennai Central,South,Apparel,Small Business,Store,1,17.2,2630.9,218.68,8.3
+TXN100432,2025-09-27,Guwahati Hub,East,Apparel,Small Business,Store,3,7.2,9714.21,879.51,9.1
+TXN100433,2025-10-29,Chennai Central,South,Furniture,Consumer,Store,6,7.6,60257.82,5444.69,9.0
+TXN100434,2025-02-17,Noida Hub,North,Grocery,Small Business,Store,2,2.3,2283.64,176.94,7.7
+TXN100435,2025-06-08,Ahmedabad Hub,West,Electronics,Corporate,Store,3,14.5,30095.21,2972.62,9.9
+TXN100436,2025-02-15,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,1,2.8,2666.65,430.82,16.2
+TXN100437,2025-07-27,Kolkata Central,East,Furniture,Small Business,Store,1,14.1,13292.49,606.09,4.6
+TXN100438,2025-12-05,Nagpur Hub,Central,Furniture,Small Business,Store,3,8.1,32574.33,1617.92,5.0
+TXN100439,2025-01-30,Indore Plaza,Central,Grocery,Corporate,Store,2,12.3,2961.61,97.25,3.3
+TXN100440,2025-05-26,Bhopal Central,Central,Beauty & Personal Care,Small Business,Online,1,9.5,2477.68,607.29,24.5
+TXN100441,2025-12-22,Noida Hub,North,Home & Kitchen,Consumer,Online,5,7.9,31544.34,5928.59,18.8
+TXN100442,2025-04-20,Guwahati Hub,East,Beauty & Personal Care,Consumer,Store,5,0.9,8690.85,2511.72,28.9
+TXN100443,2025-02-18,Indore Plaza,Central,Apparel,Consumer,Store,2,7.6,4551.2,595.96,13.1
+TXN100444,2025-06-28,Hyderabad Hub,South,Apparel,Consumer,Store,2,12.3,3349.79,522.87,15.6
+TXN100445,2025-07-05,Jaipur Plaza,North,Grocery,Small Business,Store,6,6.8,11961.45,711.58,5.9
+TXN100446,2025-08-30,Ahmedabad Hub,West,Beauty & Personal Care,Small Business,Store,2,7.8,6304.92,1439.92,22.8
+TXN100447,2025-04-25,Guwahati Hub,East,Grocery,Small Business,Store,4,2.6,3378.42,192.93,5.7
+TXN100448,2025-12-15,Kolkata Central,East,Grocery,Consumer,Store,3,11.7,6293.6,22.01,0.3
+TXN100449,2025-07-10,Indore Plaza,Central,Apparel,Consumer,Online,3,8.8,5024.24,1275.47,25.4
+TXN100450,2025-04-15,Ahmedabad Hub,West,Apparel,Consumer,Store,5,1.6,15916.95,3542.63,22.3
+TXN100451,2025-12-17,Kolkata Central,East,Electronics,Small Business,Store,2,7.8,20286.34,3422.0,16.9
+TXN100452,2025-12-04,Hyderabad Hub,South,Grocery,Consumer,Store,4,9.1,6150.72,351.05,5.7
+TXN100453,2025-07-02,Bengaluru Square,South,Grocery,Corporate,Online,4,8.7,6581.57,335.56,5.1
+TXN100454,2025-01-10,Noida Hub,North,Home & Kitchen,Small Business,Store,2,6.7,6358.16,1162.38,18.3
+TXN100455,2025-08-06,Pune Plaza,West,Grocery,Small Business,Online,4,10.1,7496.09,421.44,5.6
+TXN100456,2025-07-22,Mumbai Central,West,Home & Kitchen,Consumer,Online,3,5.1,11228.31,2695.62,24.0
+TXN100457,2025-02-24,Kochi Point,South,Grocery,Consumer,Store,1,9.8,874.7,-5.96,-0.7
+TXN100458,2025-08-20,Bengaluru Square,South,Home & Kitchen,Corporate,Online,5,20.9,16823.86,541.24,3.2
+TXN100459,2025-11-03,Bhopal Central,Central,Electronics,Corporate,Store,1,12.1,8226.96,762.26,9.3
+TXN100460,2025-02-08,Chandigarh Point,North,Beauty & Personal Care,Consumer,Store,6,5.1,8834.61,2408.38,27.3
+TXN100461,2025-09-22,Guwahati Hub,East,Grocery,Small Business,Online,4,7.5,6450.3,445.19,6.9
+TXN100462,2025-02-21,Kolkata Central,East,Furniture,Corporate,Store,2,12.9,17678.66,747.62,4.2
+TXN100463,2025-10-01,Pune Plaza,West,Furniture,Corporate,Store,2,15.5,40890.92,1243.28,3.0
+TXN100464,2025-06-02,Jaipur Plaza,North,Furniture,Consumer,Store,6,6.2,58237.44,1175.1,2.0
+TXN100465,2025-01-03,Surat Point,West,Grocery,Consumer,Store,3,4.0,3808.28,304.77,8.0
+TXN100466,2025-12-19,Kochi Point,South,Home & Kitchen,Consumer,Store,3,7.9,13803.7,2793.56,20.2
+TXN100467,2025-03-02,Ahmedabad Hub,West,Beauty & Personal Care,Consumer,Online,3,21.1,7115.49,1211.01,17.0
+TXN100468,2025-08-06,Delhi Central,North,Apparel,Corporate,Online,6,8.2,12647.58,2005.46,15.9
+TXN100469,2025-03-08,Guwahati Hub,East,Apparel,Corporate,Store,5,22.8,18098.16,1305.99,7.2
+TXN100470,2025-12-07,Kolkata Central,East,Grocery,Small Business,Store,3,6.9,6248.72,393.01,6.3
+TXN100471,2025-09-27,Delhi Central,North,Home & Kitchen,Premium,Store,1,3.6,6732.29,1652.48,24.5
+TXN100472,2025-10-21,Jaipur Plaza,North,Home & Kitchen,Consumer,Store,3,12.7,17010.39,981.39,5.8
+TXN100473,2025-06-07,Jaipur Plaza,North,Grocery,Consumer,Online,1,5.8,1183.64,108.19,9.1
+TXN100474,2025-06-20,Bengaluru Square,South,Beauty & Personal Care,Small Business,Store,5,9.3,11044.01,2040.06,18.5
+TXN100475,2025-08-20,Delhi Central,North,Grocery,Premium,Online,1,11.2,1768.01,112.1,6.3
+TXN100476,2025-10-14,Indore Plaza,Central,Home & Kitchen,Small Business,Store,1,8.8,6076.77,1041.08,17.1
+TXN100477,2025-11-06,Chennai Central,South,Beauty & Personal Care,Consumer,Store,2,19.3,3141.66,463.12,14.7
+TXN100478,2025-01-07,Ahmedabad Hub,West,Apparel,Consumer,Online,5,15.9,10565.09,1885.33,17.8
+TXN100479,2025-08-31,Indore Plaza,Central,Furniture,Consumer,Online,6,19.6,58837.78,2586.52,4.4
+TXN100480,2025-02-09,Jaipur Plaza,North,Apparel,Small Business,Store,6,3.6,21938.78,4543.32,20.7
+TXN100481,2025-04-16,Pune Plaza,West,Electronics,Corporate,Online,2,17.4,17189.89,348.58,2.0
+TXN100482,2025-10-30,Indore Plaza,Central,Home & Kitchen,Corporate,Store,5,7.4,33213.92,6932.92,20.9
+TXN100483,2025-04-02,Pune Plaza,West,Furniture,Corporate,Store,2,10.4,22010.44,1430.21,6.5
+TXN100484,2025-10-18,Guwahati Hub,East,Apparel,Consumer,Online,6,11.0,7347.09,1336.21,18.2
+TXN100485,2025-06-18,Bhubaneswar Plaza,East,Beauty & Personal Care,Corporate,Store,2,4.4,3360.6,661.16,19.7
+TXN100486,2025-03-26,Jaipur Plaza,North,Furniture,Consumer,Online,3,17.6,34095.64,1685.59,4.9
+TXN100487,2025-05-02,Bhubaneswar Plaza,East,Grocery,Corporate,Online,2,23.1,2592.17,-87.84,-3.4
+TXN100488,2025-07-13,Bhopal Central,Central,Apparel,Small Business,Store,1,16.2,1903.27,248.43,13.1
+TXN100489,2025-10-07,Nagpur Hub,Central,Grocery,Small Business,Store,4,10.4,6399.99,215.51,3.4
+TXN100490,2025-08-10,Jaipur Plaza,North,Furniture,Consumer,Store,3,16.1,27647.97,-505.59,-1.8
+TXN100491,2025-12-07,Ahmedabad Hub,West,Electronics,Small Business,Online,4,7.2,59112.21,6231.56,10.5
+TXN100492,2025-11-13,Kochi Point,South,Grocery,Small Business,Store,5,18.2,5470.16,-301.63,-5.5
+TXN100493,2025-10-02,Nagpur Hub,Central,Apparel,Consumer,Store,5,14.2,11047.28,1674.96,15.2
+TXN100494,2025-08-09,Jaipur Plaza,North,Apparel,Consumer,Store,1,1.3,2549.92,547.74,21.5
+TXN100495,2025-04-16,Nagpur Hub,Central,Electronics,Corporate,Store,2,7.0,14112.25,1754.76,12.4
+TXN100496,2025-05-31,Pune Plaza,West,Grocery,Consumer,Store,6,7.4,5874.9,104.61,1.8
+TXN100497,2025-02-13,Jaipur Plaza,North,Grocery,Consumer,Online,4,7.5,4501.58,281.21,6.2
+TXN100498,2025-05-17,Noida Hub,North,Furniture,Consumer,Store,3,20.0,26794.29,-931.72,-3.5
+TXN100499,2025-12-05,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,1,4.3,4994.56,924.17,18.5
+TXN100500,2025-06-05,Delhi Central,North,Grocery,Corporate,Store,3,5.1,4526.61,28.97,0.6
+TXN100501,2025-02-11,Guwahati Hub,East,Apparel,Corporate,Store,4,20.4,7623.65,763.4,10.0
+TXN100502,2025-08-26,Bhopal Central,Central,Beauty & Personal Care,Consumer,Store,3,3.2,4490.2,1100.55,24.5
+TXN100503,2025-12-18,Bhubaneswar Plaza,East,Apparel,Small Business,Store,4,6.3,12392.42,2206.43,17.8
+TXN100504,2025-11-13,Bengaluru Square,South,Apparel,Consumer,Online,3,3.6,12957.72,2265.43,17.5
+TXN100505,2025-04-11,Kolkata Central,East,Electronics,Consumer,Store,3,11.9,11093.63,1019.07,9.2
+TXN100506,2025-06-15,Chandigarh Point,North,Furniture,Consumer,Store,3,13.4,33087.22,576.11,1.7
+TXN100507,2025-07-13,Nagpur Hub,Central,Electronics,Small Business,Store,2,5.2,17161.49,2234.58,13.0
+TXN100508,2025-04-01,Bengaluru Square,South,Home & Kitchen,Premium,Store,3,6.6,22797.63,2254.52,9.9
+TXN100509,2025-04-09,Delhi Central,North,Home & Kitchen,Corporate,Online,3,9.0,21040.7,2644.35,12.6
+TXN100510,2025-03-28,Kochi Point,South,Furniture,Consumer,Store,2,11.1,16320.25,435.39,2.7
+TXN100511,2025-12-30,Nagpur Hub,Central,Furniture,Consumer,Store,1,17.1,12838.29,598.62,4.7
+TXN100512,2025-09-30,Delhi Central,North,Grocery,Consumer,Store,3,3.4,3007.96,278.33,9.3
+TXN100513,2025-11-03,Indore Plaza,Central,Apparel,Small Business,Store,2,11.2,6107.57,-1039.6,-17.0
+TXN100514,2025-10-26,Pune Plaza,West,Apparel,Consumer,Store,3,0.4,8709.43,1744.75,20.0
+TXN100515,2025-12-17,Ahmedabad Hub,West,Apparel,Premium,Store,4,12.5,18720.0,2222.51,11.9
+TXN100516,2025-02-08,Indore Plaza,Central,Beauty & Personal Care,Corporate,Store,2,8.7,3099.86,715.12,23.1
+TXN100517,2025-11-18,Bhopal Central,Central,Grocery,Corporate,Online,1,3.2,2334.59,279.12,12.0
+TXN100518,2025-01-25,Bhopal Central,Central,Apparel,Small Business,Store,2,6.2,7474.26,1523.27,20.4
+TXN100519,2025-06-23,Jaipur Plaza,North,Apparel,Consumer,Store,4,6.2,6988.27,1790.04,25.6
+TXN100520,2025-08-05,Surat Point,West,Grocery,Small Business,Store,2,9.3,3442.81,45.96,1.3
+TXN100521,2025-05-11,Kolkata Central,East,Beauty & Personal Care,Consumer,Store,4,0.5,8448.11,2066.87,24.5
+TXN100522,2025-02-23,Guwahati Hub,East,Electronics,Small Business,Store,5,18.1,33011.15,-482.93,-1.5
+TXN100523,2025-03-12,Indore Plaza,Central,Home & Kitchen,Corporate,Online,3,5.7,20925.44,4121.74,19.7
+TXN100524,2025-10-29,Nagpur Hub,Central,Home & Kitchen,Consumer,Store,2,2.2,7469.37,1814.85,24.3
+TXN100525,2025-04-27,Surat Point,West,Beauty & Personal Care,Small Business,Store,1,5.7,2211.95,449.04,20.3
+TXN100526,2025-04-24,Kolkata Central,East,Grocery,Consumer,Online,1,6.2,881.75,82.5,9.4
+TXN100527,2025-12-04,Kolkata Central,East,Grocery,Consumer,Online,3,4.1,4321.31,532.58,12.3
+TXN100528,2025-02-22,Kochi Point,South,Home & Kitchen,Small Business,Store,4,4.4,18269.78,2811.01,15.4
+TXN100529,2025-12-01,Bengaluru Square,South,Home & Kitchen,Corporate,Online,3,2.5,23456.24,5300.73,22.6
+TXN100530,2025-12-03,Bengaluru Square,South,Grocery,Small Business,Store,5,11.6,7512.04,590.39,7.9
+TXN100531,2025-08-07,Noida Hub,North,Home & Kitchen,Corporate,Online,2,3.2,8761.84,1870.56,21.3
+TXN100532,2025-03-02,Chandigarh Point,North,Furniture,Corporate,Store,1,,15081.34,986.44,6.5
+TXN100533,2025-02-26,Surat Point,West,Apparel,Consumer,Online,5,15.5,16272.04,1578.32,9.7
+TXN100534,2025-04-14,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,1,3.2,4139.84,751.65,18.2
+TXN100535,2025-07-30,Bhopal Central,Central,Grocery,Premium,Store,1,9.7,3141.73,166.27,5.3
+TXN100536,2025-02-26,Pune Plaza,West,Grocery,Consumer,Store,2,5.4,3236.41,48.58,1.5
+TXN100537,2025-06-16,Jaipur Plaza,North,Beauty & Personal Care,Corporate,Store,1,12.7,2499.19,405.43,16.2
+TXN100538,2025-02-12,Delhi Central,North,Home & Kitchen,Consumer,Store,1,12.0,4143.4,628.21,15.2
+TXN100539,2025-07-17,Jaipur Plaza,North,Beauty & Personal Care,Consumer,Online,8,11.6,19476.13,4136.36,21.2
+TXN100540,2025-01-08,Bhopal Central,Central,Grocery,Corporate,Store,2,18.0,3814.08,85.07,2.2
+TXN100541,2025-09-16,Noida Hub,North,Beauty & Personal Care,Small Business,Store,4,4.1,6563.99,1708.16,26.0
+TXN100542,2025-01-21,Kolkata Central,East,Electronics,Small Business,Store,4,5.8,40442.48,4302.29,10.6
+TXN100543,2025-03-13,Nagpur Hub,Central,Grocery,Small Business,Store,4,10.0,5931.29,161.05,2.7
+TXN100544,2025-03-05,Nagpur Hub,Central,Grocery,Consumer,Store,2,2.1,2402.91,221.32,9.2
+TXN100545,2025-10-31,Bengaluru Square,South,Home & Kitchen,Corporate,Store,5,7.8,18356.98,3395.49,18.5
+TXN100546,2025-01-20,Chandigarh Point,North,Beauty & Personal Care,Consumer,Online,5,3.4,5519.7,1613.74,29.2
+TXN100547,2025-06-06,Jaipur Plaza,North,Home & Kitchen,Small Business,Online,7,23.8,22578.13,1408.01,6.2
+TXN100548,2025-08-04,Chandigarh Point,North,Apparel,Consumer,Online,3,22.6,3843.86,607.31,15.8
+TXN100549,2025-07-08,Chandigarh Point,North,Grocery,Corporate,Store,3,4.0,4810.54,449.3,9.3
+TXN100550,2025-09-06,Kolkata Central,East,Grocery,Consumer,Store,4,13.7,5440.1,113.33,2.1
+TXN100551,2025-10-21,Nagpur Hub,Central,Grocery,Small Business,Store,4,6.0,5621.67,344.02,6.1
+TXN100552,2025-05-24,Bhubaneswar Plaza,East,Electronics,Small Business,Store,2,16.0,16001.74,1028.25,6.4
+TXN100553,2025-10-30,Mumbai Central,West,Grocery,Small Business,Online,2,9.4,2780.71,-20.14,-0.7
+TXN100554,2025-04-27,Noida Hub,North,Home & Kitchen,Consumer,Store,1,8.4,4079.65,658.2,16.1
+TXN100555,2025-12-26,Surat Point,West,Apparel,Premium,Online,2,7.2,11299.78,3026.39,26.8
+TXN100556,2025-07-04,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,5,3.6,13840.26,2639.0,19.1
+TXN100557,2025-09-26,Indore Plaza,Central,Grocery,Consumer,Store,3,9.7,2987.37,113.32,3.8
+TXN100558,2025-11-16,Bhopal Central,Central,Grocery,Consumer,Store,4,16.8,3689.14,-111.31,-3.0
+TXN100559,2025-10-17,Kochi Point,South,Electronics,Consumer,Online,4,5.9,45815.11,7125.48,15.6
+TXN100560,2025-11-07,Noida Hub,North,Grocery,Corporate,Online,5,12.7,10564.12,308.89,2.9
+TXN100561,2025-07-15,Bengaluru Square,South,Grocery,Consumer,Store,4,18.6,4541.28,115.88,2.6
+TXN100562,2025-01-16,Bhubaneswar Plaza,East,Furniture,Consumer,Online,2,23.5,13259.08,-390.92,-2.9
+TXN100563,2025-06-29,Nagpur Hub,Central,Electronics,Corporate,Store,5,9.6,53428.95,4264.59,8.0
+TXN100564,2025-03-08,Bengaluru Square,South,Apparel,Small Business,Store,4,2.6,13113.93,,19.8
+TXN100565,2025-11-21,Pune Plaza,West,Grocery,Small Business,Online,6,18.4,9355.55,607.55,6.5
+TXN100566,2025-03-28,Bhubaneswar Plaza,East,Grocery,Corporate,Online,4,11.8,4898.91,152.57,3.1
+TXN100567,2025-03-25,Delhi Central,North,Furniture,Consumer,Store,4,10.0,38686.2,1081.13,2.8
+TXN100568,2025-04-02,Hyderabad Hub,South,Apparel,Small Business,Store,1,6.3,2743.83,336.32,12.3
+TXN100569,2025-08-23,Pune Plaza,West,Grocery,Consumer,Store,3,1.3,8040.58,440.9,5.5
+TXN100570,2025-07-28,Mumbai Central,West,Grocery,Consumer,Store,2,13.0,2311.6,75.6,3.3
+TXN100571,2025-12-13,Kolkata Central,East,Apparel,Consumer,Online,2,4.2,5356.23,1166.3,21.8
+TXN100572,2025-06-01,Kochi Point,South,Electronics,Corporate,Store,2,7.2,25673.77,2243.14,8.7
+TXN100573,2025-04-14,Surat Point,West,Beauty & Personal Care,Consumer,Store,2,8.6,5560.88,1118.17,20.1
+TXN100574,2025-01-18,Jaipur Plaza,North,Electronics,Corporate,Store,2,22.9,13779.42,1074.49,7.8
+TXN100575,2025-01-03,Indore Plaza,Central,Grocery,Consumer,Store,3,11.9,4686.81,542.61,11.6
+TXN100576,2025-05-17,Chandigarh Point,North,Furniture,Consumer,Store,2,16.6,17825.58,763.89,4.3
+TXN100577,2025-12-04,Delhi Central,North,Grocery,Consumer,Store,3,11.6,8851.24,687.47,7.8
+TXN100578,2025-07-11,Bhubaneswar Plaza,East,Furniture,Consumer,Store,3,12.0,27090.26,2008.45,7.4
+TXN100579,2025-11-23,Guwahati Hub,East,Home & Kitchen,Consumer,Store,6,2.4,17976.99,4235.84,23.6
+TXN100580,2025-02-07,Guwahati Hub,East,Grocery,Corporate,Store,2,6.9,2804.7,102.48,3.7
+TXN100581,2025-02-04,Kolkata Central,East,Apparel,Corporate,Online,1,17.5,3393.61,345.2,10.2
+TXN100582,2025-11-01,Nagpur Hub,Central,Furniture,Consumer,Store,2,11.7,22229.34,1948.29,8.8
+TXN100583,2025-02-08,Bhubaneswar Plaza,East,Electronics,Corporate,Store,2,6.4,18464.94,1330.38,7.2
+TXN100584,2025-01-19,Guwahati Hub,East,Grocery,Consumer,Online,3,22.6,3277.76,-177.0,-5.4
+TXN100585,2025-05-28,Kolkata Central,East,Apparel,Consumer,Store,2,12.0,3559.92,392.96,11.0
+TXN100586,2025-12-04,Jaipur Plaza,North,Grocery,Consumer,Store,2,11.6,2761.38,51.1,1.9
+TXN100587,2025-09-09,Guwahati Hub,East,Beauty & Personal Care,Corporate,Store,3,10.1,4808.94,605.97,12.6
+TXN100588,2025-02-06,Chennai Central,South,Apparel,Consumer,Store,4,5.4,15276.55,2311.02,15.1
+TXN100589,2025-11-02,Ahmedabad Hub,West,Beauty & Personal Care,Small Business,Online,1,8.6,1901.42,418.64,22.0
+TXN100590,2025-11-04,Delhi Central,North,Grocery,Consumer,Online,3,7.2,5002.39,143.73,2.9
+TXN100591,2025-10-20,Nagpur Hub,Central,Home & Kitchen,Small Business,Online,1,8.0,5346.23,1136.45,21.3
+TXN100592,2025-11-26,Bhubaneswar Plaza,East,Apparel,Consumer,Store,1,1.2,2621.3,524.83,20.0
+TXN100593,2025-03-29,Bhopal Central,Central,Apparel,Corporate,Online,6,14.8,11192.14,2052.75,18.3
+TXN100594,2025-12-24,Kolkata Central,East,Beauty & Personal Care,Small Business,Store,1,9.3,1564.06,321.7,20.6
+TXN100595,2025-04-28,Jaipur Plaza,North,Apparel,Consumer,Online,2,10.4,5229.13,958.32,18.3
+TXN100596,2025-10-20,Mumbai Central,West,Beauty & Personal Care,Consumer,Online,2,11.1,3343.68,872.25,26.1
+TXN100597,2025-07-31,Pune Plaza,West,Home & Kitchen,Corporate,Store,1,22.8,2492.58,197.38,7.9
+TXN100598,2025-10-12,Mumbai Central,West,Electronics,Premium,Online,2,6.7,37903.99,4638.11,12.2
+TXN100599,2025-08-18,Guwahati Hub,East,Apparel,Premium,Store,1,3.9,2713.82,363.44,13.4
+TXN100600,2025-08-23,Ahmedabad Hub,West,Grocery,Consumer,Store,2,16.1,3054.92,41.08,1.3
+TXN100601,2025-08-13,Nagpur Hub,Central,Beauty & Personal Care,Small Business,Store,3,8.2,5305.34,953.93,18.0
+TXN100602,2025-10-12,Mumbai Central,West,Home & Kitchen,Consumer,Store,2,9.1,8588.8,1389.05,16.2
+TXN100603,2025-09-27,Bengaluru Square,South,Electronics,Consumer,Online,3,1.8,28806.36,4793.98,16.6
+TXN100604,2025-02-19,Ahmedabad Hub,West,Electronics,Corporate,Online,3,14.0,23361.81,954.73,4.1
+TXN100605,2025-10-29,Ahmedabad Hub,West,Electronics,Corporate,Online,5,7.9,54486.55,7352.56,13.5
+TXN100606,2025-07-15,Nagpur Hub,Central,Grocery,Corporate,Store,4,16.3,5280.4,1.96,0.0
+TXN100607,2025-04-28,Kochi Point,South,Electronics,Small Business,Store,2,7.4,14703.23,1702.42,11.6
+TXN100608,2025-07-07,Guwahati Hub,East,Home & Kitchen,Consumer,Store,3,11.0,11231.04,1405.76,12.5
+TXN100609,2025-12-19,Mumbai Central,West,Apparel,Corporate,Online,2,4.3,7584.84,1557.46,20.5
+TXN100610,2025-11-10,Kolkata Central,East,Home & Kitchen,Consumer,Store,4,4.5,11019.3,1916.54,17.4
+TXN100611,2025-11-01,Surat Point,West,Furniture,,Online,1,21.5,9712.82,-179.69,-1.9
+TXN100612,2025-06-18,Bhubaneswar Plaza,East,Grocery,Consumer,Store,1,9.0,1127.27,1.68,0.1
+TXN100613,2025-10-14,Chandigarh Point,North,Electronics,Premium,Store,2,14.0,25461.16,2336.44,9.2
+TXN100614,2025-05-21,Ahmedabad Hub,West,Beauty & Personal Care,Corporate,Online,1,,3027.28,929.17,30.7
+TXN100615,2025-09-08,Delhi Central,North,Furniture,Consumer,Store,3,11.5,35767.59,1911.72,5.3
+TXN100616,2025-08-22,Noida Hub,North,Electronics,Small Business,Online,3,9.2,55694.6,6181.67,11.1
+TXN100617,2025-04-02,Surat Point,West,Furniture,Premium,Store,1,7.7,25180.1,-16.59,-0.1
+TXN100618,2025-04-08,Ahmedabad Hub,West,Home & Kitchen,Premium,Store,4,5.3,17589.18,3936.96,22.4
+TXN100619,2025-01-23,Bhopal Central,Central,Electronics,Corporate,Store,1,4.3,8956.76,535.3,6.0
+TXN100620,2025-02-21,Bengaluru Square,South,Apparel,Consumer,Store,1,8.2,2120.96,434.68,20.5
+TXN100621,2025-06-08,Chandigarh Point,North,Home & Kitchen,Corporate,Store,1,9.9,5679.94,1235.49,21.8
+TXN100622,2025-06-24,Nagpur Hub,Central,Home & Kitchen,Small Business,Online,3,6.7,9330.97,1760.75,18.9
+TXN100623,2025-03-02,Chandigarh Point,North,Furniture,Small Business,Store,1,12.4,9728.21,385.66,4.0
+TXN100624,2025-06-02,Delhi Central,North,Electronics,Small Business,Store,6,4.1,41505.09,5923.28,14.3
+TXN100625,2025-08-09,Hyderabad Hub,South,Grocery,Consumer,Online,1,12.1,1083.21,51.1,4.7
+TXN100626,2025-03-26,Guwahati Hub,East,Furniture,Consumer,Store,4,9.5,29523.02,2945.71,10.0
+TXN100627,2025-05-04,Indore Plaza,Central,Apparel,Corporate,Store,2,6.5,5437.2,899.47,16.5
+TXN100628,2025-05-15,Ahmedabad Hub,West,Grocery,Consumer,Store,3,10.6,2993.22,-14.03,-0.5
+TXN100629,2025-07-04,Pune Plaza,West,Grocery,Consumer,Online,1,8.5,1783.13,91.03,5.1
+TXN100630,2025-05-14,Delhi Central,North,Electronics,Corporate,Store,2,16.9,23091.86,2567.17,11.1
+TXN100631,2025-09-26,Chennai Central,South,Apparel,Corporate,Store,3,9.6,6642.42,1032.01,15.5
+TXN100632,2025-04-30,Guwahati Hub,East,Furniture,Small Business,Online,1,10.3,10288.87,639.83,6.2
+TXN100633,2025-06-08,Delhi Central,North,Apparel,Small Business,Online,2,2.2,3641.31,1014.72,27.9
+TXN100634,2025-05-19,Bengaluru Square,South,Electronics,Small Business,Store,1,5.4,15217.04,2261.85,14.9
+TXN100635,2025-03-08,Chennai Central,South,Beauty & Personal Care,Small Business,Online,1,15.2,3056.45,722.38,23.6
+TXN100636,2025-09-08,Chandigarh Point,North,Apparel,Small Business,Store,2,8.4,5578.68,1297.81,23.3
+TXN100637,2025-03-27,Bhubaneswar Plaza,East,Furniture,Consumer,Online,1,12.3,6597.74,330.12,5.0
+TXN100638,2025-04-19,Ahmedabad Hub,West,Electronics,Corporate,Store,1,12.0,9573.24,620.88,6.5
+TXN100639,2025-10-17,Jaipur Plaza,North,Grocery,Consumer,Store,1,7.8,1311.32,68.07,5.2
+TXN100640,2025-12-13,Kolkata Central,East,Electronics,Consumer,Online,1,10.5,7926.94,683.23,8.6
+TXN100641,2025-09-02,Pune Plaza,West,Furniture,Consumer,Store,2,5.4,34580.36,4806.4,13.9
+TXN100642,2025-12-01,Mumbai Central,West,Home & Kitchen,Small Business,Online,5,4.3,38386.8,6907.93,18.0
+TXN100643,2025-11-08,Surat Point,West,Apparel,Small Business,Online,2,4.7,9770.45,2374.41,24.3
+TXN100644,2025-06-25,Guwahati Hub,East,Furniture,Premium,Store,6,24.9,73048.79,-4836.95,-6.6
+TXN100645,2025-10-09,Pune Plaza,West,Apparel,Premium,Store,6,6.6,20876.57,4147.98,19.9
+TXN100646,2025-04-30,Chennai Central,South,Furniture,Small Business,Online,1,9.2,9892.41,551.31,5.6
+TXN100647,2025-06-18,Chennai Central,South,Beauty & Personal Care,Consumer,Store,2,8.0,3564.26,886.96,24.9
+TXN100648,2025-07-15,Chandigarh Point,North,Electronics,Small Business,Online,2,7.9,13319.55,2008.31,15.1
+TXN100649,2025-12-17,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,2,12.8,9378.49,1443.67,15.4
+TXN100650,2025-11-06,Kochi Point,South,Home & Kitchen,Small Business,Store,2,5.0,14436.57,3189.28,22.1
+TXN100651,2025-06-28,Chennai Central,South,Electronics,Consumer,Store,3,7.6,29044.61,3061.65,10.5
+TXN100652,2025-08-27,Ahmedabad Hub,West,Furniture,Consumer,Store,2,6.1,25675.3,932.41,3.6
+TXN100653,2025-03-15,Hyderabad Hub,South,Grocery,Premium,Store,6,9.5,7750.15,57.56,0.7
+TXN100654,2025-10-21,Chennai Central,South,Home & Kitchen,Consumer,Store,1,8.9,6410.98,1029.09,16.1
+TXN100655,2025-07-21,Chandigarh Point,North,Apparel,Consumer,Online,2,4.0,2998.14,707.27,23.6
+TXN100656,2025-07-14,Guwahati Hub,East,Apparel,Consumer,Online,2,6.9,3777.56,734.52,19.4
+TXN100657,2025-10-07,Kochi Point,South,Home & Kitchen,Consumer,Store,1,16.4,4817.12,408.51,8.5
+TXN100658,2025-08-20,Kochi Point,South,Home & Kitchen,Consumer,Online,3,3.7,13456.02,3397.18,25.2
+TXN100659,2025-01-27,Bengaluru Square,South,Grocery,Premium,Store,2,11.9,2785.93,-84.54,-3.0
+TXN100660,2025-04-16,Mumbai Central,West,Grocery,Small Business,Online,1,10.1,1201.43,37.92,3.2
+TXN100661,2025-03-06,Indore Plaza,Central,Home & Kitchen,Premium,Store,1,20.8,5301.33,202.85,3.8
+TXN100662,2025-09-26,Kolkata Central,East,Furniture,Consumer,Online,3,11.8,30613.16,1198.34,3.9
+TXN100663,2025-01-13,Pune Plaza,West,Home & Kitchen,Consumer,Store,2,2.2,5942.4,1396.08,23.5
+TXN100664,2025-03-15,Bhopal Central,Central,Electronics,Consumer,Store,4,15.5,30786.47,1503.74,4.9
+TXN100665,2025-08-07,Indore Plaza,Central,Furniture,Consumer,Online,3,14.7,16883.17,659.48,3.9
+TXN100666,2025-09-11,Pune Plaza,West,Home & Kitchen,Consumer,Store,1,12.9,4799.03,710.8,14.8
+TXN100667,2025-07-03,Indore Plaza,Central,Grocery,Small Business,Store,1,6.8,1079.59,44.46,4.1
+TXN100668,2025-11-11,Nagpur Hub,Central,Electronics,Premium,Online,1,4.5,16052.96,2581.35,16.1
+TXN100669,2025-12-02,Ahmedabad Hub,West,Furniture,Corporate,Online,3,26.4,40704.6,-671.75,-1.7
+TXN100670,2025-02-18,Bhubaneswar Plaza,East,Apparel,Consumer,Store,2,6.9,5400.26,723.95,13.4
+TXN100671,2025-12-14,Delhi Central,North,Home & Kitchen,Consumer,Store,2,29.6,51877.03,152.09,0.3
+TXN100672,2025-08-13,Jaipur Plaza,North,Electronics,Consumer,Online,2,6.3,14006.12,2076.85,14.8
+TXN100673,2025-08-21,Kolkata Central,East,Electronics,Consumer,Store,2,10.2,15356.59,1843.03,12.0
+TXN100674,2025-02-04,Kolkata Central,East,Grocery,Corporate,Online,6,10.6,15554.11,1285.78,8.3
+TXN100675,2025-08-15,Chennai Central,South,Beauty & Personal Care,Consumer,Online,3,8.5,6563.99,2071.26,31.6
+TXN100676,2025-09-22,Kolkata Central,East,Furniture,Corporate,Store,2,8.9,24268.61,1343.71,5.5
+TXN100677,2025-07-31,Bhubaneswar Plaza,East,Beauty & Personal Care,Small Business,Online,3,4.1,4270.63,958.52,22.4
+TXN100678,2025-01-31,Pune Plaza,West,Beauty & Personal Care,Consumer,Online,1,12.4,1409.22,304.16,21.6
+TXN100679,2025-07-10,Chandigarh Point,North,Furniture,Consumer,Store,8,21.2,80780.0,-1352.4,-1.7
+TXN100680,2025-12-08,Kochi Point,South,Home & Kitchen,Consumer,Online,1,7.9,3571.47,577.35,16.2
+TXN100681,2025-09-22,Mumbai Central,West,Apparel,Consumer,Online,1,10.1,2560.66,526.24,20.6
+TXN100682,2025-02-20,Indore Plaza,Central,Grocery,Corporate,Store,3,17.8,6196.77,-0.98,-0.0
+TXN100683,2025-12-17,Indore Plaza,Central,Grocery,Small Business,Store,2,4.1,3608.12,101.72,2.8
+TXN100684,2025-12-16,Indore Plaza,Central,Home & Kitchen,Small Business,Store,4,23.3,11825.78,1167.62,9.9
+TXN100685,2025-03-03,Indore Plaza,Central,Home & Kitchen,Corporate,Store,3,20.1,22294.94,359.71,1.6
+TXN100686,2025-10-20,Kochi Point,South,Home & Kitchen,Consumer,Store,1,18.1,6499.34,553.01,8.5
+TXN100687,2025-05-29,Chennai Central,South,Beauty & Personal Care,Consumer,Online,1,2.5,2224.92,711.58,32.0
+TXN100688,2025-08-05,Bengaluru Square,South,Grocery,Consumer,Store,1,7.9,1918.61,128.66,6.7
+TXN100689,2025-06-12,Pune Plaza,West,Home & Kitchen,Consumer,Online,4,6.8,14937.15,2542.26,17.0
+TXN100690,2025-10-13,Bhopal Central,Central,Home & Kitchen,Small Business,Online,2,1.0,12322.71,3545.87,28.8
+TXN100691,2025-12-30,Chennai Central,South,Furniture,Corporate,Store,1,6.7,14969.49,712.66,4.8
+TXN100692,2025-10-18,Kolkata Central,East,Electronics,Consumer,Store,1,3.3,5883.06,332.64,5.7
+TXN100693,2025-12-06,Bengaluru Square,South,Grocery,Consumer,Store,1,6.1,3338.71,244.21,7.3
+TXN100694,2025-12-12,Chandigarh Point,North,Home & Kitchen,Consumer,Online,3,6.2,9084.18,1129.52,12.4
+TXN100695,2025-02-02,Delhi Central,North,Furniture,Premium,Online,5,22.5,72833.85,-2013.37,-2.8
+TXN100696,2025-04-03,Jaipur Plaza,North,Apparel,Consumer,Store,2,0.6,5429.04,1373.78,25.3
+TXN100697,2025-09-21,Nagpur Hub,Central,Electronics,Consumer,Store,1,16.1,8301.11,321.65,3.9
+TXN100698,2025-08-04,Hyderabad Hub,South,Grocery,Consumer,Store,1,2.4,1387.3,139.09,10.0
+TXN100699,2025-01-19,Surat Point,West,Apparel,Small Business,Online,4,5.5,11119.3,2004.39,18.0
+TXN100700,2025-02-04,Mumbai Central,West,Electronics,Corporate,Online,2,14.8,22043.09,2493.69,11.3
+TXN100701,2025-07-09,Noida Hub,North,Beauty & Personal Care,Corporate,Store,4,5.5,10595.39,1923.37,18.2
+TXN100702,2025-08-13,Delhi Central,North,Electronics,Consumer,Store,2,2.4,17251.71,3216.42,18.6
+TXN100703,2025-03-03,Ahmedabad Hub,West,Beauty & Personal Care,Consumer,Online,1,3.8,1920.35,489.75,25.5
+TXN100704,2025-03-04,Hyderabad Hub,South,Furniture,Small Business,Online,2,10.1,16629.0,1721.76,10.4
+TXN100705,2025-02-17,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Online,1,12.2,2558.89,485.64,19.0
+TXN100706,2025-07-26,Noida Hub,North,Apparel,Consumer,Online,4,15.1,9551.99,2184.61,22.9
+TXN100707,2025-01-03,Mumbai Central,West,Electronics,Corporate,Store,4,5.2,48993.65,4366.24,8.9
+TXN100708,2025-07-28,Surat Point,West,Electronics,Consumer,Online,1,14.6,6682.31,146.06,2.2
+TXN100709,2025-06-23,Hyderabad Hub,South,Electronics,Consumer,Store,2,9.3,12323.56,1219.31,9.9
+TXN100710,2025-06-20,Kochi Point,South,Apparel,Small Business,Store,2,1.6,7501.11,2010.01,26.8
+TXN100711,2025-09-05,Indore Plaza,Central,Home & Kitchen,Corporate,Store,3,10.0,13698.89,2336.37,17.1
+TXN100712,2025-07-10,Chennai Central,South,Grocery,Consumer,Store,2,13.0,2929.43,162.08,5.5
+TXN100713,2025-09-23,Bhubaneswar Plaza,East,Grocery,Consumer,Online,1,12.5,772.59,44.61,5.8
+TXN100714,2025-10-06,Guwahati Hub,East,Apparel,Small Business,Online,1,16.9,3797.46,405.9,10.7
+TXN100715,2025-12-02,Bengaluru Square,South,Apparel,Consumer,Online,2,9.4,7133.01,1594.44,22.4
+TXN100716,2025-10-19,Surat Point,West,Apparel,Consumer,Store,4,18.5,9942.78,1230.28,12.4
+TXN100717,2025-07-08,Mumbai Central,West,Grocery,Corporate,Online,1,6.4,2130.46,107.02,5.0
+TXN100718,2025-06-29,Chennai Central,South,Home & Kitchen,Corporate,Online,2,12.5,12005.64,1849.06,15.4
+TXN100719,2025-03-28,Pune Plaza,West,Beauty & Personal Care,Premium,Online,2,11.7,4074.07,897.17,22.0
+TXN100720,2025-08-07,Jaipur Plaza,North,Grocery,Consumer,Online,2,19.1,3635.83,168.72,4.6
+TXN100721,2025-02-20,Jaipur Plaza,North,Electronics,Consumer,Store,4,5.0,36918.72,3911.31,10.6
+TXN100722,2025-12-06,Guwahati Hub,East,Electronics,Corporate,Store,2,4.2,19378.37,1860.83,9.6
+TXN100723,2025-11-05,Nagpur Hub,Central,Apparel,Corporate,Store,2,13.1,4850.28,626.61,12.9
+TXN100724,2025-02-13,Delhi Central,North,Grocery,Consumer,Store,2,2.5,3464.0,504.74,14.6
+TXN100725,2025-10-14,Delhi Central,North,Beauty & Personal Care,,Online,4,2.6,12008.97,3076.79,25.6
+TXN100726,2025-02-12,Guwahati Hub,East,Apparel,Consumer,Online,2,5.2,4551.97,1074.96,23.6
+TXN100727,2025-09-21,Pune Plaza,West,Grocery,Small Business,Store,1,12.4,1667.72,-30.21,-1.8
+TXN100728,2025-02-02,Delhi Central,North,Home & Kitchen,Small Business,Store,4,2.6,13520.65,2794.72,20.7
+TXN100729,2025-06-28,Kochi Point,South,Furniture,Consumer,Store,4,9.8,46226.8,2401.32,5.2
+TXN100730,2025-08-29,Ahmedabad Hub,West,Home & Kitchen,Premium,Online,1,6.1,6460.35,1487.99,23.0
+TXN100731,2025-09-24,Bengaluru Square,South,Electronics,Premium,Store,4,27.9,45597.34,920.21,2.0
+TXN100732,2025-06-02,Chandigarh Point,North,Apparel,Consumer,Online,4,2.0,18664.42,4586.93,24.6
+TXN100733,2025-12-03,Jaipur Plaza,North,Beauty & Personal Care,Consumer,Online,1,24.7,2121.68,-80.25,-3.8
+TXN100734,2025-10-10,Hyderabad Hub,South,Home & Kitchen,Corporate,Store,3,8.1,23377.36,4952.25,21.2
+TXN100735,2025-03-18,Guwahati Hub,East,Home & Kitchen,Consumer,Store,2,5.3,14399.33,1899.36,13.2
+TXN100736,2025-09-02,Indore Plaza,Central,Grocery,Consumer,Store,2,8.4,2777.43,-100.67,-3.6
+TXN100737,2025-09-24,Pune Plaza,West,Home & Kitchen,Consumer,Store,2,21.1,7552.12,69.57,0.9
+TXN100738,2025-05-02,Ahmedabad Hub,West,Apparel,Premium,Online,2,8.1,6939.55,1030.67,14.9
+TXN100739,2025-09-27,Bhopal Central,Central,Apparel,Consumer,Store,2,16.3,3568.65,552.85,15.5
+TXN100740,2025-11-24,Bengaluru Square,South,Electronics,Small Business,Store,1,1.5,7339.69,1639.2,22.3
+TXN100741,2025-10-26,Kochi Point,South,Furniture,Consumer,Store,1,4.7,15503.8,182.41,1.2
+TXN100742,2025-10-06,Bhopal Central,Central,Apparel,Consumer,Store,3,15.5,4710.46,525.07,11.1
+TXN100743,2025-08-20,Hyderabad Hub,South,Electronics,Small Business,Store,1,5.5,13184.96,1637.77,12.4
+TXN100744,2025-04-09,Pune Plaza,West,Home & Kitchen,Consumer,Online,1,8.3,4034.7,919.53,22.8
+TXN100745,2025-10-18,Mumbai Central,West,Home & Kitchen,Consumer,Store,5,24.2,19896.28,538.76,2.7
+TXN100746,2025-05-13,Jaipur Plaza,North,Beauty & Personal Care,Consumer,Store,2,7.1,3506.94,883.15,25.2
+TXN100747,2025-07-14,Guwahati Hub,East,Electronics,Small Business,Store,3,15.1,33235.99,1536.22,4.6
+TXN100748,2025-04-25,Noida Hub,North,Beauty & Personal Care,Consumer,Store,1,5.5,2507.87,833.58,33.2
+TXN100749,2025-04-25,Delhi Central,North,Electronics,Consumer,Store,6,9.6,48019.37,4817.68,10.0
+TXN100750,2025-02-27,Kolkata Central,East,Grocery,Consumer,Online,3,1.8,2700.0,275.66,10.2
+TXN100751,2025-12-17,Bengaluru Square,South,Home & Kitchen,Consumer,Store,2,17.4,10641.19,1068.15,10.0
+TXN100752,2025-02-23,Surat Point,West,Electronics,Consumer,Store,4,16.9,23334.92,835.62,3.6
+TXN100753,2025-02-01,Bhopal Central,Central,Electronics,Corporate,Store,2,19.1,11067.94,771.14,7.0
+TXN100754,2025-12-08,Pune Plaza,West,Electronics,Consumer,Store,3,2.1,38288.81,3893.09,10.2
+TXN100755,2025-07-22,Bengaluru Square,South,Grocery,Consumer,Store,2,13.8,3429.95,-207.74,-6.1
+TXN100756,2025-06-09,Chennai Central,South,Home & Kitchen,Corporate,Store,6,17.5,24630.58,2249.71,9.1
+TXN100757,2025-09-27,Kochi Point,South,Electronics,Small Business,Store,3,3.8,36757.6,5877.95,16.0
+TXN100758,2025-05-20,Noida Hub,North,Electronics,Consumer,Online,1,12.1,7055.65,562.38,8.0
+TXN100759,2025-02-16,Indore Plaza,Central,Apparel,Consumer,Online,3,11.2,7210.18,1383.72,19.2
+TXN100760,2025-09-24,Bengaluru Square,South,Furniture,Consumer,Store,5,3.9,77766.84,3079.29,4.0
+TXN100761,2025-03-06,Bengaluru Square,South,Home & Kitchen,Premium,Online,3,4.5,18504.08,4338.8,23.4
+TXN100762,2025-07-21,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,2,7.7,2320.2,580.04,25.0
+TXN100763,2025-12-13,Bengaluru Square,South,Home & Kitchen,Consumer,Online,5,3.4,15964.38,3266.77,20.5
+TXN100764,2025-12-08,Noida Hub,North,Home & Kitchen,Consumer,Store,2,1.3,12245.14,2485.09,20.3
+TXN100765,2025-05-12,Noida Hub,North,Grocery,Consumer,Online,1,9.0,947.62,9.68,1.0
+TXN100766,2025-10-12,Mumbai Central,West,Home & Kitchen,Consumer,Online,2,1.7,11054.18,1846.67,16.7
+TXN100767,2025-08-12,Ahmedabad Hub,West,Furniture,Consumer,Store,3,8.4,40547.1,1956.16,4.8
+TXN100768,2025-06-24,Chandigarh Point,North,Electronics,Corporate,Online,1,25.1,7616.96,286.59,3.8
+TXN100769,2025-02-21,Bhopal Central,Central,Apparel,Corporate,Online,6,2.8,16623.7,4279.62,25.7
+TXN100770,2025-05-18,Nagpur Hub,Central,Electronics,Corporate,Online,3,13.1,38732.44,3131.85,8.1
+TXN100771,2025-08-26,Indore Plaza,Central,Beauty & Personal Care,Small Business,Online,1,4.8,1548.12,451.05,29.1
+TXN100772,2025-12-27,Hyderabad Hub,South,Apparel,Consumer,Store,3,4.6,6783.58,1737.04,25.6
+TXN100773,2025-01-02,Delhi Central,North,Beauty & Personal Care,Premium,Online,3,10.6,7291.67,1648.77,22.6
+TXN100774,2025-09-19,Nagpur Hub,Central,Grocery,Small Business,Store,7,5.0,15277.06,1146.3,7.5
+TXN100775,2025-11-05,Bengaluru Square,South,Grocery,Small Business,Store,4,7.5,12187.25,499.78,4.1
+TXN100776,2025-12-14,Surat Point,West,Home & Kitchen,Small Business,Store,1,17.7,4912.01,446.0,9.1
+TXN100777,2025-06-04,Ahmedabad Hub,West,Furniture,Consumer,Store,3,26.0,21159.3,-694.04,-3.3
+TXN100778,2025-02-13,Noida Hub,North,Apparel,Consumer,Online,5,10.9,14382.22,3554.06,24.7
+TXN100779,2025-04-09,Mumbai Central,West,Apparel,Consumer,Store,3,10.7,4599.73,923.95,20.1
+TXN100780,2025-11-07,Indore Plaza,Central,Beauty & Personal Care,Consumer,Store,2,6.7,4215.42,1105.4,26.2
+TXN100781,2025-11-17,Mumbai Central,West,Home & Kitchen,Consumer,Online,2,5.3,10056.55,1771.28,17.6
+TXN100782,2025-08-21,Bhubaneswar Plaza,East,Electronics,Consumer,Store,2,4.4,21236.23,1794.15,8.4
+TXN100783,2025-02-14,Nagpur Hub,Central,Grocery,Consumer,Store,2,2.5,3585.79,334.14,9.3
+TXN100784,2025-02-14,Kolkata Central,East,Apparel,Premium,Store,1,6.0,2496.9,529.91,21.2
+TXN100785,2025-06-24,Mumbai Central,West,Electronics,Small Business,Store,1,2.6,11342.2,2261.61,19.9
+TXN100786,2025-08-03,Mumbai Central,West,Grocery,Corporate,Online,3,9.1,4786.11,-130.86,-2.7
+TXN100787,2025-01-12,Mumbai Central,West,Furniture,Consumer,Store,4,12.1,36113.57,3715.62,10.3
+TXN100788,2025-09-08,Bengaluru Square,South,Electronics,,Store,3,5.2,43974.55,6030.0,13.7
+TXN100789,2025-07-18,Delhi Central,North,Grocery,Small Business,Online,3,5.6,4141.59,463.0,11.2
+TXN100790,2025-01-05,Hyderabad Hub,South,Furniture,Corporate,Online,4,9.4,55058.19,713.0,1.3
+TXN100791,2025-02-04,Kolkata Central,East,Apparel,Corporate,Online,3,11.9,9785.57,1491.57,15.2
+TXN100792,2025-06-15,Guwahati Hub,East,Furniture,Corporate,Store,5,18.3,78897.1,1716.09,2.2
+TXN100793,2025-09-21,Guwahati Hub,East,Home & Kitchen,Consumer,Online,8,4.5,30857.87,4231.03,13.7
+TXN100794,2025-10-29,Kochi Point,South,Furniture,Small Business,Online,1,10.3,14271.44,-348.08,-2.4
+TXN100795,2025-06-07,Ahmedabad Hub,West,Beauty & Personal Care,Premium,Store,4,10.2,8668.99,1939.99,22.4
+TXN100796,2025-04-18,Bhopal Central,Central,Electronics,Consumer,Store,3,1.8,37849.09,5376.9,14.2
+TXN100797,2025-12-20,Kochi Point,South,Grocery,Consumer,Online,1,11.5,1748.98,164.49,9.4
+TXN100798,2025-06-17,Mumbai Central,West,Grocery,Consumer,Store,1,3.2,1503.73,104.79,7.0
+TXN100799,2025-04-26,Pune Plaza,West,Furniture,Consumer,Store,2,5.2,23256.84,1514.75,6.5
+TXN100800,2025-06-11,Bhubaneswar Plaza,East,Grocery,Premium,Store,4,7.0,8175.83,547.39,6.7
+TXN100801,2025-01-05,Jaipur Plaza,North,Home & Kitchen,Small Business,Online,5,15.6,23569.35,3878.21,16.5
+TXN100802,2025-04-21,Ahmedabad Hub,West,Beauty & Personal Care,,Online,2,7.3,4893.22,1100.07,22.5
+TXN100803,2025-07-08,Nagpur Hub,Central,Grocery,Consumer,Store,1,5.6,1862.29,173.37,9.3
+TXN100804,2025-12-02,Surat Point,West,Electronics,Consumer,Online,1,17.4,10024.06,491.81,4.9
+TXN100805,2025-09-27,Indore Plaza,Central,Home & Kitchen,Consumer,Store,3,4.4,18416.54,3278.32,17.8
+TXN100806,2025-10-13,Nagpur Hub,Central,Apparel,Corporate,Online,3,6.3,13524.79,3240.49,24.0
+TXN100807,2025-07-18,Bengaluru Square,South,Furniture,Small Business,Store,6,6.4,71639.07,6144.05,8.6
+TXN100808,2025-02-10,Surat Point,West,Home & Kitchen,Corporate,Store,2,13.0,6228.32,842.88,13.5
+TXN100809,2025-05-23,Kolkata Central,East,Grocery,Consumer,Store,1,17.0,1065.72,-45.02,-4.2
+TXN100810,2025-12-30,Nagpur Hub,Central,Apparel,Small Business,Store,2,22.9,7648.29,208.43,2.7
+TXN100811,2025-01-17,Noida Hub,North,Grocery,Small Business,Store,3,7.0,3498.65,158.41,4.5
+TXN100812,2025-11-17,Kochi Point,South,Grocery,Consumer,Store,1,3.4,1758.94,190.13,10.8
+TXN100813,2025-09-07,Bhopal Central,Central,Furniture,Corporate,Store,5,14.4,64050.46,2177.75,3.4
+TXN100814,2025-04-14,Chennai Central,South,Home & Kitchen,Corporate,Store,2,5.7,14095.34,2507.51,17.8
+TXN100815,2025-10-11,Surat Point,West,Electronics,Small Business,Store,1,18.2,9565.84,401.52,4.2
+TXN100816,2025-11-02,Bengaluru Square,South,Home & Kitchen,Consumer,Store,2,5.7,7597.37,1371.09,18.0
+TXN100817,2025-01-16,Bhopal Central,Central,Home & Kitchen,Consumer,Store,1,7.4,3823.17,475.5,12.4
+TXN100818,2025-02-08,Bhopal Central,Central,Home & Kitchen,Corporate,Online,1,15.1,3343.93,529.86,15.8
+TXN100819,2025-08-31,Chennai Central,South,Electronics,Consumer,Store,3,7.2,15284.46,2138.32,14.0
+TXN100820,2025-12-31,Pune Plaza,West,Furniture,Consumer,Store,2,20.2,37404.09,-697.45,-1.9
+TXN100821,2025-01-09,Hyderabad Hub,South,Grocery,Small Business,Store,4,7.4,7764.93,499.87,6.4
+TXN100822,2025-08-31,Pune Plaza,West,Apparel,Consumer,Store,7,16.8,26772.62,1899.39,7.1
+TXN100823,2025-02-19,Mumbai Central,West,Beauty & Personal Care,Consumer,Store,7,10.8,15569.07,3335.03,21.4
+TXN100824,2025-08-26,Mumbai Central,West,Grocery,Premium,Store,3,13.3,7924.55,64.45,0.8
+TXN100825,2025-08-16,Chandigarh Point,North,Home & Kitchen,Corporate,Online,3,25.3,13615.67,1531.18,11.2
+TXN100826,2025-02-03,Kochi Point,South,Furniture,Corporate,Store,7,7.0,90814.95,4812.19,5.3
+TXN100827,2025-09-06,Mumbai Central,West,Grocery,Corporate,Online,2,5.7,4704.63,516.39,11.0
+TXN100828,2025-11-24,Kolkata Central,East,Electronics,Consumer,Online,2,6.7,15075.52,1585.64,10.5
+TXN100829,2025-11-12,Kolkata Central,East,Home & Kitchen,Consumer,Online,4,10.9,11433.26,776.09,6.8
+TXN100830,2025-01-11,Chandigarh Point,North,Electronics,Small Business,Store,2,11.4,15834.03,1211.44,7.7
+TXN100831,2025-03-31,Hyderabad Hub,South,Furniture,Consumer,Online,2,5.0,30934.03,2813.47,9.1
+TXN100832,2025-03-29,Nagpur Hub,Central,Home & Kitchen,Consumer,Store,3,3.7,7663.63,1437.96,18.8
+TXN100833,2025-06-15,Noida Hub,North,Apparel,Consumer,Store,2,10.1,3127.06,556.44,17.8
+TXN100834,2025-02-22,Hyderabad Hub,South,Electronics,Small Business,Store,2,25.2,18361.37,-346.81,-1.9
+TXN100835,2025-11-08,Bhopal Central,Central,Electronics,Consumer,Online,3,5.8,25049.1,3200.51,12.8
+TXN100836,2025-10-11,Jaipur Plaza,North,Grocery,Small Business,Online,2,4.7,4161.64,194.15,4.7
+TXN100837,2025-10-23,Ahmedabad Hub,West,Grocery,Consumer,Store,1,21.9,1808.69,-199.68,-11.0
+TXN100838,2025-03-14,Chennai Central,South,Furniture,Corporate,Store,3,19.7,41953.54,-379.27,-0.9
+TXN100839,2025-01-06,Nagpur Hub,Central,Apparel,Consumer,Store,2,5.2,3439.92,607.67,17.7
+TXN100840,2025-11-29,Ahmedabad Hub,West,Furniture,Consumer,Store,1,8.4,18985.9,1565.93,8.2
+TXN100841,2025-04-16,Indore Plaza,Central,Apparel,Corporate,Store,1,16.8,3215.53,174.19,5.4
+TXN100842,2025-08-28,Delhi Central,North,Grocery,Small Business,Store,5,11.1,7416.77,268.13,3.6
+TXN100843,2025-11-28,Kolkata Central,East,Furniture,Consumer,Store,2,5.5,21900.11,2452.28,11.2
+TXN100844,2025-01-14,Surat Point,West,Electronics,Consumer,Store,4,15.1,34048.19,1872.92,5.5
+TXN100845,2025-01-02,Chennai Central,South,Furniture,Consumer,Store,2,27.8,14110.34,-662.8,-4.7
+TXN100846,2025-01-02,Chennai Central,South,Electronics,Consumer,Store,1,0.2,5453.24,919.18,16.9
+TXN100847,2025-02-27,Jaipur Plaza,North,Grocery,Corporate,Online,4,5.5,8483.36,834.76,9.8
+TXN100848,2025-01-19,Bhopal Central,Central,Beauty & Personal Care,Consumer,Online,1,16.0,1655.81,300.66,18.2
+TXN100849,2025-10-27,Pune Plaza,West,Home & Kitchen,Corporate,Store,1,9.8,3240.63,353.33,10.9
+TXN100850,2025-08-10,Ahmedabad Hub,West,Grocery,Consumer,Store,4,4.7,6707.12,593.78,8.9
+TXN100851,2025-12-24,Ahmedabad Hub,West,Apparel,Corporate,Online,2,17.4,11671.42,937.87,8.0
+TXN100852,2025-10-20,Bhubaneswar Plaza,East,Apparel,Consumer,Store,4,5.4,6929.04,1405.53,20.3
+TXN100853,2025-12-18,Kolkata Central,East,Home & Kitchen,Consumer,Online,2,8.6,7500.65,1043.08,13.9
+TXN100854,2025-03-29,Bhubaneswar Plaza,East,Furniture,Consumer,Online,2,15.8,15298.53,412.83,2.7
+TXN100855,2025-04-16,Pune Plaza,West,Grocery,Premium,Store,5,3.8,19469.93,1035.21,5.3
+TXN100856,2025-11-07,Jaipur Plaza,North,Grocery,Corporate,Store,2,7.9,5830.8,560.86,9.6
+TXN100857,2025-03-31,Bhopal Central,Central,Electronics,Small Business,Online,2,4.0,14459.75,2299.96,15.9
+TXN100858,2025-01-21,Mumbai Central,West,Grocery,Consumer,Store,3,3.2,4582.0,292.25,6.4
+TXN100859,2025-09-02,Kochi Point,South,Home & Kitchen,Consumer,Store,1,9.2,7650.23,1037.25,13.6
+TXN100860,2025-10-20,Guwahati Hub,East,Beauty & Personal Care,Consumer,Store,4,11.5,5600.16,979.25,17.5
+TXN100861,2025-12-20,Chandigarh Point,North,Electronics,Consumer,Store,2,20.0,16630.97,1907.35,11.5
+TXN100862,2025-12-05,Bhopal Central,Central,Grocery,Corporate,Store,4,9.2,8653.85,-72.68,-0.8
+TXN100863,2025-02-13,Nagpur Hub,Central,Grocery,Small Business,Store,2,3.5,2387.82,265.1,11.1
+TXN100864,2025-10-09,Bhopal Central,Central,Grocery,Corporate,Store,2,13.3,5714.33,184.36,3.2
+TXN100865,2025-11-05,Hyderabad Hub,South,Apparel,Corporate,Store,1,3.1,3624.75,978.01,27.0
+TXN100866,2025-09-12,Delhi Central,North,Electronics,Consumer,Online,4,24.8,18914.07,813.62,4.3
+TXN100867,2025-10-27,Chandigarh Point,North,Home & Kitchen,Consumer,Online,4,7.6,14877.09,2644.74,17.8
+TXN100868,2025-11-02,Noida Hub,North,Beauty & Personal Care,Small Business,Store,3,1.5,9560.2,2880.82,30.1
+TXN100869,2025-06-12,Chandigarh Point,North,Apparel,Consumer,Store,1,5.9,1839.94,379.39,20.6
+TXN100870,2025-01-15,Noida Hub,North,Apparel,Consumer,Store,2,6.8,4759.91,1043.88,21.9
+TXN100871,2025-06-16,Nagpur Hub,Central,Grocery,Premium,Online,2,11.0,4368.08,423.6,9.7
+TXN100872,2025-03-15,Noida Hub,North,Grocery,Premium,Store,2,13.8,2848.04,36.69,1.3
+TXN100873,2025-02-11,Delhi Central,North,Electronics,Corporate,Online,3,16.6,24468.42,1394.68,5.7
+TXN100874,2025-02-15,Mumbai Central,West,Apparel,Consumer,Store,4,8.1,10549.6,1709.76,16.2
+TXN100875,2025-09-12,Guwahati Hub,East,Electronics,Small Business,Store,1,6.1,10956.5,1282.63,11.7
+TXN100876,2025-07-04,Mumbai Central,West,Home & Kitchen,Consumer,Store,1,3.9,3534.16,531.22,15.0
+TXN100877,2025-07-17,Pune Plaza,West,Grocery,Consumer,Store,3,12.5,4050.84,20.16,0.5
+TXN100878,2025-09-29,Indore Plaza,Central,Grocery,Consumer,Online,2,8.7,2295.43,62.71,2.7
+TXN100879,2025-07-20,Pune Plaza,West,Grocery,Premium,Store,1,8.6,2737.16,163.42,6.0
+TXN100880,2025-08-18,Kolkata Central,East,Beauty & Personal Care,Premium,Store,3,5.4,8874.45,1682.35,19.0
+TXN100881,2025-02-01,Ahmedabad Hub,West,Furniture,Corporate,Store,5,28.5,49522.68,-4331.41,-8.7
+TXN100882,2025-11-07,Guwahati Hub,East,Electronics,Consumer,Store,3,14.6,27629.0,616.15,2.2
+TXN100883,2025-06-13,Hyderabad Hub,South,Furniture,Corporate,Store,7,12.1,82247.0,1351.12,1.6
+TXN100884,2025-02-26,Guwahati Hub,East,Apparel,Consumer,Store,3,17.9,5870.64,554.35,9.4
+TXN100885,2025-10-24,Delhi Central,North,Beauty & Personal Care,Small Business,Store,1,8.2,2661.99,620.72,23.3
+TXN100886,2025-09-26,Pune Plaza,West,Furniture,Consumer,Store,2,16.7,40316.06,192.67,0.5
+TXN100887,2025-01-20,Bengaluru Square,South,Beauty & Personal Care,Consumer,Store,1,3.8,1600.39,423.4,26.5
+TXN100888,2025-03-12,Chandigarh Point,North,Furniture,Small Business,Store,4,12.8,43191.31,1816.15,4.2
+TXN100889,2025-01-06,Hyderabad Hub,South,Apparel,Consumer,Store,2,34.5,2661.18,124.49,4.7
+TXN100890,2025-04-09,Bhopal Central,Central,Electronics,Small Business,Online,1,4.5,6954.97,558.59,8.0
+TXN100891,2025-02-06,Hyderabad Hub,South,Grocery,Consumer,Store,3,3.2,3578.14,128.45,3.6
+TXN100892,2025-09-17,Mumbai Central,West,Apparel,Small Business,Store,1,9.9,3645.67,702.89,19.3
+TXN100893,2025-07-10,Bhopal Central,Central,Apparel,Consumer,Store,4,8.3,10072.53,1920.32,19.1
+TXN100894,2025-12-24,Jaipur Plaza,North,Furniture,Consumer,Online,3,7.0,39037.2,4018.8,10.3
+TXN100895,2025-10-01,Ahmedabad Hub,West,Home & Kitchen,Corporate,Store,3,9.0,17193.77,1636.14,9.5
+TXN100896,2025-08-12,Kochi Point,South,Beauty & Personal Care,Consumer,Store,5,3.8,8143.01,-2026.11,-24.9
+TXN100897,2025-07-05,Jaipur Plaza,North,Grocery,Corporate,Store,1,6.6,1328.57,58.17,4.4
+TXN100898,2025-01-20,Surat Point,West,Apparel,Consumer,Online,1,3.0,2115.84,512.56,24.2
+TXN100899,2025-01-26,Indore Plaza,Central,Home & Kitchen,Consumer,Online,2,14.6,4183.32,568.14,13.6
+TXN100900,2025-08-13,Bengaluru Square,South,Furniture,Small Business,Store,1,11.0,17422.24,904.96,5.2
+TXN100901,2025-01-02,Kolkata Central,East,Home & Kitchen,Consumer,Online,1,2.1,5462.14,999.26,18.3
+TXN100902,2025-01-16,Kochi Point,South,Furniture,Corporate,Store,1,23.3,6416.74,96.85,1.5
+TXN100903,2025-03-21,Kolkata Central,East,Home & Kitchen,Small Business,Store,7,7.8,29293.41,5556.23,19.0
+TXN100904,2025-11-19,Pune Plaza,West,Electronics,Consumer,Store,2,3.2,24481.51,2348.19,9.6
+TXN100905,2025-06-17,Mumbai Central,West,Furniture,Small Business,Online,2,17.9,23872.07,495.35,2.1
+TXN100906,2025-09-16,Pune Plaza,West,Apparel,Consumer,Store,3,25.6,5380.35,559.07,10.4
+TXN100907,2025-05-31,Jaipur Plaza,North,Grocery,Consumer,Store,4,8.6,6970.34,432.78,6.2
+TXN100908,2025-03-05,Mumbai Central,West,Home & Kitchen,Consumer,Store,3,13.8,12777.66,1340.07,10.5
+TXN100909,2025-05-16,Pune Plaza,West,Beauty & Personal Care,Small Business,Online,1,12.4,2863.76,649.64,22.7
+TXN100910,2025-02-03,Surat Point,West,Electronics,Corporate,Online,5,12.1,44497.06,1980.13,4.5
+TXN100911,2025-10-09,Delhi Central,North,Furniture,Corporate,Store,1,15.9,9682.97,126.55,1.3
+TXN100912,2025-03-08,Kolkata Central,East,Grocery,Premium,Store,6,4.2,13160.55,206.92,1.6
+TXN100913,2025-05-18,Chennai Central,South,Grocery,Consumer,Online,6,27.3,4952.84,-181.16,-3.7
+TXN100914,2025-12-24,Chandigarh Point,North,Grocery,Small Business,Store,1,2.5,2561.62,104.08,4.1
+TXN100915,2025-08-05,Chennai Central,South,Home & Kitchen,Small Business,Online,2,3.7,5274.99,1094.49,20.7
+TXN100916,2025-06-17,Bhubaneswar Plaza,East,Home & Kitchen,Premium,Store,1,11.8,4437.75,557.77,12.6
+TXN100917,2025-07-18,Mumbai Central,West,Electronics,Premium,Online,2,7.1,24027.65,3204.89,13.3
+TXN100918,2025-10-14,Hyderabad Hub,South,Grocery,Premium,Store,3,22.1,5890.66,-377.92,-6.4
+TXN100919,2025-04-03,Mumbai Central,West,Apparel,Consumer,Store,2,3.6,5679.54,1164.9,20.5
+TXN100920,2025-08-21,Guwahati Hub,East,Grocery,Small Business,Online,1,5.5,1530.39,164.49,10.7
+TXN100921,2025-11-15,Mumbai Central,West,Electronics,Small Business,Store,1,3.5,15961.5,1890.76,11.8
+TXN100922,2025-07-28,Guwahati Hub,East,Grocery,Corporate,Online,2,17.6,3275.77,19.34,0.6
+TXN100923,2025-06-12,Kolkata Central,East,Grocery,Consumer,Online,1,3.8,1104.17,70.07,6.3
+TXN100924,2025-02-22,Mumbai Central,West,Furniture,Premium,Online,5,20.1,135430.0,5087.5,3.8
+TXN100925,2025-04-01,Indore Plaza,Central,Home & Kitchen,,Online,1,12.7,4866.6,724.32,14.9
+TXN100926,2025-12-12,Kolkata Central,East,Grocery,Corporate,Store,4,8.5,6563.64,89.96,1.4
+TXN100927,2025-07-17,Kolkata Central,East,Apparel,Corporate,Online,5,7.0,12791.92,2381.31,18.6
+TXN100928,2025-04-20,Ahmedabad Hub,West,Grocery,Consumer,Store,3,9.4,3814.65,107.75,2.8
+TXN100929,2025-06-02,Pune Plaza,West,Home & Kitchen,Small Business,Online,1,12.3,4946.88,976.31,19.7
+TXN100930,2025-07-30,Noida Hub,North,Electronics,,Store,1,15.4,5522.68,318.38,5.8
+TXN100931,2025-07-16,Guwahati Hub,East,Electronics,Small Business,Store,1,13.5,6140.41,124.27,2.0
+TXN100932,2025-09-13,Kolkata Central,East,Grocery,Small Business,Store,4,4.7,3164.02,232.71,7.4
+TXN100933,2025-04-04,Indore Plaza,Central,Grocery,Consumer,Online,5,18.3,4783.1,306.76,6.4
+TXN100934,2025-08-25,Kolkata Central,East,Grocery,Small Business,Online,4,6.4,7313.36,754.75,10.3
+TXN100935,2025-06-11,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,4,13.9,11478.73,810.23,7.1
+TXN100936,2025-12-10,Bhopal Central,Central,Furniture,Small Business,Store,2,10.9,24341.6,756.5,3.1
+TXN100937,2025-02-27,Kolkata Central,East,Electronics,Premium,Store,2,13.0,23041.65,1484.89,6.4
+TXN100938,2025-02-24,Delhi Central,North,Grocery,Consumer,Online,3,20.2,2437.73,-28.71,-1.2
+TXN100939,2025-06-18,Chandigarh Point,North,Home & Kitchen,Small Business,Online,1,11.7,4170.27,691.0,16.6
+TXN100940,2025-07-05,Delhi Central,North,Home & Kitchen,Corporate,Store,1,23.6,5209.92,244.5,4.7
+TXN100941,2025-09-10,Chandigarh Point,North,Home & Kitchen,Corporate,Store,5,3.9,30101.09,4477.78,14.9
+TXN100942,2025-05-28,Guwahati Hub,East,Apparel,Small Business,Store,3,15.7,8747.45,1318.43,15.1
+TXN100943,2025-11-30,Pune Plaza,West,Home & Kitchen,Corporate,Online,2,21.8,16182.24,-806.46,-5.0
+TXN100944,2025-06-23,Pune Plaza,West,Apparel,Corporate,Online,4,5.7,16287.81,3117.64,19.1
+TXN100945,2025-02-17,Chandigarh Point,North,Furniture,Consumer,Store,5,5.4,40620.91,1404.62,3.5
+TXN100946,2025-02-13,Guwahati Hub,East,Apparel,Consumer,Store,2,6.1,3575.74,-612.73,-17.1
+TXN100947,2025-12-22,Delhi Central,North,Home & Kitchen,Small Business,Online,5,9.9,43679.31,7300.89,16.7
+TXN100948,2025-02-18,Nagpur Hub,Central,Grocery,Consumer,Store,2,14.9,2312.22,77.53,3.4
+TXN100949,2025-12-12,Chandigarh Point,North,Apparel,Corporate,Store,1,3.0,4057.96,767.02,18.9
+TXN100950,2025-04-12,Mumbai Central,West,Grocery,Consumer,Online,1,3.1,1173.66,61.04,5.2
+TXN100951,2025-02-04,Bengaluru Square,South,Grocery,Small Business,Store,1,23.6,1230.25,-82.1,-6.7
+TXN100952,2025-04-22,Ahmedabad Hub,West,Electronics,Corporate,Store,3,15.5,40555.1,2119.98,5.2
+TXN100953,2025-08-13,Bengaluru Square,South,Apparel,Consumer,Store,3,9.1,7097.73,1319.4,18.6
+TXN100954,2025-06-06,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,3,6.3,10501.21,1126.57,10.7
+TXN100955,2025-10-14,Bengaluru Square,South,Electronics,Consumer,Store,3,4.9,27792.41,3930.33,14.1
+TXN100956,2025-08-12,Nagpur Hub,Central,Grocery,Premium,Online,1,8.1,2744.11,92.12,3.4
+TXN100957,2025-05-27,Kolkata Central,East,Electronics,Corporate,Store,2,12.2,22537.54,1119.17,5.0
+TXN100958,2025-08-20,Mumbai Central,West,Electronics,Corporate,Online,1,2.1,14749.1,2999.3,20.3
+TXN100959,2025-12-21,Bhopal Central,Central,Beauty & Personal Care,Small Business,Store,6,6.9,15210.69,2372.53,15.6
+TXN100960,2025-05-31,Bhopal Central,Central,Grocery,Consumer,Store,3,10.9,2536.67,97.93,3.9
+TXN100961,2025-02-26,Hyderabad Hub,South,Grocery,Consumer,Store,6,9.1,8242.21,411.87,5.0
+TXN100962,2025-05-30,Bengaluru Square,South,Furniture,Consumer,Store,2,14.1,26807.72,-19.61,-0.1
+TXN100963,2025-11-03,Kochi Point,South,Beauty & Personal Care,Consumer,Store,2,16.0,3703.99,593.36,16.0
+TXN100964,2025-03-21,Hyderabad Hub,South,Furniture,Small Business,Store,1,10.3,15773.26,1210.5,7.7
+TXN100965,2025-12-13,Kolkata Central,East,Home & Kitchen,Small Business,Store,4,1.5,22676.2,5273.45,23.3
+TXN100966,2025-08-03,Nagpur Hub,Central,Furniture,Premium,Store,3,18.2,51440.55,1655.11,3.2
+TXN100967,2025-08-08,Indore Plaza,Central,Electronics,Small Business,Online,1,4.1,9366.73,2019.37,21.6
+TXN100968,2025-04-26,Guwahati Hub,East,Apparel,Consumer,Store,1,11.9,2490.17,299.9,12.0
+TXN100969,2025-12-02,Mumbai Central,West,Electronics,Consumer,Store,4,3.9,28899.49,2175.92,7.5
+TXN100970,2025-01-14,Nagpur Hub,Central,Apparel,Corporate,Online,2,10.4,5288.36,997.85,18.9
+TXN100971,2025-04-20,Indore Plaza,Central,Furniture,Premium,Store,4,11.0,73010.1,4485.49,6.1
+TXN100972,2025-06-02,Chandigarh Point,North,Home & Kitchen,Small Business,Online,5,17.0,21158.08,1161.8,5.5
+TXN100973,2025-06-24,Bhubaneswar Plaza,East,Home & Kitchen,Corporate,Online,2,7.6,11795.44,1511.4,12.8
+TXN100974,2025-06-23,Ahmedabad Hub,West,Home & Kitchen,Small Business,Online,2,10.7,8712.72,1135.1,13.0
+TXN100975,2025-02-23,Chennai Central,South,Electronics,Small Business,Online,1,23.5,6822.74,284.11,4.2
+TXN100976,2025-03-24,Kolkata Central,East,Apparel,Premium,Online,2,14.6,3891.26,591.27,15.2
+TXN100977,2025-02-04,Bhopal Central,Central,Beauty & Personal Care,Small Business,Store,1,4.3,1736.15,384.46,22.1
+TXN100978,2025-07-28,Nagpur Hub,Central,Furniture,Consumer,Store,2,7.0,21025.56,1346.37,6.4
+TXN100979,2025-05-09,Nagpur Hub,Central,Furniture,Consumer,Online,1,11.5,11254.2,215.4,1.9
+TXN100980,2025-07-26,Pune Plaza,West,Home & Kitchen,Corporate,Online,5,19.2,15766.97,1440.13,9.1
+TXN100981,2025-08-04,Hyderabad Hub,South,Furniture,Consumer,Store,2,6.6,29423.9,712.48,2.4
+TXN100982,2025-09-14,Bengaluru Square,South,Apparel,Premium,Online,3,5.7,9666.71,2070.34,21.4
+TXN100983,2025-07-19,Kolkata Central,East,Home & Kitchen,Corporate,Store,3,14.6,11509.86,875.89,7.6
+TXN100984,2025-08-25,Bhubaneswar Plaza,East,Electronics,Corporate,Store,3,6.5,24981.09,3054.26,12.2
+TXN100985,2025-08-03,Bhubaneswar Plaza,East,Apparel,Consumer,Store,3,8.3,6756.36,1087.6,16.1
+TXN100986,2025-08-27,Surat Point,West,Apparel,Corporate,Store,2,5.0,7142.37,1400.61,19.6
+TXN100987,2025-08-14,Kochi Point,South,Grocery,Corporate,Store,3,22.7,5518.66,89.09,1.6
+TXN100988,2025-04-26,Pune Plaza,West,Home & Kitchen,Consumer,Store,4,18.2,24408.9,2578.66,10.6
+TXN100989,2025-03-31,Kochi Point,South,Furniture,Small Business,Store,1,13.7,12912.87,183.64,1.4
+TXN100990,2025-10-15,Chennai Central,South,Grocery,Consumer,Online,4,3.7,5494.78,393.09,7.2
+TXN100991,2025-05-06,Chandigarh Point,North,Home & Kitchen,Consumer,Online,1,18.0,3857.92,276.98,7.2
+TXN100992,2025-07-20,Delhi Central,North,Furniture,Consumer,Online,3,4.4,52379.8,4531.0,8.7
+TXN100993,2025-03-13,Bhopal Central,Central,Home & Kitchen,Corporate,Store,2,4.4,11607.88,2184.49,18.8
+TXN100994,2025-06-07,Kolkata Central,East,Electronics,Small Business,Store,1,7.2,10811.82,409.79,3.8
+TXN100995,2025-07-13,Kochi Point,South,Grocery,Small Business,Online,2,4.4,2043.21,82.24,4.0
+TXN100996,2025-08-17,Mumbai Central,West,Electronics,Consumer,Online,3,14.6,27437.09,1829.51,6.7
+TXN100997,2025-07-12,Guwahati Hub,East,Apparel,Premium,Store,5,1.5,15965.4,2628.14,16.5
+TXN100998,2025-05-12,Jaipur Plaza,North,Home & Kitchen,Small Business,Store,1,3.3,3902.8,726.54,18.6
+TXN100999,2025-12-18,Bengaluru Square,South,Home & Kitchen,Consumer,Store,4,9.5,17889.14,2732.84,15.3
+TXN101000,2025-07-07,Chandigarh Point,North,Beauty & Personal Care,Consumer,Store,1,4.8,1781.38,428.83,24.1
+TXN101001,2025-10-23,Mumbai Central,West,Apparel,Consumer,Online,3,1.1,7771.75,2080.0,26.8
+TXN101002,2025-09-26,Bengaluru Square,South,Home & Kitchen,Small Business,Store,2,12.1,9676.25,1062.19,11.0
+TXN101003,2025-07-23,Jaipur Plaza,North,Grocery,Consumer,Store,2,3.9,2493.52,172.64,6.9
+TXN101004,2025-11-20,Noida Hub,North,Beauty & Personal Care,Corporate,Store,2,16.4,6271.87,864.87,13.8
+TXN101005,2025-02-16,Kolkata Central,East,Apparel,Small Business,Store,2,13.6,4557.05,644.51,14.1
+TXN101006,2025-12-03,Delhi Central,North,Beauty & Personal Care,Small Business,Store,3,6.5,8121.58,1926.89,23.7
+TXN101007,2025-11-07,Indore Plaza,Central,Furniture,Corporate,Online,4,12.3,76645.59,1069.29,1.4
+TXN101008,2025-07-03,Delhi Central,North,Grocery,Small Business,Store,3,8.1,29560.86,771.39,2.6
+TXN101009,2025-09-25,Mumbai Central,West,Home & Kitchen,Consumer,Store,2,12.0,8126.87,1048.76,12.9
+TXN101010,2025-07-09,Bhubaneswar Plaza,East,Furniture,Small Business,Store,4,17.0,20252.66,288.1,1.4
+TXN101011,2025-04-09,Bhubaneswar Plaza,East,Furniture,Consumer,Store,6,14.7,57058.37,1450.68,2.5
+TXN101012,2025-10-19,Jaipur Plaza,North,Beauty & Personal Care,Consumer,Store,5,7.4,7720.08,1573.23,20.4
+TXN101013,2025-03-31,Mumbai Central,West,Grocery,Premium,Online,4,17.1,8150.64,292.66,3.6
+TXN101014,2025-04-25,Indore Plaza,Central,Furniture,Consumer,Store,6,19.8,54342.09,465.32,0.9
+TXN101015,2025-07-09,Chandigarh Point,North,Grocery,Consumer,Store,2,12.8,3450.12,-33.32,-1.0
+TXN101016,2025-11-02,Noida Hub,North,Grocery,Corporate,Online,3,2.5,11323.87,670.33,5.9
+TXN101017,2025-05-21,Bhopal Central,Central,Apparel,Consumer,Store,7,10.0,11443.56,1722.49,15.1
+TXN101018,2025-06-30,Bhubaneswar Plaza,East,Beauty & Personal Care,Consumer,Store,2,6.2,2083.36,339.28,16.3
+TXN101019,2025-01-16,Jaipur Plaza,North,Beauty & Personal Care,Corporate,Store,4,9.2,9447.52,2125.47,22.5
+TXN101020,2025-02-12,Delhi Central,North,Apparel,Small Business,Store,1,3.1,2932.47,754.38,25.7
+TXN101021,2025-01-21,Ahmedabad Hub,West,Apparel,Small Business,Store,4,16.7,7162.06,1299.44,18.1
+TXN101022,2025-01-27,Mumbai Central,West,Grocery,Consumer,Store,2,2.1,2795.33,122.97,4.4
+TXN101023,2025-11-14,Bhubaneswar Plaza,East,Home & Kitchen,Corporate,Store,2,8.2,12687.97,2029.58,16.0
+TXN101024,2025-11-04,Nagpur Hub,Central,Furniture,Small Business,Store,2,7.1,19103.02,1157.02,6.1
+TXN101025,2025-10-27,Bhubaneswar Plaza,East,Electronics,Consumer,Online,2,2.8,13083.6,846.57,6.5
+TXN101026,2025-01-21,Kochi Point,South,Beauty & Personal Care,Consumer,Store,2,15.4,2582.98,434.36,16.8
+TXN101027,2025-01-29,Kolkata Central,East,Home & Kitchen,Consumer,Store,4,12.5,10999.45,1082.38,9.8
+TXN101028,2025-04-13,Kochi Point,South,Grocery,Corporate,Store,3,17.5,5977.1,173.41,2.9
+TXN101029,2025-07-26,Kochi Point,South,Apparel,Consumer,Store,1,3.6,2212.81,403.66,18.2
+TXN101030,2025-05-02,Chandigarh Point,North,Grocery,Small Business,Online,3,8.8,4693.92,375.25,8.0
+TXN101031,2025-06-27,Hyderabad Hub,South,Grocery,Premium,Store,3,15.8,11171.5,-74.0,-0.7
+TXN101032,2025-03-05,Ahmedabad Hub,West,Furniture,Consumer,Online,1,5.9,8546.42,337.14,3.9
+TXN101033,2025-09-24,Jaipur Plaza,North,Electronics,Corporate,Online,4,4.4,39912.61,5125.74,12.8
+TXN101034,2025-04-25,Guwahati Hub,East,Apparel,Consumer,Store,1,8.0,2453.45,515.91,21.0
+TXN101035,2025-01-25,Surat Point,West,Grocery,Consumer,Online,1,5.7,1782.28,130.63,7.3
+TXN101036,2025-09-29,Pune Plaza,West,Grocery,Small Business,Store,3,0.4,6344.75,789.17,12.4
+TXN101037,2025-11-26,Mumbai Central,West,Furniture,Consumer,Online,4,4.5,91753.68,10294.76,11.2
+TXN101038,2025-01-06,Mumbai Central,West,Beauty & Personal Care,Premium,Store,6,19.0,16747.4,2365.0,14.1
+TXN101039,2025-06-09,Mumbai Central,West,Apparel,Corporate,Store,5,2.5,10063.29,1759.86,17.5
+TXN101040,2025-10-29,Delhi Central,North,Beauty & Personal Care,Consumer,Online,1,3.6,2131.42,494.66,23.2
+TXN101041,2025-09-15,Kolkata Central,East,Electronics,Consumer,Store,2,9.9,12475.07,1586.55,12.7
+TXN101042,2025-11-09,Mumbai Central,West,Apparel,Consumer,Store,2,5.7,9196.88,1887.25,20.5
+TXN101043,2025-06-01,Kochi Point,South,Home & Kitchen,Small Business,Store,3,4.3,18324.76,2158.73,11.8
+TXN101044,2025-05-16,Delhi Central,North,Grocery,Small Business,Store,1,2.0,1061.23,118.7,11.2
+TXN101045,2025-09-16,Hyderabad Hub,South,Furniture,Consumer,Store,1,13.8,14974.84,-408.7,-2.7
+TXN101046,2025-02-26,Bhubaneswar Plaza,East,Furniture,Corporate,Store,2,29.0,22878.96,-1545.79,-6.8
+TXN101047,2025-03-29,Bengaluru Square,South,Furniture,Corporate,Online,5,5.1,66301.52,5760.14,8.7
+TXN101048,2025-08-08,Jaipur Plaza,North,Grocery,Small Business,Online,4,7.1,6023.34,959.29,15.9
+TXN101049,2025-09-01,Surat Point,West,Grocery,Consumer,Store,4,21.4,7440.34,-66.05,-0.9
+TXN101050,2025-02-13,Nagpur Hub,Central,Furniture,Consumer,Store,3,17.1,13857.7,-89.48,-0.6
+TXN101051,2025-07-05,Chandigarh Point,North,Apparel,Consumer,Store,3,6.9,7662.26,1481.53,19.3
+TXN101052,2025-05-14,Indore Plaza,Central,Electronics,Consumer,Store,2,3.9,21732.16,3545.47,16.3
+TXN101053,2025-07-03,Jaipur Plaza,North,Grocery,Corporate,Online,3,12.0,4732.23,426.3,9.0
+TXN101054,2025-12-16,Bhopal Central,Central,Apparel,Consumer,Store,2,1.4,6428.36,1399.53,21.8
+TXN101055,2025-01-28,Nagpur Hub,Central,Furniture,Consumer,Online,4,16.9,32414.85,598.32,1.8
+TXN101056,2025-12-30,Jaipur Plaza,North,Furniture,Consumer,Store,1,20.1,8265.48,-262.43,-3.2
+TXN101057,2025-06-14,Pune Plaza,West,Furniture,Consumer,Online,2,24.8,13937.54,49.51,0.4
+TXN101058,2025-10-09,Indore Plaza,Central,Electronics,Premium,Online,3,4.7,54039.63,9826.7,18.2
+TXN101059,2025-06-04,Indore Plaza,Central,Grocery,Corporate,Store,1,21.4,1127.27,-119.29,-10.6
+TXN101060,2025-04-24,Bhopal Central,Central,Electronics,Consumer,Online,1,21.7,4211.25,112.04,2.7
+TXN101061,2025-10-09,Guwahati Hub,East,Furniture,Corporate,Store,2,16.8,25538.42,-585.22,-2.3
+TXN101062,2025-09-08,Noida Hub,North,Beauty & Personal Care,Consumer,Store,4,5.9,6406.85,1560.43,24.4
+TXN101063,2025-02-22,Bhopal Central,Central,Beauty & Personal Care,Small Business,Online,5,10.1,6289.39,1188.99,18.9
+TXN101064,2025-09-15,Pune Plaza,West,Furniture,Corporate,Online,1,8.7,15662.65,445.63,2.8
+TXN101065,2025-10-02,Surat Point,West,Grocery,Corporate,Store,3,10.2,7906.17,560.19,7.1
+TXN101066,2025-05-22,Chennai Central,South,Grocery,Premium,Store,4,2.7,9608.06,698.52,7.3
+TXN101067,2025-12-04,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,2,8.8,6685.18,871.74,13.0
+TXN101068,2025-08-22,Chandigarh Point,North,Home & Kitchen,Small Business,Online,6,4.0,31533.74,6780.19,21.5
+TXN101069,2025-05-02,Mumbai Central,West,Electronics,Consumer,Store,1,6.5,12236.55,1817.23,14.9
+TXN101070,2025-01-04,Chandigarh Point,North,Electronics,Consumer,Store,4,7.7,56992.3,5267.8,9.2
+TXN101071,2025-09-04,Pune Plaza,West,Grocery,Small Business,Store,1,8.9,2579.03,67.33,2.6
+TXN101072,2025-03-18,Nagpur Hub,Central,Home & Kitchen,Corporate,Store,1,9.5,3453.62,458.12,13.3
+TXN101073,2025-10-04,Kolkata Central,East,Beauty & Personal Care,Small Business,Online,4,6.7,10545.55,2702.04,25.6
+TXN101074,2025-07-11,Kolkata Central,East,Electronics,Small Business,Store,2,0.7,18883.29,2459.0,13.0
+TXN101075,2025-06-20,Kochi Point,South,Apparel,Consumer,Store,1,8.1,1689.91,294.57,17.4
+TXN101076,2025-03-01,Nagpur Hub,Central,Electronics,Consumer,Store,1,2.5,8612.55,1318.4,15.3
+TXN101077,2025-09-17,Surat Point,West,Apparel,Corporate,Store,2,11.5,11638.33,2648.03,22.8
+TXN101078,2025-03-02,Hyderabad Hub,South,Beauty & Personal Care,Consumer,Online,5,7.6,12553.73,3144.7,25.0
+TXN101079,2025-06-02,Noida Hub,North,Grocery,Corporate,Online,2,18.1,2291.73,-14.81,-0.6
+TXN101080,2025-11-02,Delhi Central,North,Electronics,Small Business,Online,1,10.0,11500.5,2083.31,18.1
+TXN101081,2025-12-02,Kolkata Central,East,Apparel,Corporate,Store,3,19.4,9658.48,1372.56,14.2
+TXN101082,2025-12-28,Indore Plaza,Central,Grocery,Small Business,Online,3,8.6,3049.41,315.1,10.3
+TXN101083,2025-12-16,Pune Plaza,West,Home & Kitchen,Corporate,Store,1,4.2,4183.23,675.08,16.1
+TXN101084,2025-07-22,Noida Hub,North,Grocery,Small Business,Online,3,12.6,4398.85,69.24,1.6
+TXN101085,2025-03-15,Bhopal Central,Central,Home & Kitchen,Consumer,Store,3,16.5,9830.34,378.93,3.9
+TXN101086,2025-11-03,Chennai Central,South,Furniture,Small Business,Store,2,23.3,14969.97,54.89,0.4
+TXN101087,2025-10-20,Bhopal Central,Central,Electronics,Small Business,Store,2,16.4,20635.52,1154.19,5.6
+TXN101088,2025-12-28,Bengaluru Square,South,Grocery,Consumer,Online,4,18.2,7627.76,-466.39,-6.1
+TXN101089,2025-08-26,Mumbai Central,West,Electronics,Corporate,Store,2,3.8,23457.87,4063.55,17.3
+TXN101090,2025-02-21,Indore Plaza,Central,Furniture,Small Business,Online,5,3.8,55849.97,,8.2
+TXN101091,2025-07-03,Chennai Central,South,Apparel,Consumer,Store,3,20.0,7085.42,735.52,10.4
+TXN101092,2025-06-13,Mumbai Central,West,Electronics,Small Business,Store,2,2.8,24418.55,2068.96,8.5
+TXN101093,2025-11-04,Indore Plaza,Central,Electronics,Premium,Store,3,15.0,26249.21,2078.07,7.9
+TXN101094,2025-05-24,Delhi Central,North,Electronics,Small Business,Online,2,2.9,16037.55,2800.3,17.5
+TXN101095,2025-04-30,Delhi Central,North,Electronics,Consumer,Store,4,2.4,31206.39,4324.44,13.9
+TXN101096,2025-01-30,Mumbai Central,West,Home & Kitchen,Corporate,Store,3,4.7,12561.44,2023.45,16.1
+TXN101097,2025-11-01,Chennai Central,South,Beauty & Personal Care,Premium,Store,2,2.2,11538.52,4074.06,35.3
+TXN101098,2025-10-03,Chandigarh Point,North,Electronics,Corporate,Store,3,18.6,40014.03,-105.5,-0.3
+TXN101099,2025-01-16,Kolkata Central,East,Home & Kitchen,Consumer,Store,5,13.4,10585.81,899.93,8.5
+TXN101100,2025-06-08,Pune Plaza,West,Home & Kitchen,Consumer,Online,2,11.6,7194.0,1281.25,17.8
+TXN101101,2025-06-25,Bengaluru Square,South,Beauty & Personal Care,Small Business,Store,1,2.5,3006.9,672.91,22.4
+TXN101102,2025-06-21,Chennai Central,South,Grocery,Consumer,Online,1,5.7,1124.79,47.01,4.2
+TXN101103,2025-12-02,Nagpur Hub,Central,Furniture,Consumer,Store,5,11.6,66738.95,4529.05,6.8
+TXN101104,2025-02-24,Kolkata Central,East,Grocery,Consumer,Online,3,2.6,5074.13,535.09,10.5
+TXN101105,2025-04-22,Indore Plaza,Central,Home & Kitchen,Small Business,Store,5,7.5,29024.12,5100.66,17.6
+TXN101106,2025-03-08,Guwahati Hub,East,Home & Kitchen,Corporate,Store,2,8.8,9188.24,1266.07,13.8
+TXN101107,2025-03-31,Nagpur Hub,Central,Grocery,Small Business,Online,2,6.1,4077.74,216.53,5.3
+TXN101108,2025-11-28,Ahmedabad Hub,West,Furniture,Small Business,Store,3,10.8,39478.47,1263.53,3.2
+TXN101109,2025-12-10,Jaipur Plaza,North,Home & Kitchen,Premium,Store,4,1.1,62637.26,12224.47,19.5
+TXN101110,2025-01-17,Nagpur Hub,Central,Home & Kitchen,Small Business,Store,6,11.3,23634.08,3884.09,16.4
+TXN101111,2025-08-19,Guwahati Hub,East,Grocery,Consumer,Store,1,15.7,1428.48,16.13,1.1
+TXN101112,2025-03-26,Noida Hub,North,Apparel,Corporate,Online,1,9.5,2754.43,450.07,16.3
+TXN101113,2025-03-12,Delhi Central,North,Grocery,Consumer,Store,3,2.7,4714.77,500.12,10.6
+TXN101114,2025-04-17,Mumbai Central,West,Grocery,Premium,Store,1,12.9,2579.2,-112.26,-4.4
+TXN101115,2025-03-12,Chandigarh Point,North,Grocery,Consumer,Store,2,0.5,2153.1,173.09,8.0
+TXN101116,2025-06-28,Hyderabad Hub,South,Home & Kitchen,Corporate,Store,2,8.6,7792.99,872.87,11.2
+TXN101117,2025-12-30,Noida Hub,North,Beauty & Personal Care,Small Business,Online,5,2.6,11988.43,2984.22,24.9
+TXN101118,2025-08-03,Bhubaneswar Plaza,East,Grocery,Consumer,Online,2,1.5,3296.96,501.74,15.2
+TXN101119,2025-09-21,Chennai Central,South,Grocery,Small Business,Store,2,6.6,2021.48,5.73,0.3
+TXN101120,2025-06-30,Guwahati Hub,East,Grocery,Consumer,Store,5,17.6,4481.91,-168.37,-3.8
+TXN101121,2025-01-06,Hyderabad Hub,South,Electronics,Consumer,Online,4,8.0,45815.81,6558.54,14.3
+TXN101122,2025-01-31,Chandigarh Point,North,Grocery,Corporate,Online,4,7.0,4694.99,259.51,5.5
+TXN101123,2025-04-09,Pune Plaza,West,Electronics,Consumer,Store,3,2.0,40512.17,5994.32,14.8
+TXN101124,2025-03-30,Chennai Central,South,Grocery,Corporate,Store,1,20.6,1139.91,19.87,1.7
+TXN101125,2025-11-03,Mumbai Central,West,Furniture,Premium,Store,3,4.6,52889.92,4746.99,9.0
+TXN101126,2025-11-04,Chandigarh Point,North,Grocery,Consumer,Online,3,19.4,3976.81,-85.07,-2.1
+TXN101127,2025-11-08,Jaipur Plaza,North,Home & Kitchen,Corporate,Store,1,6.3,10578.01,1706.59,16.1
+TXN101128,2025-08-21,Hyderabad Hub,South,Furniture,Small Business,Store,2,14.6,19116.34,679.59,3.6
+TXN101129,2025-07-23,Bhubaneswar Plaza,East,Apparel,Small Business,Store,1,5.4,1455.6,286.56,19.7
+TXN101130,2025-08-25,Chennai Central,South,Beauty & Personal Care,Consumer,Online,1,7.1,1219.48,306.86,25.2
+TXN101131,2025-05-29,Surat Point,West,Apparel,Premium,Online,1,12.7,5169.9,974.99,18.9
+TXN101132,2025-09-02,Chennai Central,South,Furniture,Consumer,Online,3,13.6,21116.08,1094.86,5.2
+TXN101133,2025-10-17,Guwahati Hub,East,Grocery,Corporate,Store,3,9.4,7231.95,214.3,3.0
+TXN101134,2025-10-06,Kolkata Central,East,Apparel,Corporate,Store,6,3.5,20028.76,3391.08,16.9
+TXN101135,2025-08-13,Noida Hub,North,Grocery,Small Business,Online,2,22.7,2538.93,0.96,0.0
+TXN101136,2025-01-22,Guwahati Hub,East,Electronics,Consumer,Store,2,11.0,14068.7,1202.52,8.5
+TXN101137,2025-09-22,Bengaluru Square,South,Grocery,Consumer,Store,1,22.1,952.76,-109.54,-11.5
+TXN101138,2025-05-14,Kolkata Central,East,Apparel,Small Business,Online,3,1.7,8060.6,1530.92,19.0
+TXN101139,2025-09-29,Chandigarh Point,North,Furniture,Consumer,Store,4,7.0,30552.99,1378.31,4.5
+TXN101140,2025-07-16,Pune Plaza,West,Apparel,Corporate,Store,2,3.3,10020.67,2079.52,20.8
+TXN101141,2025-11-18,Bhopal Central,Central,Electronics,Small Business,Store,2,11.0,15689.34,2026.43,12.9
+TXN101142,2025-05-04,Jaipur Plaza,North,Grocery,Corporate,Store,2,24.3,3309.88,186.8,5.6
+TXN101143,2025-12-06,Mumbai Central,West,Home & Kitchen,Consumer,Store,6,13.6,20173.34,696.33,3.5
+TXN101144,2025-11-05,Mumbai Central,West,Furniture,Consumer,Online,3,18.9,30331.85,707.3,2.3
+TXN101145,2025-05-01,Bengaluru Square,South,Apparel,Premium,Online,1,4.3,3759.18,867.12,23.1
+TXN101146,2025-06-26,Mumbai Central,West,Grocery,Consumer,Online,5,11.1,15305.99,606.49,4.0
+TXN101147,2025-07-13,Mumbai Central,West,Grocery,Consumer,Online,2,6.8,2748.36,253.15,9.2
+TXN101148,2025-10-08,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,2,8.4,2893.34,660.66,22.8
+TXN101149,2025-09-09,Bhopal Central,Central,Grocery,Consumer,Store,1,4.0,1153.35,66.3,5.7
+TXN101150,2025-11-07,Delhi Central,North,Furniture,Premium,Store,1,6.9,13429.25,806.66,6.0
+TXN101151,2025-05-16,Kolkata Central,East,Beauty & Personal Care,Consumer,Online,4,5.7,6021.7,1479.4,24.6
+TXN101152,2025-07-04,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,2,10.9,10301.24,1392.22,13.5
+TXN101153,2025-06-07,Chandigarh Point,North,Apparel,Corporate,Online,1,19.8,2910.44,404.48,13.9
+TXN101154,2025-11-28,Chennai Central,South,Electronics,Consumer,Store,1,0.7,14324.92,1867.39,13.0
+TXN101155,2025-04-22,Bhopal Central,Central,Electronics,Consumer,Online,2,4.2,12239.43,3030.95,24.8
+TXN101156,2025-08-03,Delhi Central,North,Apparel,Premium,Store,3,17.8,9599.19,1319.93,13.8
+TXN101157,2025-02-13,Bhubaneswar Plaza,East,Furniture,Small Business,Store,4,6.4,42900.68,3155.73,7.4
+TXN101158,2025-11-07,Bhopal Central,Central,Furniture,Consumer,Online,3,18.7,24492.62,30.56,0.1
+TXN101159,2025-05-21,Kochi Point,South,Home & Kitchen,Consumer,Store,4,17.3,15895.45,1658.66,10.4
+TXN101160,2025-05-05,Guwahati Hub,East,Furniture,Consumer,Store,2,8.4,21223.23,1065.3,5.0
+TXN101161,2025-08-01,Indore Plaza,Central,Electronics,Consumer,Store,3,18.3,23280.21,-592.39,-2.5
+TXN101162,2025-07-02,Guwahati Hub,East,Electronics,Corporate,Store,2,8.1,17846.68,1252.02,7.0
+TXN101163,2025-11-06,Noida Hub,North,Grocery,Corporate,Online,1,10.9,2797.29,61.18,2.2
+TXN101164,2025-07-13,Delhi Central,North,Apparel,Small Business,Store,3,9.5,7212.86,1116.42,15.5
+TXN101165,2025-07-08,Nagpur Hub,Central,Home & Kitchen,Small Business,Online,6,12.8,20330.46,2197.32,10.8
+TXN101166,2025-02-08,Kochi Point,South,Electronics,Consumer,Store,2,10.3,23675.54,2196.22,9.3
+TXN101167,2025-01-09,Kolkata Central,East,Furniture,Premium,Online,1,15.3,9211.68,593.7,6.4
+TXN101168,2025-05-26,Jaipur Plaza,North,Grocery,Corporate,Store,2,16.5,2003.16,-5.99,-0.3
+TXN101169,2025-12-31,Kolkata Central,East,Grocery,Consumer,Store,2,15.1,1931.22,-67.58,-3.5
+TXN101170,2025-12-01,Indore Plaza,Central,Grocery,Small Business,Online,2,18.4,3283.12,-115.03,-3.5
+TXN101171,2025-08-18,Guwahati Hub,East,Beauty & Personal Care,Consumer,Store,3,6.8,6562.63,1269.53,19.3
+TXN101172,2025-08-19,Nagpur Hub,Central,Apparel,Corporate,Store,1,5.9,2432.77,362.23,14.9
+TXN101173,2025-05-23,Hyderabad Hub,South,Grocery,Small Business,Online,2,2.8,5669.72,613.52,10.8
+TXN101174,2025-03-06,Guwahati Hub,East,Beauty & Personal Care,Consumer,Store,3,9.5,4479.57,1037.77,23.2
+TXN101175,2025-01-04,Indore Plaza,Central,Electronics,Small Business,Store,2,5.5,16569.87,1673.91,10.1
+TXN101176,2025-05-04,Guwahati Hub,East,Beauty & Personal Care,Consumer,Online,1,8.2,1208.41,-136.71,-11.3
+TXN101177,2025-04-26,Bengaluru Square,South,Grocery,Small Business,Store,1,9.8,2705.99,51.57,1.9
+TXN101178,2025-03-11,Indore Plaza,Central,Grocery,Consumer,Store,2,11.7,2194.99,1.24,0.1
+TXN101179,2025-04-05,Chennai Central,South,Beauty & Personal Care,Consumer,Store,2,7.3,2506.75,-545.88,-21.8
+TXN101180,2025-01-10,Bhubaneswar Plaza,East,Grocery,Consumer,Online,2,9.7,4151.98,116.45,2.8
+TXN101181,2025-08-10,Bhopal Central,Central,Grocery,Small Business,Online,2,8.0,3143.08,117.37,3.7
+TXN101182,2025-12-05,Noida Hub,North,Furniture,Consumer,Online,2,4.2,30868.07,1318.91,4.3
+TXN101183,2025-09-10,Kochi Point,South,Apparel,Small Business,Store,4,6.8,19162.79,3733.44,19.5
+TXN101184,2025-06-13,Delhi Central,North,Apparel,Consumer,Store,3,18.3,7124.37,1133.72,15.9
+TXN101185,2025-06-03,Hyderabad Hub,South,Furniture,Consumer,Store,4,4.7,55639.89,5037.21,9.1
+TXN101186,2025-04-23,Jaipur Plaza,North,Apparel,Consumer,Online,4,5.3,9692.27,2657.12,27.4
+TXN101187,2025-02-21,Pune Plaza,West,Apparel,Consumer,Store,3,20.8,7597.74,626.75,8.2
+TXN101188,2025-08-07,Delhi Central,North,Grocery,Premium,Store,2,8.0,4222.37,317.66,7.5
+TXN101189,2025-07-26,Mumbai Central,West,Electronics,Consumer,Store,4,12.8,32329.32,1206.13,3.7
+TXN101190,2025-01-03,Chennai Central,South,Grocery,Small Business,Online,1,2.0,1638.67,208.67,12.7
+TXN101191,2025-06-01,Bengaluru Square,South,Electronics,Corporate,Store,1,14.2,9323.45,1160.15,12.4
+TXN101192,2025-04-12,Bengaluru Square,South,Electronics,Corporate,Online,1,4.6,13754.81,2256.13,16.4
+TXN101193,2025-03-04,Mumbai Central,West,Grocery,Corporate,Online,2,21.0,3744.72,160.85,4.3
+TXN101194,2025-09-14,Kolkata Central,East,Electronics,Small Business,Store,4,4.9,45848.01,4180.61,9.1
+TXN101195,2025-07-11,Kochi Point,South,Furniture,Small Business,Store,1,21.2,12232.5,-212.65,-1.7
+TXN101196,2025-08-20,Indore Plaza,Central,Apparel,Corporate,Store,2,4.1,10449.43,1858.21,17.8
+TXN101197,2025-09-18,Kolkata Central,East,Grocery,Corporate,Store,1,12.0,2057.0,39.16,1.9
+TXN101198,2025-12-25,Jaipur Plaza,North,Beauty & Personal Care,Corporate,Store,2,17.0,4670.46,835.82,17.9
+TXN101199,2025-10-21,Bhopal Central,Central,Beauty & Personal Care,Consumer,Online,2,8.5,4130.61,1005.84,24.4
+TXN101200,2025-08-15,Chennai Central,South,Apparel,Corporate,Store,2,17.3,8598.83,957.22,11.1
+TXN101201,2025-11-17,Delhi Central,North,Beauty & Personal Care,Consumer,Online,3,3.1,5087.41,1314.96,25.8
+TXN101202,2025-06-24,Kolkata Central,East,Home & Kitchen,Small Business,Online,4,8.0,26535.57,4372.7,16.5
+TXN101203,2025-12-26,Delhi Central,North,Grocery,Premium,Store,5,6.6,10272.97,496.15,4.8
+TXN101204,2025-10-05,Chennai Central,South,Home & Kitchen,Premium,Store,1,6.0,9669.85,1234.68,12.8
+TXN101205,2025-08-26,Pune Plaza,West,Electronics,Small Business,Online,8,4.6,86697.3,6964.16,8.0
+TXN101206,2025-11-26,Noida Hub,North,Apparel,Corporate,Store,2,13.0,7048.59,939.71,13.3
+TXN101207,2025-07-08,Ahmedabad Hub,West,Grocery,Small Business,Store,1,10.7,1082.14,-21.61,-2.0
+TXN101208,2025-09-21,Nagpur Hub,Central,Electronics,Consumer,Store,2,5.5,20874.32,1910.89,9.2
+TXN101209,2025-04-14,Ahmedabad Hub,West,Furniture,Corporate,Store,7,20.0,63129.2,-1245.44,-2.0
+TXN101210,2025-12-18,Ahmedabad Hub,West,Beauty & Personal Care,Consumer,Store,2,23.7,2444.53,300.15,12.3
+TXN101211,2025-08-16,Ahmedabad Hub,West,Grocery,Consumer,Store,3,7.8,5835.7,134.66,2.3
+TXN101212,2025-10-13,Indore Plaza,Central,Furniture,Premium,Store,2,5.4,59731.94,7750.76,13.0
+TXN101213,2025-06-18,Bengaluru Square,South,Furniture,Small Business,Store,3,9.4,29583.19,311.89,1.1
+TXN101214,2025-11-13,Noida Hub,North,Grocery,Corporate,Store,1,18.9,2483.42,49.99,2.0
+TXN101215,2025-01-28,Kolkata Central,East,Home & Kitchen,Consumer,Online,5,0.8,20676.19,3897.41,18.8
+TXN101216,2025-02-11,Guwahati Hub,East,Home & Kitchen,Small Business,Online,1,3.5,3781.46,599.94,15.9
+TXN101217,2025-07-05,Noida Hub,North,Grocery,Consumer,Online,2,12.2,3477.72,209.24,6.0
+TXN101218,2025-09-25,Surat Point,West,Furniture,Small Business,Store,2,18.4,22913.36,-282.14,-1.2
+TXN101219,2025-10-23,Chandigarh Point,North,Electronics,Premium,Store,1,8.0,17843.13,1379.42,7.7
+TXN101220,2025-06-10,Indore Plaza,Central,Grocery,Consumer,Store,2,13.4,1547.75,114.99,7.4
+TXN101221,2025-08-26,Kochi Point,South,Home & Kitchen,Consumer,Store,1,10.9,2672.62,161.44,6.0
+TXN101222,2025-07-21,Noida Hub,North,Home & Kitchen,Consumer,Store,1,8.5,4991.86,716.26,14.3
+TXN101223,2025-12-17,Delhi Central,North,Grocery,Consumer,Store,1,,1645.78,15.59,0.9
+TXN101224,2025-08-27,Bengaluru Square,South,Apparel,Consumer,Store,4,3.5,9613.61,2524.18,26.3
+TXN101225,2025-06-02,Bengaluru Square,South,Grocery,Consumer,Store,7,8.5,15621.1,447.23,2.9
+TXN101226,2025-12-20,Chandigarh Point,North,Apparel,Consumer,Store,1,17.1,4151.9,921.45,22.2
+TXN101227,2025-02-09,Chennai Central,South,Grocery,Consumer,Online,1,13.0,1377.37,84.15,6.1
+TXN101228,2025-12-26,Noida Hub,North,Apparel,Consumer,Store,1,14.8,1669.7,100.99,6.0
+TXN101229,2025-02-26,Chennai Central,South,Grocery,Small Business,Store,3,9.3,4355.11,-59.36,-1.4
+TXN101230,2025-04-16,Chennai Central,South,Beauty & Personal Care,Consumer,Store,3,26.8,3415.42,400.19,11.7
+TXN101231,2025-10-27,Kochi Point,South,Grocery,Small Business,Store,1,18.6,1650.63,-100.0,-6.1
+TXN101232,2025-09-25,Kochi Point,South,Electronics,Consumer,Store,1,23.2,5694.04,172.0,3.0
+TXN101233,2025-12-21,Delhi Central,North,Furniture,Consumer,Store,5,22.1,35895.34,-1119.17,-3.1
+TXN101234,2025-10-01,Jaipur Plaza,North,Grocery,Consumer,Online,3,2.9,2495.67,137.39,5.5
+TXN101235,2025-08-21,Noida Hub,North,Apparel,Small Business,Store,1,15.0,2623.46,283.93,10.8
+TXN101236,2025-05-07,Mumbai Central,West,Apparel,Consumer,Store,2,5.7,2740.27,628.45,22.9
+TXN101237,2025-01-02,Nagpur Hub,Central,Home & Kitchen,Corporate,Store,6,7.0,24242.04,2203.66,9.1
+TXN101238,2025-02-15,Bhopal Central,Central,Furniture,Consumer,Store,1,13.8,10131.03,548.23,5.4
+TXN101239,2025-04-19,Kolkata Central,East,Apparel,Premium,Online,2,8.1,5464.7,1165.45,21.3
+TXN101240,2025-01-15,Kolkata Central,East,Apparel,Consumer,Store,2,4.9,2881.79,489.46,17.0
+TXN101241,2025-07-05,Chennai Central,South,Grocery,Consumer,Store,3,1.7,4091.23,143.86,3.5
+TXN101242,2025-10-11,Ahmedabad Hub,West,Grocery,Small Business,Store,2,5.5,3102.14,249.14,8.0
+TXN101243,2025-12-18,Pune Plaza,West,Furniture,Consumer,Store,1,17.4,12181.26,-99.08,-0.8
+TXN101244,2025-06-28,Bhopal Central,Central,Grocery,Consumer,Store,3,0.9,2828.71,103.57,3.7
+TXN101245,2025-11-16,Bhopal Central,Central,Home & Kitchen,Small Business,Store,1,3.0,5077.57,1285.83,25.3
+TXN101246,2025-12-26,Guwahati Hub,East,Beauty & Personal Care,Consumer,Online,3,6.8,4902.85,956.41,19.5
+TXN101247,2025-11-10,Surat Point,West,Apparel,Consumer,Online,4,13.0,11474.11,1408.33,12.3
+TXN101248,2025-06-19,Surat Point,West,Grocery,Consumer,Store,3,10.3,6362.56,263.58,4.1
+TXN101249,2025-04-29,Hyderabad Hub,South,Apparel,Consumer,Store,6,,15872.63,3254.73,20.5
+TXN101250,2025-12-23,Indore Plaza,Central,Home & Kitchen,Premium,Store,2,3.6,16185.41,3798.06,23.5
+TXN101251,2025-03-30,Chandigarh Point,North,Grocery,Corporate,Online,2,8.5,2910.38,141.7,4.9
+TXN101252,2025-05-31,Indore Plaza,Central,Home & Kitchen,Corporate,Online,3,17.8,13525.96,1371.61,10.1
+TXN101253,2025-01-28,Pune Plaza,West,Electronics,Consumer,Online,3,9.4,22719.83,2916.88,12.8
+TXN101254,2025-10-17,Noida Hub,North,Electronics,Small Business,Store,3,14.4,31078.64,2268.2,7.3
+TXN101255,2025-08-26,Pune Plaza,West,Electronics,Small Business,Store,2,19.8,21808.18,881.74,4.0
+TXN101256,2025-01-31,Delhi Central,North,Electronics,Consumer,Store,3,19.4,17460.21,769.25,4.4
+TXN101257,2025-03-23,Mumbai Central,West,Home & Kitchen,Small Business,Online,3,8.3,12802.49,2298.56,18.0
+TXN101258,2025-07-22,Ahmedabad Hub,West,Grocery,Corporate,Store,1,10.9,1552.45,19.49,1.3
+TXN101259,2025-07-17,Surat Point,West,Furniture,Small Business,Store,2,15.6,19893.07,771.71,3.9
+TXN101260,2025-10-20,Bhopal Central,Central,Grocery,Consumer,Online,2,5.5,2956.38,201.65,6.8
+TXN101261,2025-04-08,Delhi Central,North,Grocery,Consumer,Store,1,18.7,1041.63,7.75,0.7
+TXN101262,2025-12-04,Bengaluru Square,South,Grocery,Small Business,Store,5,18.2,12625.94,386.01,3.1
+TXN101263,2025-06-12,Kochi Point,South,Electronics,Small Business,Online,1,16.6,18736.63,901.36,4.8
+TXN101264,2025-10-28,Noida Hub,North,Apparel,Consumer,Online,1,8.3,2245.79,646.46,28.8
+TXN101265,2025-03-29,Kolkata Central,East,Electronics,Consumer,Store,2,22.2,13069.8,-86.59,-0.7
+TXN101266,2025-01-14,Bengaluru Square,South,Home & Kitchen,Small Business,Store,4,10.8,22304.03,2534.9,11.4
+TXN101267,2025-01-21,Kochi Point,South,Furniture,Consumer,Store,3,5.5,28062.7,2301.23,8.2
+TXN101268,2025-05-17,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,1,15.9,2303.48,246.57,10.7
+TXN101269,2025-12-14,Nagpur Hub,Central,Home & Kitchen,Corporate,Store,4,16.6,32384.64,3394.75,10.5
+TXN101270,2025-01-18,Hyderabad Hub,South,Electronics,Consumer,Store,2,2.8,20319.54,3373.31,16.6
+TXN101271,2025-05-15,Bhopal Central,Central,Electronics,Consumer,Store,3,3.0,26472.21,3839.5,14.5
+TXN101272,2025-02-09,Guwahati Hub,East,Beauty & Personal Care,Consumer,Online,3,4.4,6771.12,2026.94,29.9
+TXN101273,2025-12-07,Hyderabad Hub,South,Grocery,Premium,Store,2,10.4,6310.18,180.17,2.9
+TXN101274,2025-09-04,Bhubaneswar Plaza,East,Apparel,Consumer,Online,4,7.4,8381.91,1322.47,15.8
+TXN101275,2025-10-06,Bengaluru Square,South,Electronics,Corporate,Online,1,7.5,10025.29,1092.57,10.9
+TXN101276,2025-09-18,Kochi Point,South,Furniture,Premium,Store,1,13.2,14858.05,607.2,4.1
+TXN101277,2025-08-28,Guwahati Hub,East,Grocery,Corporate,Store,1,4.6,2217.35,163.09,7.4
+TXN101278,2025-10-10,Noida Hub,North,Beauty & Personal Care,Corporate,Online,2,5.0,6685.86,1814.5,27.1
+TXN101279,2025-01-03,Bengaluru Square,South,Furniture,Corporate,Store,3,6.6,38283.21,1399.06,3.7
+TXN101280,2025-11-12,Guwahati Hub,East,Home & Kitchen,Consumer,Store,4,12.0,24998.91,3729.3,14.9
+TXN101281,2025-09-28,Kochi Point,South,Apparel,Corporate,Online,2,7.1,6535.66,1823.74,27.9
+TXN101282,2025-09-27,Ahmedabad Hub,West,Electronics,Premium,Store,3,17.4,54380.61,2623.66,4.8
+TXN101283,2025-05-24,Hyderabad Hub,South,Grocery,Small Business,Store,2,17.0,3096.6,163.22,5.3
+TXN101284,2025-10-20,Bhopal Central,Central,Furniture,Consumer,Online,1,16.9,16544.1,818.58,4.9
+TXN101285,2025-05-20,Mumbai Central,West,Grocery,Consumer,Online,3,12.7,5033.22,574.14,11.4
+TXN101286,2025-01-18,Nagpur Hub,Central,Apparel,Small Business,Store,3,4.8,7397.59,1642.93,22.2
+TXN101287,2025-11-28,Pune Plaza,West,Grocery,Consumer,Online,1,12.2,1553.77,68.32,4.4
+TXN101288,2025-03-27,Noida Hub,North,Furniture,Small Business,Online,4,16.2,43015.09,2262.43,5.3
+TXN101289,2025-02-07,Guwahati Hub,East,Apparel,Consumer,Store,1,3.9,1644.34,283.01,17.2
+TXN101290,2025-08-15,Delhi Central,North,Apparel,Small Business,Store,2,5.9,3780.83,804.24,21.3
+TXN101291,2025-03-27,Mumbai Central,West,Grocery,Small Business,Store,7,24.2,10418.27,-86.03,-0.8
+TXN101292,2025-11-10,Kolkata Central,East,Apparel,Corporate,Store,2,14.8,5277.13,797.59,15.1
+TXN101293,2025-06-11,Chennai Central,South,Furniture,Consumer,Store,6,8.1,52731.64,2752.28,5.2
+TXN101294,2025-01-02,Indore Plaza,Central,Apparel,Small Business,Store,1,6.5,2331.42,470.65,20.2
+TXN101295,2025-12-14,Delhi Central,North,Grocery,Consumer,Store,2,2.7,3272.5,343.51,10.5
+TXN101296,2025-07-07,Bhubaneswar Plaza,East,Grocery,Consumer,Store,4,1.7,4693.49,452.63,9.6
+TXN101297,2025-04-06,Pune Plaza,West,Electronics,Corporate,Store,2,10.1,38303.64,4539.96,11.9
+TXN101298,2025-09-05,Jaipur Plaza,North,Apparel,Consumer,Store,2,2.4,6156.38,1427.12,23.2
+TXN101299,2025-07-13,Bhubaneswar Plaza,East,Apparel,Small Business,Store,1,5.6,4255.84,640.94,15.1
+TXN101300,2025-01-11,Surat Point,West,Grocery,Consumer,Store,4,6.2,4756.74,157.6,3.3
+TXN101301,2025-10-05,Chandigarh Point,North,Home & Kitchen,Consumer,Store,3,6.4,16319.58,2966.02,18.2
+TXN101302,2025-05-27,Kolkata Central,East,Home & Kitchen,Small Business,Store,2,2.1,7511.16,1460.66,19.4
+TXN101303,2025-09-13,Kochi Point,South,Electronics,Consumer,Store,5,6.6,38463.94,5329.86,13.9
+TXN101304,2025-11-23,Ahmedabad Hub,West,Apparel,Consumer,Store,4,17.2,19980.64,2091.73,10.5
+TXN101305,2025-08-11,Delhi Central,North,Grocery,Corporate,Store,3,14.0,3945.74,12.53,0.3
+TXN101306,2025-09-03,Indore Plaza,Central,Beauty & Personal Care,Small Business,Online,2,7.0,2130.65,447.85,21.0
+TXN101307,2025-04-03,Nagpur Hub,Central,Furniture,Corporate,Online,2,12.8,19656.42,110.47,0.6
+TXN101308,2025-03-28,Chandigarh Point,North,Furniture,,Online,2,4.5,14021.1,1261.97,9.0
+TXN101309,2025-06-01,Chennai Central,South,Grocery,Consumer,Store,1,8.3,1003.54,91.22,9.1
+TXN101310,2025-11-08,Kolkata Central,East,Furniture,Consumer,Store,3,10.2,24697.05,986.35,4.0
+TXN101311,2025-07-11,Mumbai Central,West,Apparel,Premium,Online,3,4.3,12590.49,3718.75,29.5
+TXN101312,2025-05-08,Kolkata Central,East,Grocery,Small Business,Store,2,7.2,1546.49,60.98,3.9
+TXN101313,2025-10-12,Jaipur Plaza,North,Furniture,,Online,3,18.8,57701.61,914.63,1.6
+TXN101314,2025-11-08,Jaipur Plaza,North,Grocery,Corporate,Online,5,11.8,6031.77,43.49,0.7
+TXN101315,2025-11-26,Indore Plaza,Central,Beauty & Personal Care,Consumer,Store,6,2.7,11880.96,2927.59,24.6
+TXN101316,2025-04-20,Guwahati Hub,East,Home & Kitchen,Consumer,Store,3,8.0,59433.48,3363.8,5.7
+TXN101317,2025-09-17,Nagpur Hub,Central,Grocery,Small Business,Store,2,13.4,3502.46,-148.62,-4.2
+TXN101318,2025-08-04,Guwahati Hub,East,Furniture,Small Business,Store,1,25.0,9336.22,-544.26,-5.8
+TXN101319,2025-06-13,Bhopal Central,Central,Furniture,Consumer,Store,1,10.1,12375.53,559.11,4.5
+TXN101320,2025-05-25,Jaipur Plaza,North,Home & Kitchen,Consumer,Online,2,11.6,6610.94,841.84,12.7
+TXN101321,2025-02-11,Chandigarh Point,North,Home & Kitchen,Consumer,Store,2,2.3,6681.93,1158.75,17.3
+TXN101322,2025-04-11,Nagpur Hub,Central,Apparel,Consumer,Store,1,10.1,2347.79,438.09,18.7
+TXN101323,2025-07-20,Bhopal Central,Central,Home & Kitchen,Small Business,Online,2,13.8,9854.34,839.26,8.5
+TXN101324,2025-11-20,Chennai Central,South,Electronics,Corporate,Store,1,15.5,16104.79,998.75,6.2
+TXN101325,2025-11-13,Kochi Point,South,Apparel,Consumer,Store,1,13.1,3006.0,550.9,18.3
+TXN101326,2025-03-10,Kolkata Central,East,Furniture,Corporate,Store,1,12.6,12027.41,601.84,5.0
+TXN101327,2025-09-05,Hyderabad Hub,South,Electronics,Premium,Store,2,7.7,29063.21,3643.12,12.5
+TXN101328,2025-01-31,Delhi Central,North,Grocery,Consumer,Store,1,8.8,1350.12,52.19,3.9
+TXN101329,2025-09-04,Nagpur Hub,Central,Grocery,Consumer,Online,1,14.9,2046.85,1.39,0.1
+TXN101330,2025-05-05,Bengaluru Square,South,Beauty & Personal Care,Corporate,Store,2,12.6,4372.33,848.44,19.4
+TXN101331,2025-06-14,Mumbai Central,West,Grocery,Consumer,Store,3,22.5,3139.55,42.43,1.4
+TXN101332,2025-09-19,Noida Hub,North,Home & Kitchen,Corporate,Online,2,18.0,8332.82,,12.3
+TXN101333,2025-06-05,Delhi Central,North,Home & Kitchen,Corporate,Online,2,13.5,10349.96,1422.28,13.7
+TXN101334,2025-10-22,Pune Plaza,West,Apparel,Consumer,Store,3,16.1,4332.62,670.59,15.5
+TXN101335,2025-07-14,Chennai Central,South,Beauty & Personal Care,Consumer,Online,4,3.0,7045.37,1959.87,27.8
+TXN101336,2025-12-31,Pune Plaza,West,Grocery,Small Business,Store,5,15.1,11532.05,103.75,0.9
+TXN101337,2025-08-21,Jaipur Plaza,North,Grocery,Consumer,Store,5,8.8,5523.67,174.87,3.2
+TXN101338,2025-04-19,Indore Plaza,Central,Furniture,Corporate,Online,6,23.4,66601.04,-1326.81,-2.0
+TXN101339,2025-10-10,Surat Point,West,Furniture,Corporate,Store,2,12.2,58414.35,3566.85,6.1
+TXN101340,2025-05-29,Indore Plaza,Central,Home & Kitchen,Small Business,Online,2,6.8,9220.45,1058.48,11.5
+TXN101341,2025-07-14,Jaipur Plaza,North,Grocery,Small Business,Store,4,19.2,2774.95,-20.04,-0.7
+TXN101342,2025-02-19,Hyderabad Hub,South,Grocery,Small Business,Store,3,2.9,3243.01,196.3,6.1
+TXN101343,2025-02-13,Bengaluru Square,South,Furniture,Corporate,Online,4,12.1,48171.63,-262.42,-0.5
+TXN101344,2025-07-29,Guwahati Hub,East,Grocery,Consumer,Store,3,15.6,2410.05,-75.58,-3.1
+TXN101345,2025-03-10,Kochi Point,South,Home & Kitchen,Consumer,Store,4,8.2,15927.3,2439.0,15.3
+TXN101346,2025-12-31,Noida Hub,North,Furniture,Consumer,Store,3,12.5,31131.18,1041.03,3.3
+TXN101347,2025-11-09,Bengaluru Square,South,Home & Kitchen,Consumer,Store,2,21.0,11255.24,1134.07,10.1
+TXN101348,2025-09-13,Chennai Central,South,Apparel,Consumer,Store,4,11.4,7106.92,1369.44,19.3
+TXN101349,2025-09-26,Chennai Central,South,Home & Kitchen,Consumer,Store,3,9.6,11319.26,1035.17,9.1
+TXN101350,2025-08-06,Jaipur Plaza,North,Furniture,Consumer,Online,3,10.5,31157.35,2122.61,6.8
+TXN101351,2025-01-23,Kochi Point,South,Apparel,Consumer,Store,1,0.4,2669.72,688.69,25.8
+TXN101352,2025-05-24,Ahmedabad Hub,West,Electronics,Consumer,Online,3,0.5,30457.9,5460.71,17.9
+TXN101353,2025-06-30,Bengaluru Square,South,Grocery,Small Business,Store,2,13.3,1487.82,44.55,3.0
+TXN101354,2025-12-01,Chennai Central,South,Home & Kitchen,Corporate,Store,1,5.6,6483.48,665.5,10.3
+TXN101355,2025-03-22,Guwahati Hub,East,Apparel,Small Business,Store,3,1.5,7298.48,1225.85,16.8
+TXN101356,2025-07-01,Pune Plaza,West,Furniture,Corporate,Store,6,12.1,104424.86,7540.31,7.2
+TXN101357,2025-05-06,Hyderabad Hub,South,Home & Kitchen,Small Business,Online,4,12.6,21699.83,2974.82,13.7
+TXN101358,2025-02-19,Guwahati Hub,East,Electronics,Small Business,Store,2,7.2,17387.89,2874.53,16.5
+TXN101359,2025-02-07,Bhopal Central,Central,Apparel,Consumer,Store,3,6.4,6782.86,1022.97,15.1
+TXN101360,2025-05-14,Bhubaneswar Plaza,East,Beauty & Personal Care,Premium,Store,1,24.3,3049.32,481.27,15.8
+TXN101361,2025-01-31,Indore Plaza,Central,Apparel,Consumer,Store,5,3.9,14365.58,2724.26,19.0
+TXN101362,2025-01-25,Mumbai Central,West,Home & Kitchen,Corporate,Online,2,3.4,11671.21,-1357.41,-11.6
+TXN101363,2025-05-09,Noida Hub,North,Apparel,Small Business,Store,4,11.5,19386.07,2969.94,15.3
+TXN101364,2025-03-15,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Online,3,2.3,8721.2,1646.77,18.9
+TXN101365,2025-07-22,Mumbai Central,West,Apparel,Corporate,Online,2,2.8,4952.6,1279.44,25.8
+TXN101366,2025-01-07,Nagpur Hub,Central,Apparel,Consumer,Store,1,12.7,1884.54,253.78,13.5
+TXN101367,2025-04-21,Bhubaneswar Plaza,East,Furniture,Consumer,Store,4,10.7,31054.28,1721.99,5.5
+TXN101368,2025-06-15,Delhi Central,North,Home & Kitchen,Consumer,Online,3,14.7,5099.79,634.89,12.4
+TXN101369,2025-12-18,Guwahati Hub,East,Furniture,Consumer,Online,1,9.8,8472.79,492.3,5.8
+TXN101370,2025-08-20,Chandigarh Point,North,Beauty & Personal Care,Consumer,Store,2,2.2,4032.45,681.23,16.9
+TXN101371,2025-11-18,Mumbai Central,West,Furniture,Corporate,Online,5,8.5,87962.7,5084.86,5.8
+TXN101372,2025-05-06,Kolkata Central,East,Furniture,Corporate,Online,1,21.6,8301.83,272.15,3.3
+TXN101373,2025-06-14,Pune Plaza,West,Home & Kitchen,Consumer,Online,2,9.2,7939.26,1528.04,19.2
+TXN101374,2025-06-03,Indore Plaza,Central,Furniture,Small Business,Online,2,14.7,20575.94,1260.39,6.1
+TXN101375,2025-11-20,Ahmedabad Hub,West,Grocery,Consumer,Online,5,7.5,10513.46,738.5,7.0
+TXN101376,2025-12-17,Pune Plaza,West,Home & Kitchen,Consumer,Store,4,3.8,16717.0,-4117.95,-24.6
+TXN101377,2025-12-18,Ahmedabad Hub,West,Electronics,Small Business,Online,2,8.5,31260.02,4139.24,13.2
+TXN101378,2025-10-02,Bhopal Central,Central,Electronics,Premium,Store,3,23.5,26191.96,-357.59,-1.4
+TXN101379,2025-07-03,Indore Plaza,Central,Grocery,Consumer,Store,3,5.0,3113.02,293.13,9.4
+TXN101380,2025-07-17,Chandigarh Point,North,Furniture,Consumer,Store,4,24.0,51825.24,-60.83,-0.1
+TXN101381,2025-12-24,Bhubaneswar Plaza,East,Furniture,Small Business,Store,1,16.8,8309.69,196.94,2.4
+TXN101382,2025-04-14,Noida Hub,North,Electronics,Small Business,Store,3,20.3,20954.43,318.64,1.5
+TXN101383,2025-05-07,Bhopal Central,Central,Grocery,Consumer,Store,1,21.4,731.68,-20.3,-2.8
+TXN101384,2025-11-24,Surat Point,West,Grocery,Consumer,Store,4,4.5,5640.12,653.89,11.6
+TXN101385,2025-05-22,Kolkata Central,East,Electronics,Consumer,Store,4,2.2,32082.15,4461.97,13.9
+TXN101386,2025-03-27,Noida Hub,North,Apparel,Corporate,Store,4,16.4,13739.22,1124.38,8.2
+TXN101387,2025-07-24,Bengaluru Square,South,Apparel,Premium,Store,5,12.7,18023.1,2424.63,13.5
+TXN101388,2025-04-29,Surat Point,West,Electronics,Small Business,Online,5,3.1,50655.06,6701.65,13.2
+TXN101389,2025-11-22,Noida Hub,North,Grocery,Consumer,Store,1,15.6,1020.81,-28.71,-2.8
+TXN101390,2025-11-28,Chandigarh Point,North,Home & Kitchen,Corporate,Store,2,13.8,9400.47,-313.44,-3.3
+TXN101391,2025-04-22,Indore Plaza,Central,Apparel,Small Business,Online,8,8.0,13115.53,3565.64,27.2
+TXN101392,2025-07-13,Ahmedabad Hub,West,Grocery,Corporate,Store,2,3.9,4720.53,190.52,4.0
+TXN101393,2025-12-26,Jaipur Plaza,North,Grocery,Small Business,Online,4,18.3,8006.58,-212.83,-2.7
+TXN101394,2025-09-28,Bengaluru Square,South,Furniture,Consumer,Online,3,27.6,25582.31,-2179.08,-8.5
+TXN101395,2025-03-20,Indore Plaza,Central,Home & Kitchen,Consumer,Store,3,8.6,11618.58,2115.68,18.2
+TXN101396,2025-08-04,Ahmedabad Hub,West,Beauty & Personal Care,Corporate,Online,1,11.4,3110.23,688.27,22.1
+TXN101397,2025-08-15,Surat Point,West,Beauty & Personal Care,Corporate,Store,6,8.4,15530.65,3274.41,21.1
+TXN101398,2025-08-27,Hyderabad Hub,South,Furniture,Premium,Store,4,16.8,584209.07,148.94,0.0
+TXN101399,2025-01-10,Kochi Point,South,Grocery,Corporate,Store,4,2.3,5429.43,550.65,10.1
+TXN101400,2025-04-20,Chandigarh Point,North,Furniture,Consumer,Store,3,10.9,26728.77,666.51,2.5
+TXN101401,2025-11-08,Ahmedabad Hub,West,Grocery,Consumer,Store,2,14.8,2780.66,-185.28,-6.7
+TXN101402,2025-03-30,Noida Hub,North,Grocery,Corporate,Store,4,7.5,8407.63,28.44,0.3
+TXN101403,2025-04-20,Delhi Central,North,Apparel,Consumer,Store,1,17.8,1386.1,107.19,7.7
+TXN101404,2025-04-28,Pune Plaza,West,Furniture,Small Business,Store,10,23.9,161494.47,-3085.48,-1.9
+TXN101405,2025-03-06,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,2,16.5,3378.59,694.11,20.5
+TXN101406,2025-02-26,Mumbai Central,West,Electronics,Consumer,Store,4,8.5,55092.42,8462.52,15.4
+TXN101407,2025-05-07,Bhubaneswar Plaza,East,Electronics,Corporate,Store,4,15.2,35706.98,104.98,0.3
+TXN101408,2025-11-16,Guwahati Hub,East,Home & Kitchen,Consumer,Store,3,6.0,10469.48,1747.59,16.7
+TXN101409,2025-01-01,Kolkata Central,East,Apparel,Corporate,Online,4,29.3,9424.08,430.86,4.6
+TXN101410,2025-04-14,Kochi Point,South,Grocery,Corporate,Online,6,4.5,15198.32,2877.0,18.9
+TXN101411,2025-01-23,Bhubaneswar Plaza,East,Apparel,Consumer,Store,4,25.2,5029.22,563.04,11.2
+TXN101412,2025-07-24,Kolkata Central,East,Furniture,Small Business,Online,5,20.3,24919.17,1238.19,5.0
+TXN101413,2025-04-02,Kolkata Central,East,Furniture,Small Business,Store,2,7.0,12705.61,915.5,7.2
+TXN101414,2025-10-17,Nagpur Hub,Central,Grocery,Small Business,Store,1,15.3,1602.87,21.73,1.4
+TXN101415,2025-08-02,Nagpur Hub,Central,Grocery,Consumer,Store,2,10.6,3565.33,53.41,1.5
+TXN101416,2025-10-14,Chandigarh Point,North,Apparel,Consumer,Online,6,6.8,11145.56,2135.13,19.2
+TXN101417,2025-08-20,Kochi Point,South,Furniture,Small Business,Store,4,10.5,44402.76,804.34,1.8
+TXN101418,2025-06-10,Delhi Central,North,Apparel,Corporate,Store,2,8.9,5459.14,1100.69,20.2
+TXN101419,2025-11-11,Hyderabad Hub,South,Home & Kitchen,Corporate,Online,2,10.6,21242.55,4546.79,21.4
+TXN101420,2025-06-23,Bengaluru Square,South,Furniture,Corporate,Store,3,27.7,61235.36,-3480.99,-5.7
+TXN101421,2025-12-13,Delhi Central,North,Electronics,Small Business,Store,1,1.3,13685.24,1666.93,12.2
+TXN101422,2025-12-30,Ahmedabad Hub,West,Grocery,Consumer,Store,1,2.9,2247.49,56.36,2.5
+TXN101423,2025-08-03,Bhubaneswar Plaza,East,Home & Kitchen,Corporate,Store,2,4.0,11737.4,1949.91,16.6
+TXN101424,2025-09-04,Indore Plaza,Central,Apparel,Consumer,Online,2,17.7,2783.53,524.7,18.9
+TXN101425,2025-04-04,Chandigarh Point,North,Apparel,Consumer,Store,3,10.3,8252.96,1783.94,21.6
+TXN101426,2025-10-25,Delhi Central,North,Grocery,Corporate,Store,1,5.3,1551.53,171.26,11.0
+TXN101427,2025-09-03,Hyderabad Hub,South,Furniture,Corporate,Online,4,13.1,53233.88,2973.13,5.6
+TXN101428,2025-11-26,Chandigarh Point,North,Apparel,Consumer,Store,2,12.0,7376.82,1209.46,16.4
+TXN101429,2025-04-08,Chennai Central,South,Furniture,Small Business,Store,4,7.1,51374.25,4881.43,9.5
+TXN101430,2025-10-15,Indore Plaza,Central,Home & Kitchen,Small Business,Store,1,10.3,6202.62,632.87,10.2
+TXN101431,2025-06-21,Noida Hub,North,Furniture,Corporate,Store,1,16.7,17308.73,-58.97,-0.3
+TXN101432,2025-03-09,Chandigarh Point,North,Grocery,Premium,Store,3,0.8,4213.41,630.46,15.0
+TXN101433,2025-03-04,Kolkata Central,East,Grocery,Consumer,Store,4,14.1,2294.27,-60.56,-2.6
+TXN101434,2025-07-25,Guwahati Hub,East,Grocery,Small Business,Online,6,18.4,9528.8,-3.82,-0.0
+TXN101435,2025-04-27,Guwahati Hub,East,Apparel,Consumer,Online,4,12.8,10779.24,1878.3,17.4
+TXN101436,2025-02-07,Kochi Point,South,Grocery,Consumer,Store,2,5.1,2855.81,190.05,6.7
+TXN101437,2025-06-05,Pune Plaza,West,Beauty & Personal Care,Consumer,Store,6,9.2,12125.92,3134.03,25.8
+TXN101438,2025-08-27,Jaipur Plaza,North,Home & Kitchen,Consumer,Store,4,4.4,19915.03,4601.88,23.1
+TXN101439,2025-04-27,Bhubaneswar Plaza,East,Home & Kitchen,Corporate,Online,6,13.3,32137.48,4497.21,14.0
+TXN101440,2025-12-15,Pune Plaza,West,Apparel,Consumer,Store,3,18.4,7193.29,1219.23,16.9
+TXN101441,2025-10-12,Nagpur Hub,Central,Apparel,Corporate,Online,4,7.1,17380.13,3107.24,17.9
+TXN101442,2025-07-07,Hyderabad Hub,South,Apparel,Consumer,Online,4,10.3,8185.94,1518.91,18.6
+TXN101443,2025-12-08,Guwahati Hub,East,Grocery,Consumer,Online,4,8.8,5664.02,722.12,12.7
+TXN101444,2025-06-08,Delhi Central,North,Grocery,Premium,Store,4,10.2,8628.94,863.29,10.0
+TXN101445,2025-02-20,Chandigarh Point,North,Apparel,Corporate,Store,1,16.5,2123.81,187.14,8.8
+TXN101446,2025-01-14,Jaipur Plaza,North,Electronics,Premium,Online,3,8.0,30728.72,3836.44,12.5
+TXN101447,2025-12-09,Surat Point,West,Electronics,Corporate,Online,5,5.0,922562.76,95374.03,10.3
+TXN101448,2025-12-17,Bengaluru Square,South,Home & Kitchen,Consumer,Store,6,5.9,21867.07,4005.6,18.3
+TXN101449,2025-09-27,Ahmedabad Hub,West,Electronics,Corporate,Store,3,10.9,40362.12,5326.55,13.2
+TXN101450,2025-02-07,Jaipur Plaza,North,Grocery,Corporate,Store,1,15.1,1818.13,120.07,6.6
+TXN101451,2025-04-18,Indore Plaza,Central,Apparel,Consumer,Online,3,20.7,5454.15,698.72,12.8
+TXN101452,2025-01-15,Mumbai Central,West,Furniture,Small Business,Store,2,26.4,23371.64,-183.39,-0.8
+TXN101453,2025-01-19,Noida Hub,North,Beauty & Personal Care,Corporate,Store,3,3.6,7532.67,2074.02,27.5
+TXN101454,2025-03-31,Noida Hub,North,Furniture,Small Business,Store,4,18.2,33031.28,33.17,0.1
+TXN101455,2025-07-28,Jaipur Plaza,North,Beauty & Personal Care,Corporate,Online,1,10.1,2561.87,443.41,17.3
+TXN101456,2025-01-24,Bhopal Central,Central,Home & Kitchen,Corporate,Store,4,28.9,11605.52,715.41,6.2
+TXN101457,2025-12-26,Chennai Central,South,Furniture,Consumer,Online,2,11.2,38712.22,2763.21,7.1
+TXN101458,2025-06-16,Bhubaneswar Plaza,East,Electronics,Premium,Online,4,14.5,48241.97,4194.0,8.7
+TXN101459,2025-04-07,Kolkata Central,East,Grocery,Consumer,Online,1,14.3,873.8,-6.27,-0.7
+TXN101460,2025-07-08,Surat Point,West,Grocery,Consumer,Store,1,7.9,1500.45,172.24,11.5
+TXN101461,2025-10-16,Guwahati Hub,East,Furniture,Consumer,Store,2,18.3,13852.03,66.37,0.5
+TXN101462,2025-04-25,Kolkata Central,East,Beauty & Personal Care,Corporate,Store,3,2.5,7022.43,1357.17,19.3
+TXN101463,2025-01-18,Bhopal Central,Central,Furniture,Premium,Store,3,8.9,40104.55,465.14,1.2
+TXN101464,2025-01-19,Chandigarh Point,North,Home & Kitchen,Small Business,Store,1,7.0,3320.87,616.32,18.6
+TXN101465,2025-11-07,Pune Plaza,West,Electronics,Small Business,Online,2,6.1,20520.47,3318.3,16.2
+TXN101466,2025-02-10,Chandigarh Point,North,Beauty & Personal Care,Premium,Store,4,4.1,22497.3,-3550.87,-15.8
+TXN101467,2025-08-20,Bhubaneswar Plaza,East,Furniture,Small Business,Online,1,7.2,10735.35,825.85,7.7
+TXN101468,2025-05-21,Indore Plaza,Central,Grocery,Consumer,Store,8,17.3,7751.9,87.08,1.1
+TXN101469,2025-10-11,Pune Plaza,West,Apparel,Corporate,Online,4,12.4,12451.85,2277.47,18.3
+TXN101470,2025-01-23,Ahmedabad Hub,West,Electronics,Consumer,Store,3,1.3,30496.82,3728.13,12.2
+TXN101471,2025-11-24,Bengaluru Square,South,Home & Kitchen,Consumer,Store,3,8.8,11761.29,2167.15,18.4
+TXN101472,2025-09-12,Chennai Central,South,Furniture,Consumer,Online,1,9.6,7926.44,682.96,8.6
+TXN101473,2025-06-13,Chennai Central,South,Apparel,Consumer,Online,3,10.9,6727.72,1394.15,20.7
+TXN101474,2025-03-17,Kolkata Central,East,Apparel,Premium,Store,4,26.3,10501.81,393.81,3.7
+TXN101475,2025-12-23,Bhubaneswar Plaza,East,Apparel,Premium,Online,1,3.7,3643.21,594.42,16.3
+TXN101476,2025-04-21,Hyderabad Hub,South,Electronics,Consumer,Online,4,3.6,27846.66,4320.67,15.5
+TXN101477,2025-06-29,Hyderabad Hub,South,Furniture,Small Business,Online,4,8.5,43040.47,4062.94,9.4
+TXN101478,2025-05-24,Bengaluru Square,South,Furniture,Consumer,Store,1,8.9,9234.08,726.42,7.9
+TXN101479,2025-03-26,Kochi Point,South,Grocery,Consumer,Store,2,1.6,2419.84,255.32,10.6
+TXN101480,2025-06-02,Chandigarh Point,North,Electronics,Consumer,Online,2,10.8,16706.52,1545.62,9.3
+TXN101481,2025-02-25,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,6,5.0,17640.34,-1732.81,-9.8
+TXN101482,2025-01-01,Surat Point,West,Grocery,Consumer,Store,3,7.9,5750.82,260.22,4.5
+TXN101483,2025-04-16,Noida Hub,North,Apparel,Consumer,Online,2,6.1,8158.6,1772.09,21.7
+TXN101484,2025-02-10,Surat Point,West,Grocery,Consumer,Store,1,26.4,919.37,-27.55,-3.0
+TXN101485,2025-06-01,Nagpur Hub,Central,Furniture,Consumer,Store,1,13.7,13632.85,151.69,1.1
+TXN101486,2025-11-11,Hyderabad Hub,South,Grocery,Premium,Online,1,11.0,2784.08,91.83,3.3
+TXN101487,2025-03-01,Delhi Central,North,Grocery,Consumer,Online,1,14.5,1582.81,153.86,9.7
+TXN101488,2025-01-01,Jaipur Plaza,North,Grocery,Consumer,Online,3,11.4,3987.61,393.26,9.9
+TXN101489,2025-02-10,Chandigarh Point,North,Grocery,Corporate,Online,2,29.2,2340.02,-227.01,-9.7
+TXN101490,2025-07-05,Surat Point,West,Grocery,Consumer,Store,2,10.9,3227.1,255.31,7.9
+TXN101491,2025-04-11,Indore Plaza,Central,Beauty & Personal Care,Corporate,Store,3,6.9,7533.92,1451.52,19.3
+TXN101492,2025-06-28,Delhi Central,North,Furniture,Consumer,Store,2,10.1,11729.95,358.61,3.1
+TXN101493,2025-01-11,Ahmedabad Hub,West,Grocery,Corporate,Online,4,17.8,6144.03,-42.22,-0.7
+TXN101494,2025-05-02,Delhi Central,North,Electronics,Corporate,Online,1,5.7,14658.86,2009.73,13.7
+TXN101495,2025-05-30,Kolkata Central,East,Grocery,Small Business,Store,3,0.7,4760.58,470.65,9.9
+TXN101496,2025-06-07,Ahmedabad Hub,West,Home & Kitchen,Corporate,Store,8,6.1,49932.48,8522.81,17.1
+TXN101497,2025-07-21,Kochi Point,South,Furniture,Consumer,Online,1,20.7,7065.47,162.31,2.3
+TXN101498,2025-10-12,Noida Hub,North,Apparel,Consumer,Store,4,11.7,10888.66,1613.85,14.8
+TXN101499,2025-06-20,Bhubaneswar Plaza,East,Grocery,Consumer,Store,2,13.3,2032.43,46.03,2.3
+TXN101500,2025-11-04,Bhopal Central,Central,Electronics,Corporate,Store,1,3.7,12221.9,1645.6,13.5
+TXN101501,2025-07-13,Chennai Central,South,Beauty & Personal Care,Consumer,Store,3,1.8,4591.05,986.99,21.5
+TXN101502,2025-04-06,Delhi Central,North,Grocery,Consumer,Store,1,3.9,1761.43,155.01,8.8
+TXN101503,2025-03-25,Jaipur Plaza,North,Home & Kitchen,Small Business,Online,5,11.8,23252.04,3609.72,15.5
+TXN101504,2025-04-28,Bhubaneswar Plaza,East,Grocery,Consumer,Online,2,13.3,2305.11,15.84,0.7
+TXN101505,2025-08-07,Kolkata Central,East,Beauty & Personal Care,Consumer,Store,2,1.7,5718.33,1255.91,22.0
+TXN101506,2025-03-30,Pune Plaza,West,Grocery,Corporate,Online,6,12.8,12299.65,263.94,2.1
+TXN101507,2025-11-30,Surat Point,West,Grocery,Consumer,Online,2,15.2,4419.75,55.02,1.2
+TXN101508,2025-06-25,Bhopal Central,Central,Home & Kitchen,Small Business,Store,1,25.0,3506.75,392.02,11.2
+TXN101509,2025-11-12,Mumbai Central,West,Grocery,Premium,Store,1,7.6,2569.77,310.74,12.1
+TXN101510,2025-09-07,Bengaluru Square,South,Grocery,Premium,Store,3,3.0,5464.89,-103.51,-1.9
+TXN101511,2025-05-02,Guwahati Hub,East,Beauty & Personal Care,Consumer,Store,4,6.7,6668.56,1468.9,22.0
+TXN101512,2025-03-25,Chennai Central,South,Apparel,Consumer,Store,1,9.5,1112.16,-197.8,-17.8
+TXN101513,2025-09-29,Bengaluru Square,South,Apparel,Corporate,Online,1,26.2,2927.16,249.11,8.5
+TXN101514,2025-05-01,Nagpur Hub,Central,Apparel,Corporate,Store,5,4.6,16526.08,3946.47,23.9
+TXN101515,2025-04-01,Mumbai Central,West,Home & Kitchen,Corporate,Store,3,20.7,13450.38,1809.81,13.5
+TXN101516,2025-12-06,Indore Plaza,Central,Home & Kitchen,Consumer,Store,3,8.4,11832.87,1242.69,10.5
+TXN101517,2025-06-26,Bengaluru Square,South,Apparel,Consumer,Online,2,11.9,3153.31,586.38,18.6
+TXN101518,2025-01-18,Guwahati Hub,East,Grocery,Consumer,Online,6,8.1,9382.16,1098.56,11.7
+TXN101519,2025-06-30,Guwahati Hub,East,Electronics,Consumer,Store,3,36.7,13093.52,-1336.5,-10.2
+TXN101520,2025-06-18,Chandigarh Point,North,Apparel,Consumer,Online,2,7.8,3435.45,695.87,20.3
+TXN101521,2025-11-12,Chennai Central,South,Home & Kitchen,Premium,Online,3,1.8,29098.03,5768.38,19.8
+TXN101522,2025-09-17,Kolkata Central,East,Grocery,Consumer,Store,2,10.8,2374.72,136.03,5.7
+TXN101523,2025-03-11,Chandigarh Point,North,Furniture,Corporate,Store,1,13.5,11540.13,693.22,6.0
+TXN101524,2025-02-24,Nagpur Hub,Central,Furniture,Premium,Online,2,9.5,25389.58,1707.72,6.7
+TXN101525,2025-08-09,Delhi Central,North,Grocery,Consumer,Online,1,5.5,1324.75,108.7,8.2
+TXN101526,2025-01-18,Jaipur Plaza,North,Home & Kitchen,Corporate,Online,4,14.6,25615.27,1896.19,7.4
+TXN101527,2025-04-27,Surat Point,West,Furniture,Small Business,Store,4,24.9,48471.53,423.64,0.9
+TXN101528,2025-02-20,Jaipur Plaza,North,Apparel,Consumer,Store,2,4.0,4557.67,902.37,19.8
+TXN101529,2025-01-08,Indore Plaza,Central,Home & Kitchen,Corporate,Online,2,6.2,11316.12,2054.9,18.2
+TXN101530,2025-12-02,Mumbai Central,West,Beauty & Personal Care,Small Business,Online,7,12.6,17458.53,4378.69,25.1
+TXN101531,2025-02-02,Delhi Central,North,Electronics,Small Business,Online,2,14.2,19222.7,-1683.71,-8.8
+TXN101532,2025-01-04,Mumbai Central,West,Beauty & Personal Care,Small Business,Online,6,18.0,11581.82,2532.02,21.9
+TXN101533,2025-12-07,Mumbai Central,West,Apparel,Premium,Online,7,4.2,41769.63,10447.02,25.0
+TXN101534,2025-03-10,Surat Point,West,Home & Kitchen,Consumer,Store,1,12.1,3422.37,470.13,13.7
+TXN101535,2025-10-26,Ahmedabad Hub,West,Electronics,Small Business,Online,1,9.6,8560.73,1079.54,12.6
+TXN101536,2025-01-12,Surat Point,West,Grocery,Corporate,Online,2,10.8,4452.78,39.43,0.9
+TXN101537,2025-02-26,Kolkata Central,East,Apparel,Corporate,Store,6,19.4,20855.14,2006.88,9.6
+TXN101538,2025-02-10,Kochi Point,South,Grocery,Small Business,Store,1,10.0,1094.76,77.58,7.1
+TXN101539,2025-09-15,Mumbai Central,West,Grocery,Small Business,Online,4,2.6,7743.36,522.38,6.7
+TXN101540,2025-08-15,Nagpur Hub,Central,Apparel,Small Business,Online,7,19.2,13563.79,1505.99,11.1
+TXN101541,2025-06-23,Kolkata Central,East,Apparel,Consumer,Online,2,2.5,5347.12,983.31,18.4
+TXN101542,2025-03-30,Mumbai Central,West,Electronics,Corporate,Online,1,8.9,12661.89,1587.69,12.5
+TXN101543,2025-02-02,Kolkata Central,East,Grocery,Consumer,Store,1,17.7,2465.43,75.08,3.0
+TXN101544,2025-07-27,Surat Point,West,Furniture,Corporate,Online,4,13.0,49699.34,3000.13,6.0
+TXN101545,2025-03-26,Bhopal Central,Central,Beauty & Personal Care,Small Business,Store,2,3.3,6065.1,-815.55,-13.4
+TXN101546,2025-08-04,Noida Hub,North,Beauty & Personal Care,Small Business,Store,7,7.3,22663.1,5726.48,25.3
+TXN101547,2025-09-08,Noida Hub,North,Grocery,Consumer,Online,4,13.8,5899.35,80.9,1.4
+TXN101548,2025-11-07,Guwahati Hub,East,Furniture,Corporate,Online,2,8.6,29081.06,2093.66,7.2
+TXN101549,2025-06-30,Bhubaneswar Plaza,East,Furniture,Consumer,Online,1,16.8,7995.84,146.05,1.8
+TXN101550,2025-01-02,Kolkata Central,East,Grocery,Consumer,Online,1,13.8,997.85,-0.79,-0.1
+TXN101551,2025-04-13,Noida Hub,North,Home & Kitchen,Consumer,Store,4,7.1,20913.4,3317.59,15.9
+TXN101552,2025-11-08,Chennai Central,South,Grocery,Premium,Online,2,9.0,4181.52,181.72,4.3
+TXN101553,2025-07-14,Guwahati Hub,East,Electronics,Consumer,Store,6,17.7,35433.16,1754.51,5.0
+TXN101554,2025-08-14,Guwahati Hub,East,Electronics,Premium,Store,2,19.4,19005.12,59.66,0.3
+TXN101555,2025-06-17,Mumbai Central,West,Furniture,Consumer,Store,8,14.8,48851.01,-657.72,-1.3
+TXN101556,2025-03-01,Surat Point,West,Home & Kitchen,Small Business,Store,3,16.4,16594.69,2143.14,12.9
+TXN101557,2025-11-24,Mumbai Central,West,Apparel,Corporate,Store,2,9.4,10896.13,2346.71,21.5
+TXN101558,2025-10-10,Ahmedabad Hub,West,Apparel,Small Business,Store,1,0.4,3069.8,776.57,25.3
+TXN101559,2025-12-30,Pune Plaza,West,Grocery,Corporate,Store,3,5.6,9186.25,347.02,3.8
+TXN101560,2025-11-09,Kolkata Central,East,Beauty & Personal Care,Small Business,Online,5,0.6,7520.45,1755.41,23.3
+TXN101561,2025-04-17,Pune Plaza,West,Grocery,Premium,Online,4,8.6,9355.15,352.51,3.8
+TXN101562,2025-04-03,Noida Hub,North,Home & Kitchen,Corporate,Store,1,2.3,5215.5,1157.35,22.2
+TXN101563,2025-04-01,Kochi Point,South,Beauty & Personal Care,Consumer,Online,3,2.4,5891.65,1480.05,25.1
+TXN101564,2025-12-02,Guwahati Hub,East,Grocery,Consumer,Store,4,6.6,5539.61,413.02,7.5
+TXN101565,2025-07-23,Nagpur Hub,Central,Beauty & Personal Care,Small Business,Store,3,24.6,4379.5,634.51,14.5
+TXN101566,2025-06-15,Pune Plaza,West,Furniture,Corporate,Store,6,19.8,67769.68,1978.45,2.9
+TXN101567,2025-12-20,Jaipur Plaza,North,Apparel,Corporate,Store,2,9.7,6965.32,1476.98,21.2
+TXN101568,2025-08-09,Bhubaneswar Plaza,East,Electronics,Corporate,Online,2,14.6,26139.89,2387.23,9.1
+TXN101569,2025-11-28,Kochi Point,South,Grocery,Consumer,Store,2,6.6,2826.01,7.76,0.3
+TXN101570,2025-12-26,Ahmedabad Hub,West,Furniture,Small Business,Online,3,21.1,73542.99,1543.7,2.1
+TXN101571,2025-01-29,Pune Plaza,West,Electronics,Small Business,Store,1,1.2,8808.56,1333.88,15.1
+TXN101572,2025-05-12,Bhubaneswar Plaza,East,Electronics,Small Business,Store,2,9.6,17993.26,1300.43,7.2
+TXN101573,2025-09-25,Bhubaneswar Plaza,East,Grocery,Small Business,Online,2,12.5,3126.78,234.9,7.5
+TXN101574,2025-10-24,Hyderabad Hub,South,Apparel,Small Business,Store,2,6.9,6033.16,1126.36,18.7
+TXN101575,2025-02-24,Guwahati Hub,East,Grocery,Corporate,Online,2,10.0,4219.27,127.44,3.0
+TXN101576,2025-04-27,Indore Plaza,Central,Grocery,Premium,Store,7,11.2,15630.98,1009.84,6.5
+TXN101577,2025-07-20,Surat Point,West,Beauty & Personal Care,Consumer,Store,4,1.6,7334.3,1841.2,25.1
+TXN101578,2025-10-19,Guwahati Hub,East,Beauty & Personal Care,Corporate,Store,4,24.2,11320.12,1043.06,9.2
+TXN101579,2025-02-11,Chennai Central,South,Electronics,Small Business,Store,6,2.4,45811.87,4603.39,10.0
+TXN101580,2025-08-08,Chandigarh Point,North,Grocery,Corporate,Store,1,18.7,1314.89,-65.49,-5.0
+TXN101581,2025-04-19,Delhi Central,North,Apparel,Consumer,Store,2,13.0,5137.09,662.35,12.9
+TXN101582,2025-03-20,Chandigarh Point,North,Home & Kitchen,Corporate,Store,3,3.7,19808.14,4042.39,20.4
+TXN101583,2025-07-08,Chennai Central,South,Grocery,Consumer,Store,2,2.6,3016.14,130.76,4.3
+TXN101584,2025-06-01,Indore Plaza,Central,Home & Kitchen,Premium,Store,2,3.3,11301.83,1352.51,12.0
+TXN101585,2025-08-21,Kolkata Central,East,Electronics,Consumer,Store,2,4.6,13761.24,1663.4,12.1
+TXN101586,2025-04-26,Chennai Central,South,Grocery,Consumer,Store,2,5.0,3839.56,159.85,4.2
+TXN101587,2025-10-28,Noida Hub,North,Home & Kitchen,Corporate,Online,2,22.0,10507.6,925.19,8.8
+TXN101588,2025-01-29,Hyderabad Hub,South,Apparel,Consumer,Online,4,4.9,7260.76,1957.25,27.0
+TXN101589,2025-11-11,Mumbai Central,West,Home & Kitchen,Consumer,Online,4,4.6,15815.03,3147.74,19.9
+TXN101590,2025-01-11,Kochi Point,South,Electronics,Corporate,Online,4,4.7,67822.06,13464.32,19.9
+TXN101591,2025-09-26,Surat Point,West,Furniture,Corporate,Store,4,23.1,42296.29,-1064.21,-2.5
+TXN101592,2025-05-07,Ahmedabad Hub,West,Electronics,Consumer,Online,3,2.3,30990.38,6071.39,19.6
+TXN101593,2025-05-20,Jaipur Plaza,North,Furniture,Corporate,Store,4,22.9,67701.57,-2558.16,-3.8
+TXN101594,2025-01-07,Ahmedabad Hub,West,Electronics,Corporate,Online,1,23.2,10894.0,379.87,3.5
+TXN101595,2025-09-14,Bhopal Central,Central,Grocery,Small Business,Online,3,5.9,3665.83,167.36,4.6
+TXN101596,2025-03-02,Hyderabad Hub,South,Grocery,Consumer,Store,1,16.4,916.78,-32.45,-3.5
+TXN101597,2025-08-29,Delhi Central,North,Apparel,Consumer,Store,1,7.8,3886.7,695.99,17.9
+TXN101598,2025-09-22,Nagpur Hub,Central,Grocery,Premium,Store,2,3.3,3244.01,-30.32,-0.9
+TXN101599,2025-11-05,Bhopal Central,Central,Electronics,Corporate,Store,3,11.8,30461.92,2665.31,8.7
+TXN101600,2025-09-16,Guwahati Hub,East,Apparel,Consumer,Store,1,14.1,2187.36,264.12,12.1
+TXN101601,2025-04-21,Guwahati Hub,East,Electronics,Small Business,Store,3,15.2,22063.44,1341.67,6.1
+TXN101602,2025-09-27,Delhi Central,North,Home & Kitchen,Consumer,Online,4,7.8,18436.63,2405.08,13.0
+TXN101603,2025-10-29,Ahmedabad Hub,West,Electronics,Small Business,Online,5,1.1,42746.85,8247.83,19.3
+TXN101604,2025-04-26,Bhubaneswar Plaza,East,Apparel,Small Business,Store,6,1.3,14525.99,3656.97,25.2
+TXN101605,2025-02-15,Noida Hub,North,Beauty & Personal Care,Premium,Store,2,5.4,6782.59,1991.07,29.4
+TXN101606,2025-11-21,Ahmedabad Hub,West,Apparel,Premium,Store,2,16.7,10999.6,2175.7,19.8
+TXN101607,2025-02-23,Nagpur Hub,Central,Apparel,Consumer,Store,3,5.2,5360.94,1096.17,20.4
+TXN101608,2025-08-05,Mumbai Central,West,Apparel,Small Business,Online,1,9.1,2185.2,406.98,18.6
+TXN101609,2025-03-28,Kochi Point,South,Electronics,Consumer,Store,3,6.9,27219.03,3517.98,12.9
+TXN101610,2025-02-15,Chandigarh Point,North,Apparel,Corporate,Store,1,5.2,2124.22,413.4,19.5
+TXN101611,2025-10-11,Indore Plaza,Central,Beauty & Personal Care,Corporate,Store,4,7.0,14299.94,2441.64,17.1
+TXN101612,2025-02-22,Indore Plaza,Central,Beauty & Personal Care,Consumer,Online,4,10.8,6187.51,1589.49,25.7
+TXN101613,2025-09-02,Bhubaneswar Plaza,East,Grocery,Consumer,Store,2,1.7,2086.08,139.77,6.7
+TXN101614,2025-09-10,Mumbai Central,West,Grocery,Consumer,Online,4,3.6,4597.27,189.92,4.1
+TXN101615,2025-01-22,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,3,16.5,7001.02,523.87,7.5
+TXN101616,2025-03-05,Kochi Point,South,Apparel,Consumer,Online,1,2.5,1632.44,379.17,23.2
+TXN101617,2025-10-17,Delhi Central,North,Furniture,Premium,Store,1,16.0,19997.46,268.33,1.3
+TXN101618,2025-07-05,Jaipur Plaza,North,Furniture,Corporate,Online,3,9.8,30890.45,1895.01,6.1
+TXN101619,2025-02-14,Hyderabad Hub,South,Furniture,Small Business,Store,1,5.9,13523.97,1403.21,10.4
+TXN101620,2025-12-28,Surat Point,West,Grocery,Small Business,Store,2,9.1,4486.65,-30.5,-0.7
+TXN101621,2025-04-07,Noida Hub,North,Furniture,Small Business,Online,4,17.3,56406.78,1029.79,1.8
+TXN101622,2025-01-02,Chennai Central,South,Electronics,Consumer,Store,3,2.8,27014.7,2895.36,10.7
+TXN101623,2025-12-04,Bhubaneswar Plaza,East,Electronics,Small Business,Store,3,12.7,38643.89,4083.81,10.6
+TXN101624,2025-01-07,Chandigarh Point,North,Beauty & Personal Care,Small Business,Store,1,3.7,2949.18,686.24,23.3
+TXN101625,2025-07-21,Chandigarh Point,North,Electronics,Small Business,Online,1,10.7,9711.97,,9.7
+TXN101626,2025-12-29,Bhubaneswar Plaza,East,Electronics,Premium,Store,1,12.3,14444.86,1470.36,10.2
+TXN101627,2025-07-30,Kochi Point,South,Grocery,Corporate,Store,4,9.2,5931.27,499.62,8.4
+TXN101628,2025-08-02,Ahmedabad Hub,West,Furniture,Corporate,Store,5,16.5,50703.62,2664.96,5.3
+TXN101629,2025-05-22,Indore Plaza,Central,Beauty & Personal Care,Small Business,Store,1,1.4,2936.47,613.25,20.9
+TXN101630,2025-02-16,Delhi Central,North,Beauty & Personal Care,Consumer,Store,1,1.5,2096.32,591.79,28.2
+TXN101631,2025-07-29,Indore Plaza,Central,Grocery,Small Business,Online,2,2.3,3514.08,387.76,11.0
+TXN101632,2025-11-24,Indore Plaza,Central,Grocery,Consumer,Store,5,5.9,6303.71,356.14,5.6
+TXN101633,2025-02-03,Surat Point,West,Grocery,Consumer,Online,2,18.5,3763.18,10.82,0.3
+TXN101634,2025-11-18,Ahmedabad Hub,West,Electronics,Corporate,Online,1,9.9,13373.77,2123.75,15.9
+TXN101635,2025-06-01,Mumbai Central,West,Grocery,Consumer,Online,1,4.4,1141.74,141.62,12.4
+TXN101636,2025-07-15,Ahmedabad Hub,West,Electronics,Premium,Online,3,2.6,38269.54,7291.21,19.1
+TXN101637,2025-03-02,Ahmedabad Hub,West,Electronics,Consumer,Store,3,26.0,33126.82,43.92,0.1
+TXN101638,2025-08-15,Noida Hub,North,Apparel,Small Business,Store,1,7.0,2006.94,544.1,27.1
+TXN101639,2025-03-08,Indore Plaza,Central,Electronics,Consumer,Online,2,2.1,12950.19,1918.11,14.8
+TXN101640,2025-04-10,Guwahati Hub,East,Electronics,Premium,Store,2,6.1,54485.37,2897.16,5.3
+TXN101641,2025-09-21,Ahmedabad Hub,West,Grocery,Consumer,Store,2,12.4,3653.58,32.97,0.9
+TXN101642,2025-01-19,Hyderabad Hub,South,Grocery,Consumer,Store,4,11.6,3948.28,99.86,2.5
+TXN101643,2025-06-13,Noida Hub,North,Electronics,Consumer,Store,1,16.2,5365.34,538.62,10.0
+TXN101644,2025-08-06,Kolkata Central,East,Electronics,Corporate,Store,4,7.9,24086.9,1870.16,7.8
+TXN101645,2025-02-18,Bhubaneswar Plaza,East,Furniture,Premium,Store,1,12.5,13614.65,539.82,4.0
+TXN101646,2025-04-18,Guwahati Hub,East,Furniture,Premium,Store,2,14.9,33237.37,-694.57,-2.1
+TXN101647,2025-05-06,Hyderabad Hub,South,Home & Kitchen,Consumer,Store,1,5.2,6228.48,1310.06,21.0
+TXN101648,2025-08-31,Hyderabad Hub,South,Beauty & Personal Care,Corporate,Online,1,14.3,1322.99,275.92,20.9
+TXN101649,2025-12-23,Kolkata Central,East,Grocery,Consumer,Store,4,4.0,3839.84,203.54,5.3
+TXN101650,2025-11-02,Kochi Point,South,Grocery,Corporate,Store,2,12.6,4057.15,370.0,9.1
+TXN101651,2025-03-11,Bhopal Central,Central,Home & Kitchen,Corporate,Store,1,23.6,8425.37,808.42,9.6
+TXN101652,2025-01-07,Chandigarh Point,North,Apparel,Consumer,Store,5,15.1,12767.93,1342.65,10.5
+TXN101653,2025-01-19,Chennai Central,South,Furniture,Corporate,Store,3,14.4,41032.53,741.72,1.8
+TXN101654,2025-08-06,Kochi Point,South,Electronics,Small Business,Store,3,6.2,21624.61,4587.33,21.2
+TXN101655,2025-02-27,Guwahati Hub,East,Grocery,Consumer,Store,1,5.4,616.05,70.81,11.5
+TXN101656,2025-03-26,Guwahati Hub,East,Apparel,Consumer,Store,7,2.6,15059.01,3331.66,22.1
+TXN101657,2025-11-06,Surat Point,West,Electronics,Consumer,Store,3,9.7,30876.84,934.89,3.0
+TXN101658,2025-11-15,Indore Plaza,Central,Grocery,Consumer,Store,5,7.4,6793.58,651.52,9.6
+TXN101659,2025-11-03,Kochi Point,South,Grocery,Consumer,Store,7,15.6,9450.45,-224.57,-2.4
+TXN101660,2025-04-03,Mumbai Central,West,Furniture,Corporate,Store,3,6.5,36787.23,3644.41,9.9
+TXN101661,2025-08-15,Delhi Central,North,Grocery,Consumer,Online,4,6.4,3999.61,201.15,5.0
+TXN101662,2025-08-11,Hyderabad Hub,South,Apparel,Small Business,Store,3,10.2,12161.49,2298.56,18.9
+TXN101663,2025-03-09,Guwahati Hub,East,Grocery,Small Business,Online,3,8.3,3110.92,112.4,3.6
+TXN101664,2025-07-22,Chandigarh Point,North,Furniture,Premium,Store,3,13.4,42027.97,661.92,1.6
+TXN101665,2025-07-11,Ahmedabad Hub,West,Electronics,Corporate,Online,1,6.3,11661.32,1841.64,15.8
+TXN101666,2025-05-25,Ahmedabad Hub,West,Home & Kitchen,Consumer,Store,6,5.0,31220.18,3988.26,12.8
+TXN101667,2025-10-02,Ahmedabad Hub,West,Grocery,Consumer,Store,7,15.7,8155.94,658.36,8.1
+TXN101668,2025-09-05,Guwahati Hub,East,Electronics,Consumer,Online,5,10.4,47873.72,3154.05,6.6
+TXN101669,2025-07-14,Surat Point,West,Furniture,Premium,Store,2,16.9,26847.16,-603.51,-2.2
+TXN101670,2025-09-22,Bengaluru Square,South,Home & Kitchen,Premium,Store,1,16.5,5822.51,725.02,12.5
+TXN101671,2025-10-06,Jaipur Plaza,North,Home & Kitchen,Consumer,Online,4,6.6,27593.86,6320.04,22.9
+TXN101672,2025-07-26,Noida Hub,North,Home & Kitchen,Consumer,Store,3,10.4,8063.69,1042.73,12.9
+TXN101673,2025-04-08,Surat Point,West,Apparel,Corporate,Online,6,6.2,25468.43,4561.69,17.9
+TXN101674,2025-10-04,Indore Plaza,Central,Grocery,Consumer,Online,5,15.5,8344.37,-110.66,-1.3
+TXN101675,2025-09-19,Chandigarh Point,North,Grocery,Premium,Online,3,0.4,7928.33,607.14,7.7
+TXN101676,2025-12-25,Bhubaneswar Plaza,East,Furniture,Consumer,Store,4,6.7,40721.9,2478.15,6.1
+TXN101677,2025-02-24,Ahmedabad Hub,West,Apparel,Consumer,Store,1,11.0,4201.52,690.33,16.4
+TXN101678,2025-06-03,Mumbai Central,West,Apparel,Consumer,Store,3,14.7,6771.11,1073.01,15.8
+TXN101679,2025-12-04,Guwahati Hub,East,Electronics,Consumer,Store,4,10.1,34735.32,3206.02,9.2
+TXN101680,2025-07-07,Mumbai Central,West,Beauty & Personal Care,Consumer,Store,2,9.3,3257.39,802.08,24.6
+TXN101681,2025-12-11,Pune Plaza,West,Grocery,Small Business,Store,3,8.6,6072.65,164.1,2.7
+TXN101682,2025-01-05,Nagpur Hub,Central,Electronics,Consumer,Store,3,12.3,26431.37,1396.37,5.3
+TXN101683,2025-01-13,Chandigarh Point,North,Grocery,Corporate,Store,3,8.9,4507.95,204.1,4.5
+TXN101684,2025-10-18,Indore Plaza,Central,Home & Kitchen,Consumer,Online,5,12.1,10489.64,1555.29,14.8
+TXN101685,2025-05-11,Noida Hub,North,Beauty & Personal Care,Consumer,Online,2,12.9,3842.32,861.09,22.4
+TXN101686,2025-07-09,Mumbai Central,West,Grocery,Consumer,Store,3,12.7,2865.45,-24.78,-0.9
+TXN101687,2025-06-06,Chandigarh Point,North,Beauty & Personal Care,Consumer,Store,3,13.4,5867.7,1258.62,21.4
+TXN101688,2025-05-29,Delhi Central,North,Home & Kitchen,Consumer,Online,2,6.8,7712.01,1093.89,14.2
+TXN101689,2025-12-09,Delhi Central,North,Home & Kitchen,Consumer,Store,1,8.5,5699.99,778.68,13.7
+TXN101690,2025-02-04,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,3,6.6,8634.69,1545.42,17.9
+TXN101691,2025-10-09,Bengaluru Square,South,Grocery,Small Business,Online,2,8.5,3117.72,71.32,2.3
+TXN101692,2025-11-21,Delhi Central,North,Home & Kitchen,Premium,Online,3,1.4,21954.6,5554.22,25.3
+TXN101693,2025-08-28,Bhubaneswar Plaza,East,Apparel,Consumer,Online,1,8.7,1317.04,176.05,13.4
+TXN101694,2025-05-25,Hyderabad Hub,South,Home & Kitchen,Small Business,Store,1,12.9,6028.22,419.55,7.0
+TXN101695,2025-02-28,Pune Plaza,West,Furniture,Corporate,Store,4,16.5,32570.29,-1061.75,-3.3
+TXN101696,2025-09-07,Nagpur Hub,Central,Home & Kitchen,Consumer,Store,3,13.4,13891.92,1753.28,12.6
+TXN101697,2025-06-21,Ahmedabad Hub,West,Beauty & Personal Care,Consumer,Online,1,10.5,2009.8,513.75,25.6
+TXN101698,2025-02-24,Delhi Central,North,Grocery,Corporate,Store,2,13.7,2969.38,163.61,5.5
+TXN101699,2025-05-12,Hyderabad Hub,South,Beauty & Personal Care,Small Business,Online,4,3.5,9944.21,3137.67,31.6
+TXN101700,2025-12-17,Indore Plaza,Central,Grocery,Corporate,Store,5,19.6,9066.43,30.74,0.3
+TXN101701,2025-04-07,Chandigarh Point,North,Furniture,Consumer,Store,2,4.5,18834.01,896.78,4.8
+TXN101702,2025-03-07,Bengaluru Square,South,Electronics,Premium,Store,1,16.3,13781.3,337.66,2.5
+TXN101703,2025-09-06,Bhopal Central,Central,Home & Kitchen,Consumer,Store,3,0.6,14379.55,3286.69,22.9
+TXN101704,2025-03-14,Bhopal Central,Central,Apparel,Premium,Store,2,20.3,4650.38,738.4,15.9
+TXN101705,2025-12-02,Chennai Central,South,Grocery,Small Business,Online,3,11.5,5937.02,44.31,0.7
+TXN101706,2025-11-10,Surat Point,West,Apparel,Small Business,Store,1,8.9,1704.92,383.84,22.5
+TXN101707,2025-12-25,Guwahati Hub,East,Grocery,Small Business,Online,2,9.6,1802.05,-18.45,-1.0
+TXN101708,2025-11-30,Ahmedabad Hub,West,Grocery,Consumer,Online,2,8.7,3979.82,297.02,7.5
+TXN101709,2025-03-30,Jaipur Plaza,North,Home & Kitchen,Corporate,Store,5,1.9,23883.54,4522.55,18.9
+TXN101710,2025-03-19,Chandigarh Point,North,Apparel,Small Business,Store,2,8.1,4262.47,756.99,17.8
+TXN101711,2025-05-06,Pune Plaza,West,Home & Kitchen,Small Business,Online,1,11.3,4633.85,722.11,15.6
+TXN101712,2025-06-21,Bengaluru Square,South,Apparel,Consumer,Store,2,20.7,3606.47,277.17,7.7
+TXN101713,2025-11-18,Mumbai Central,West,Beauty & Personal Care,Consumer,Store,3,8.9,5139.79,1208.82,23.5
+TXN101714,2025-09-25,Chennai Central,South,Furniture,Consumer,Store,2,10.0,13542.97,611.47,4.5
+TXN101715,2025-08-24,Indore Plaza,Central,Furniture,Corporate,Store,3,5.8,22170.13,2035.32,9.2
+TXN101716,2025-11-17,Pune Plaza,West,Electronics,Corporate,Online,5,6.8,90635.74,17071.14,18.8
+TXN101717,2025-08-24,Bhubaneswar Plaza,East,Apparel,Small Business,Store,3,8.0,6320.36,1056.43,16.7
+TXN101718,2025-05-19,Pune Plaza,West,Apparel,Small Business,Online,3,12.2,11281.47,1701.28,15.1
+TXN101719,2025-05-31,Kochi Point,South,Home & Kitchen,Small Business,Online,2,4.2,8600.88,1366.2,15.9
+TXN101720,2025-07-08,Guwahati Hub,East,Grocery,Consumer,Store,3,16.5,3297.99,151.77,4.6
+TXN101721,2025-02-02,Delhi Central,North,Electronics,Corporate,Store,2,11.1,19666.82,2775.7,14.1
+TXN101722,2025-09-28,Bhopal Central,Central,Apparel,Consumer,Online,4,7.0,9116.9,2215.05,24.3
+TXN101723,2025-08-27,Mumbai Central,West,Beauty & Personal Care,Consumer,Store,1,15.9,1756.36,313.86,17.9
+TXN101724,2025-09-24,Nagpur Hub,Central,Grocery,Consumer,Store,5,7.4,5562.95,432.91,7.8
+TXN101725,2025-07-14,Indore Plaza,Central,Furniture,Consumer,Store,1,20.2,5530.29,160.8,2.9
+TXN101726,2025-10-13,Nagpur Hub,Central,Furniture,Consumer,Online,6,14.2,73980.81,1548.51,2.1
+TXN101727,2025-12-13,Hyderabad Hub,South,Grocery,Corporate,Store,3,10.4,9758.61,310.58,3.2
+TXN101728,2025-07-28,Indore Plaza,Central,Furniture,Consumer,Online,1,11.0,13841.27,315.68,2.3
+TXN101729,2025-06-12,Kolkata Central,East,Grocery,Consumer,Online,2,,2018.62,172.93,8.6
+TXN101730,2025-02-08,Bhubaneswar Plaza,East,Apparel,Consumer,Online,1,2.0,1672.61,436.22,26.1
+TXN101731,2025-10-12,Kolkata Central,East,Grocery,Corporate,Online,3,9.6,4430.64,364.36,8.2
+TXN101732,2025-11-26,Hyderabad Hub,South,Grocery,Corporate,Online,1,11.0,2035.2,105.25,5.2
+TXN101733,2025-09-13,Chennai Central,South,Electronics,Consumer,Online,1,4.4,9080.56,485.44,5.3
+TXN101734,2025-11-12,Chennai Central,South,Beauty & Personal Care,Consumer,Store,1,11.6,1586.07,286.03,18.0
+TXN101735,2025-11-11,Delhi Central,North,Grocery,Premium,Store,1,2.0,1831.11,158.37,8.6
+TXN101736,2025-10-19,Guwahati Hub,East,Grocery,Corporate,Online,1,8.0,1779.68,90.74,5.1
+TXN101737,2025-07-03,Nagpur Hub,Central,Electronics,Small Business,Store,3,11.3,9249.28,796.55,8.6
+TXN101738,2025-02-06,Pune Plaza,West,Apparel,Corporate,Online,4,11.7,12067.58,2303.47,19.1
+TXN101739,2025-01-02,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,3,5.6,8554.38,1139.84,13.3
+TXN101740,2025-03-16,Guwahati Hub,East,Electronics,Small Business,Store,3,9.5,30847.15,2609.74,8.5
+TXN101741,2025-06-07,Bhubaneswar Plaza,East,Electronics,Consumer,Store,1,3.3,9833.48,1121.36,11.4
+TXN101742,2025-09-29,Jaipur Plaza,North,Electronics,Small Business,Online,3,13.9,38171.87,2442.93,6.4
+TXN101743,2025-06-16,Pune Plaza,West,Apparel,Consumer,Store,1,12.2,2117.13,473.84,22.4
+TXN101744,2025-01-09,Jaipur Plaza,North,Beauty & Personal Care,Corporate,Store,2,9.0,3147.63,638.21,20.3
+TXN101745,2025-03-18,Ahmedabad Hub,West,Grocery,Consumer,Store,2,3.2,2351.58,-8.47,-0.4
+TXN101746,2025-12-24,Ahmedabad Hub,West,Grocery,Consumer,Store,2,6.7,3640.09,421.46,11.6
+TXN101747,2025-12-27,Bhubaneswar Plaza,East,Home & Kitchen,Premium,Store,5,18.4,17793.13,964.6,5.4
+TXN101748,2025-05-18,Indore Plaza,Central,Home & Kitchen,Small Business,Online,4,3.0,25838.35,6152.44,23.8
+TXN101749,2025-10-21,Bengaluru Square,South,Furniture,Consumer,Store,1,11.1,10567.01,193.05,1.8
+TXN101750,2025-09-20,Nagpur Hub,Central,Furniture,Premium,Online,3,3.8,57998.49,6258.28,10.8
+TXN101751,2025-12-06,Surat Point,West,Grocery,Consumer,Store,3,15.0,2788.46,1.4,0.1
+TXN101752,2025-11-20,Mumbai Central,West,Home & Kitchen,,Store,4,13.8,14310.23,2213.38,15.5
+TXN101753,2025-08-18,Pune Plaza,West,Apparel,Small Business,Store,2,6.0,3528.53,671.55,19.0
+TXN101754,2025-05-25,Nagpur Hub,Central,Apparel,Consumer,Store,3,12.5,8207.76,1102.76,13.4
+TXN101755,2025-08-17,Bhopal Central,Central,Home & Kitchen,Consumer,Online,3,13.3,9314.09,1413.09,15.2
+TXN101756,2025-04-27,Guwahati Hub,East,Furniture,Corporate,Online,4,10.7,54627.59,2185.99,4.0
+TXN101757,2025-05-08,Surat Point,West,Grocery,Consumer,Store,1,10.7,1414.68,-54.83,-3.9
+TXN101758,2025-08-11,Surat Point,West,Electronics,Consumer,Store,3,7.5,30381.38,2651.94,8.7
+TXN101759,2025-07-28,Kolkata Central,East,Home & Kitchen,Consumer,Store,1,13.5,2709.66,528.82,19.5
+TXN101760,2025-08-01,Indore Plaza,Central,Apparel,Small Business,Store,2,3.6,4952.09,737.99,14.9
+TXN101761,2025-05-21,Hyderabad Hub,South,Grocery,Consumer,Store,7,13.2,8803.62,188.39,2.1
+TXN101762,2025-05-30,Guwahati Hub,East,Electronics,Consumer,Online,3,5.1,25164.27,2987.14,11.9
+TXN101763,2025-01-04,Delhi Central,North,Home & Kitchen,Small Business,Store,4,3.5,19605.97,4857.9,24.8
+TXN101764,2025-08-08,Chennai Central,South,Home & Kitchen,Consumer,Online,1,18.5,7541.3,537.87,7.1
+TXN101765,2025-07-30,Bhopal Central,Central,Apparel,Consumer,Online,3,13.1,9327.26,1652.48,17.7
+TXN101766,2025-12-08,Kochi Point,South,Furniture,Small Business,Store,3,17.8,23676.69,562.12,2.4
+TXN101767,2025-07-04,Kochi Point,South,Beauty & Personal Care,Small Business,Store,1,9.4,1937.67,408.28,21.1
+TXN101768,2025-06-20,Bengaluru Square,South,Home & Kitchen,Consumer,Store,2,6.4,6897.35,955.16,13.8
+TXN101769,2025-01-25,Kolkata Central,East,Apparel,Small Business,Online,3,0.6,10337.08,2278.23,22.0
+TXN101770,2025-03-13,Pune Plaza,West,Apparel,Small Business,Online,4,30.3,8162.21,457.48,5.6
+TXN101771,2025-05-04,Nagpur Hub,Central,Beauty & Personal Care,Consumer,Store,2,8.5,3674.81,777.61,21.2
+TXN101772,2025-05-18,Noida Hub,North,Beauty & Personal Care,Small Business,Store,4,9.2,4254.55,1066.53,25.1
+TXN101773,2025-05-13,Kolkata Central,East,Apparel,Small Business,Online,1,7.5,1591.66,311.85,19.6
+TXN101774,2025-05-24,Kolkata Central,East,Grocery,Corporate,Online,5,8.4,13918.42,1006.99,7.2
+TXN101775,2025-10-08,Ahmedabad Hub,West,Grocery,Corporate,Online,3,3.3,6970.08,740.84,10.6
+TXN101776,2025-02-17,Bhubaneswar Plaza,East,Home & Kitchen,Small Business,Store,2,8.6,5556.35,905.73,16.3
+TXN101777,2025-05-02,Bengaluru Square,South,Apparel,Premium,Store,1,10.3,4186.71,906.71,21.7
+TXN101778,2025-03-01,Guwahati Hub,East,Electronics,Corporate,Store,4,25.2,23271.26,-92.22,-0.4
+TXN101779,2025-04-23,Bhubaneswar Plaza,East,Electronics,Small Business,Online,5,9.1,38698.19,5012.78,13.0
+TXN101780,2025-09-07,Kolkata Central,East,Beauty & Personal Care,Small Business,Store,2,11.9,2380.25,326.12,13.7
+TXN101781,2025-01-18,Guwahati Hub,East,Beauty & Personal Care,Small Business,Store,5,6.6,6800.9,927.67,13.6
+TXN101782,2025-05-04,Ahmedabad Hub,West,Beauty & Personal Care,Premium,Online,4,,10772.02,3091.31,28.7
+TXN101783,2025-01-09,Mumbai Central,West,Grocery,Consumer,Online,2,1.0,3886.78,378.11,9.7
+TXN101784,2025-12-15,Bengaluru Square,South,Home & Kitchen,Consumer,Store,2,29.3,8000.14,256.2,3.2
+TXN101785,2025-09-23,Mumbai Central,West,Home & Kitchen,Corporate,Online,4,7.5,27645.24,3753.06,13.6
+TXN101786,2025-03-30,Nagpur Hub,Central,Grocery,Consumer,Store,3,10.2,3466.67,-43.96,-1.3
+TXN101787,2025-03-14,Jaipur Plaza,North,Electronics,Corporate,Store,1,21.9,11730.83,-69.46,-0.6
+TXN101788,2025-02-06,Guwahati Hub,East,Beauty & Personal Care,Small Business,Store,1,11.3,1288.31,257.64,20.0
+TXN101789,2025-06-22,Hyderabad Hub,South,Electronics,Premium,Store,1,3.2,11702.43,1369.27,11.7
+TXN101790,2025-10-03,Pune Plaza,West,Apparel,Consumer,Store,2,9.9,6298.27,1018.79,16.2
+TXN101791,2025-08-02,Hyderabad Hub,South,Apparel,Small Business,Online,4,6.1,10629.83,2034.86,19.1
+TXN101792,2025-11-18,Ahmedabad Hub,West,Apparel,Consumer,Store,1,9.4,2985.16,648.85,21.7
+TXN100059,2025-09-29,Indore Plaza,Central,Home & Kitchen,Small Business,Online,3,29.6,13129.64,1166.07,8.9
+TXN101040,2025-10-29,Delhi Central,North,Beauty & Personal Care,Consumer,Online,1,3.6,2131.42,494.66,23.2
+TXN101548,2025-11-07,Guwahati Hub,East,Furniture,Corporate,Online,2,8.6,29081.06,2093.66,7.2
+TXN100814,2025-04-14,Chennai Central,South,Home & Kitchen,Corporate,Store,2,5.7,14095.34,2507.51,17.8
+TXN100373,2025-05-30,Guwahati Hub,East,Beauty & Personal Care,Premium,Store,1,4.7,3553.32,644.42,18.1
+TXN101152,2025-07-04,Bhubaneswar Plaza,East,Home & Kitchen,Consumer,Store,2,10.9,10301.24,1392.22,13.5
+TXN101317,2025-09-17,Nagpur Hub,Central,Grocery,Small Business,Store,2,13.4,3502.46,-148.62,-4.2
+TXN100411,2025-03-05,Bhubaneswar Plaza,East,Furniture,Small Business,Online,1,,5652.19,189.69,3.4
